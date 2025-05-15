@@ -1,0 +1,80 @@
+
+Universal Protein Resource (UniProt)
+====================================
+
+
+The Universal Protein Resource (UniProt), a collaboration between the European
+Bioinformatics Institute (EBI), the SIB Swiss Institute of Bioinformatics, and
+the Protein Information Resource (PIR), is comprised of three databases, each
+optimized for different uses. The UniProt Knowledgebase (UniProtKB) is the
+central access point for extensively curated protein information, including
+function, classification and cross-references. The UniProt Reference Clusters
+(UniRef) combine closely related sequences into a single record to speed up
+sequence similarity searches. The UniProt Archive (UniParc) is a comprehensive
+repository of all protein sequences, consisting only of unique identifiers and
+sequences.
+
+Pan Proteomes
+=============
+
+The current pan proteome sequences are derived from the reference proteome
+clusters (75% proteome similarity for Fungus and 55% proteome similarity for
+Archaea and Bacteria). A reference proteome cluster is also known as a
+representative proteome group (RPG) (Chen et al., 2011). A RPG contains similar
+proteomes calculated based on their co-membership in UniRef50 clusters. For each
+non-singleton reference proteome cluster, a pan proteome is a set of sequences
+consisting of all the sequences in the reference proteome, plus the addition of
+unique protein sequences that are found in other species or strains of the
+cluster but not in the reference proteome. These additional sequences are
+identified using UniRef50 membership. See http://pir.georgetown.edu/rps/pp.shtml 
+for more information.
+
+This directory 'databases/uniprot/current_release/knowledgebase/pan_proteomes'
+contains the Pan Proteome data files which are updated in conjunction with the
+UniProt Knowledgebase (UniProtKB).
+
+1. PPMembership.txt
+This is a tab-delimited two columns file with header. Column 1 are the UPIds of
+Pan Proteomes. Column 2 are the UPIds of Pan Proteome members.
+
+2. Compressed sequence files in Fasta format.
+File is named as UPxxxxxxxxx.fasta.gz, where UPxxxxxxxxx is the UPId of the Pan
+Proteome.
+
+The decription line of each Fasta record is the standard UniProt Fasta plus
+UP Id and Pan Proteome ID.
+
+Example:
+
+>sp|Q9RGZ4|MRPB_BACPE Na(+)/H(+) antiporter subunit B OS=Bacillus pseudofirmus (strain OF4) GN=mrpB PE=1 SV=1 UPId=UP000001544 PPId=UP000001544
+MKNLKSNDVLLHTLTRVVTFIILAFSVYLFFAGHNNPGGGFIGGLMTASALLLMYLGFDM
+RSIKKAIPFDFTKMIAFGLLIAIFTGFGGLLVGDPYLTQYFEYYQIPILGETELTTALPF
+DLGIYLVVIGIALTIILTIAEDDM
+
+
+3. README
+This file
+
+--------------------------------------------------------------------------------
+  LICENSE
+--------------------------------------------------------------------------------
+We have chosen to apply the Creative Commons Attribution-NoDerivs License to all
+copyrightable parts of our databases. This means that you are free to copy,
+distribute, display and make commercial use of these databases in all
+legislations, provided you give us credit. However, if you intend to distribute
+a modified version of one of our databases, you must ask us for permission
+first.
+
+(c) 2002-2018 UniProt Consortium
+
+--------------------------------------------------------------------------------
+  DISCLAIMER
+--------------------------------------------------------------------------------
+We make no warranties regarding the correctness of the data, and disclaim
+liability for damages resulting from its use. We cannot provide unrestricted
+permission regarding the use of the data, as some data may be covered by patents
+or other rights.
+
+Any medical or genetic information is provided for research, educational and
+informational purposes only. It is not in any way intended to be used as a
+substitute for professional medical advice, diagnosis, treatment or care.

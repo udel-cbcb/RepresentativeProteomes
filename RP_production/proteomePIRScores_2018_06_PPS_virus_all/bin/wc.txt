@@ -1,0 +1,6 @@
+6055329856 ../data/corrTable.txt
+2125322002 ../data/corrTableMin.txt
+4985862489 ../data/corrTableMin.txt
+7468019737 ../data/corrTableMin.txt
+6055329856 ../data/corrTableMin.txt
+6055329856 ../data/corrTable.txt

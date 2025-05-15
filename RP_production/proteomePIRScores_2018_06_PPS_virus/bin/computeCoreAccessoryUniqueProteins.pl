@@ -1,0 +1,102 @@
+if(@ARGV != 3) {
+	print "Usage: perl computeCoreAccessoryUniqueProteins.pl uniref50.dat pp.txt rpg-75.txt\n";
+	exit 1;	
+}
+
+#A0A023J2U4	UP000026903	1414741	UniRef50_D3WAC2
+open(UNIREF, $ARGV[0]) or die "Can't open $ARGV[0]\n";
+while($line=<UNIREF>) {
+	chomp($line);
+	($ac, $up, $tax, $uniref) = (split(/\t/, $line))[0, 1, 2, 3];
+	if(!$uniref_proteome{$uniref}{$up}) {	
+		$uniref_proteome{$uniref}{$up} = $ac;	
+	}
+	else {
+		$uniref_proteome{$uniref}{$up} = ",".$ac;	
+	}
+	if(!$proteome_uniref{$up}{$uniref}) {	
+		$proteome_uniref{$up}{$uniref} = $ac;	
+	}
+	else {
+		$proteome_uniref{$up}{$uniref} = ",".$ac;	
+	}
+}
+close(UNIREF);
+
+#UP000000212	55(CUTOFF)	Bac/Firmicute	K8E169	UP000000212	1234679	UniRef50_C8NI21
+#UP000000212	55(CUTOFF)	Bac/Firmicute	K8E172	UP000000212	1234679	UniRef50_Q890K1
+open(PP, $ARGV[1]) or die "Can't open $ARGV[1]\n";
+while($line=<PP>) {
+	($pp) = (split(/\t/, $line))[0];
+	$pp_protein_count{$pp} += 1;
+}
+close(PP);
+ 
+#>UP000000252	374526	9CAUD	Lactococcus phage ul36k1t1.	dsDNA viruses, no RNA stage	37104.17176(PPS:1,1,1,1.64,53)	75(CUTOFF)	RefP	100.00000(X-seed)
+# UP000000251	374529	9CAUD	Lactococcus phage ul36t1k1.	dsDNA viruses, no RNA stage	27104.14035(PPS:0,1,1,1.56,51)	86.27451(X-RP)		86.27451(X-seed)
+# UP000001579	374527	9CAUD	Lactococcus phage ul36t1.	dsDNA viruses, no RNA stage	27104.13409(PPS:0,1,1,1.54,52)	80.76923(X-RP)		80.76923(X-seed)
+
+print "RPG\tRPG_Size\tTotal_protein\tTotal_UniRef50\tTotal_Core\t%_Core\tTotal_Accessory\t%_Accessory\tTotal_Unique\t%_Unique\n";
+open(RP, $ARGV[2]) or die "Can't open $ARGV[2]\n";
+while($line=<RP>) {
+	chomp($line);
+	if($line =~ /^>/) {
+		$rpgSize = 0;
+		($p) = (split(/\t/, $line))[0];
+		$p =~ s/^>//;
+		%rpg = ();
+		$rpg{$p} = 1;
+		$rp = $p;
+	}
+	elsif($line =~ /^$/) {
+		$rpg_size = keys %rpg;
+		if($rpg_size > 1) {
+			my %used_uniref = ();
+			%used_uniref = get_used_uniref(%rpg);				
+			#print "size: ".keys(%used_uniref)."\n";
+			my %uniref_count = ();
+			for my $uniref (keys %used_uniref) {
+				for my $up (keys %rpg) {
+					if($uniref_proteome{$uniref}{$up}) {
+						$uniref_count{$uniref} += 1;
+					}
+				}	
+			}
+			$core_count = 0;
+			$accessory_count = 0;
+			$unique_count = 0;
+			for my $uniref (keys %uniref_count) {
+				if($uniref_count{$uniref} == $rpg_size) {
+					$core_count +=1;
+				}
+				if($uniref_count{$uniref} > 1 && $uniref_count{$uniref} < $rpg_size) {
+					$accessory_count +=1;
+				}
+				if($uniref_count{$uniref} == 1) {
+					$unique_count +=1;
+				}
+			}
+			$total_uniref = keys(%used_uniref);
+			print $rp."\t". $rpg_size."\t".$pp_protein_count{$rp}."\t".$total_uniref."\t".$core_count."\t".sprintf("%.2f", 100*$core_count/$total_uniref)."\t".$accessory_count."\t".sprintf("%.2f", 100*$accessory_count/$total_uniref)."\t".$unique_count."\t".sprintf("%.2f", 100*$unique_count/$total_uniref)."\n";	
+		}
+	}
+	else {
+		($p) = (split(/\t/, $line))[0];
+		$p =~ s/^ //;
+		$rpg{$p} = 1;
+	}
+}
+close(RP);
+
+sub get_used_uniref {
+	my %my_rpg = @_;
+	my %my_used_uniref = ();
+	for my $up (keys %my_rpg) {
+		$proteome_uniref_hashRef = $proteome_uniref{$up};
+		%proteome_uniref_hash = %$proteome_uniref_hashRef;
+		for my $uniref (keys %proteome_uniref_hash) {
+			$my_used_uniref{$uniref} = 1;
+		}
+	}
+	return %my_used_uniref;
+}

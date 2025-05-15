@@ -1,0 +1,5045 @@
+>UP000000216	Pseudomonas [286]
+	
+>UP000000227	Ralstonia solanacearum [305]
+	
+>UP000000237	Burkholderia cepacia [292]
+	
+>UP000000241	Synechococcus sp. WH 8109 [166314]
+	
+>UP000000250	Lactococcus [1357]
+	
+>UP000000252	Lactococcus [1357]
+ UP000000251	Lactococcus [1357]
+ UP000001579	Lactococcus [1357]
+	
+>UP000000258	Burkholderia thailandensis [57975]
+ UP000002542	Burkholderia pseudomallei [28450]
+ UP000009202	Burkholderia [32008]
+	
+>UP000000278	Amblyomma variegatum (Tropical bont tick)[34610]; Homo sapiens (Human)[9606]; Hyalomma marginatum rufipes[72862]; Hyalomma truncatum[72855]; Rhipicephalus annulatus[34611]; Rhipicephalus decoloratus[60189]; Rhipicephalus geigyi[136141]; Rhipicephalus[34630]
+	
+>UP000000280	Nicotiana tabacum (Common tobacco)[4097]
+	
+>UP000000283	Mus musculus (Mouse)[10090]
+ UP000007538	Mus musculus (Mouse)[10090]
+ UP000008247	Mus musculus (Mouse)[10090]
+	
+>UP000000294	Streptococcus [1301]
+	
+>UP000000296	Escherichia [561]
+	
+>UP000000303	Lactobacillus delbrueckii subsp. bulgaricus [1585]
+	
+>UP000000316	Prochlorococcus marinus str. MIT 9313 [74547]
+	
+>UP000000327	Crustacea[6657]
+	
+>UP000000330	Acinetobacter johnsonii [40214]
+	
+>UP000000331	Brochothrix [2755]
+	
+>UP000000335	Salmonella enterica subsp. enterica serovar Typhi [90370]
+	
+>UP000000336	Enterococcus faecalis [1351]
+	
+>UP000000337	Caulobacter [75]
+	
+>UP000000338	Vibrio [662]
+	
+>UP000000339	Salmonella typhi[90370]
+ UP000002903	Escherichia [561]
+ UP000005889	Salmonella [590]
+ UP000007855	Escherichia coli O157:H7 [83334]
+ UP000008535	Escherichia [561]
+ UP000009288	Salmonella [590]
+ UP000017649	Salmonella [590]
+ UP000017650	Salmonella [590]
+ UP000019495	Salmonella [590]
+ UP000019780	Salmonella [590]
+ UP000032405	Salmonella [590]
+	
+>UP000000341	Clostridium [1485]
+	
+>UP000000344	Bos taurus (Bovine)[9913]
+ UP000001814	Homo sapiens (Human)[9606]
+ UP000002060	Homo sapiens (Human)[9606]
+ UP000006909	Homo sapiens (Human)[9606]
+ UP000008171	Homo sapiens (Human)[9606]
+	
+>UP000000348	Oryza latifolia[4534]; Oryza nivara (Indian wild rice)[4536]; Oryza rufipogon (Brownbeard rice) (Asian wild rice)[4529]
+	
+>UP000000349	Micromonas pusilla (Picoplanktonic green alga)[38833]
+	
+>UP000000350	Giardia intestinalis (Giardia lamblia)[5741]
+	
+>UP000000351	Saccharomyces cerevisiae (Baker's yeast)[4932]
+	
+>UP000000352	
+	
+>UP000000353	Equidae (horses)[9788]
+	
+>UP000000354	Homo sapiens (Human)[9606]; Paguma larvata (Masked palm civet)[9675]
+ UP000006570	Rhinolophus ferrumequinum (Greater horseshoe bat)[59479]; Rhinolophus macrotis (Big-eared horseshoe bat)[196889]; Rhinolophus pearsonii[188571]; Rhinolophus sinicus (Chinese rufous horseshoe bat)[89399]
+ UP000006573	Rhinolophus macrotis (Big-eared horseshoe bat)[196889]
+ UP000007450	Rhinolophus sinicus (Chinese rufous horseshoe bat)[89399]
+	
+>UP000000355	Bos taurus (Bovine)[9913]
+	
+>UP000000356	Homo sapiens (Human)[9606]
+ UP000000288	Homo sapiens (Human)[9606]
+ UP000000478	Homo sapiens (Human)[9606]
+ UP000000836	Homo sapiens (Human)[9606]
+ UP000000837	Homo sapiens (Human)[9606]
+ UP000001439	Homo sapiens (Human)[9606]
+ UP000002678	Homo sapiens (Human)[9606]
+ UP000002684	Homo sapiens (Human)[9606]
+ UP000002693	Homo sapiens (Human)[9606]
+ UP000002694	Homo sapiens (Human)[9606]
+ UP000006566	Bos taurus (Bovine)[9913]
+ UP000007233	Sus scrofa (Pig)[9823]
+ UP000007234	Sus scrofa (Pig)[9823]
+ UP000007529	Homo sapiens (Human)[9606]
+ UP000007530	Homo sapiens (Human)[9606]
+ UP000007531	Homo sapiens (Human)[9606]
+ UP000007638	Homo sapiens (Human)[9606]
+ UP000007709	Homo sapiens (Human)[9606]
+ UP000007757	Homo sapiens (Human)[9606]
+ UP000007758	Homo sapiens (Human)[9606]
+ UP000007760	Homo sapiens (Human)[9606]
+ UP000007761	Homo sapiens (Human)[9606]
+ UP000007762	Homo sapiens (Human)[9606]
+ UP000008117	Homo sapiens (Human)[9606]
+ UP000008147	Homo sapiens (Human)[9606]
+ UP000008160	Sus scrofa (Pig)[9823]
+ UP000008165	Homo sapiens (Human)[9606]
+ UP000008270	Homo sapiens (Human)[9606]
+ UP000008271	Homo sapiens (Human)[9606]
+ UP000008272	Homo sapiens (Human)[9606]
+ UP000008273	Homo sapiens (Human)[9606]
+ UP000008474	Homo sapiens (Human)[9606]
+ UP000008683	Homo sapiens (Human)[9606]
+ UP000008995	Homo sapiens (Human)[9606]
+	
+>UP000000357	Anas (ducks)[8835]; Gallus gallus (Chicken)[9031]; Phasianidae[9005]
+ UP000006886	Anas (ducks)[8835]; Gallus gallus (Chicken)[9031]; Phasianidae[9005]
+ UP000006887	Anas (ducks)[8835]; Gallus gallus (Chicken)[9031]; Phasianidae[9005]
+	
+>UP000000358	Apium graveolens (Celery)[4045]; Astragalus glycyphyllos (Wild liquorice)[83862]; Capsicum annuum (Bell pepper)[4072]; Caryopteris incana[41386]; Cicer arietinum (Chickpea) (Garbanzo)[3827]; Glycine max (Soybean) (Glycine hispida)[3847]; Lablab purpureus (Hyacinth bean) (Dolichos lablab)[35936]; Lactuca sativa (Garden lettuce)[4236]; Lens culinaris (Lentil) (Cicer lens)[3864]; Lupinus[3869]; Malva parviflora (Little mallow) (Cheeseweed mallow)[145753]; Medicago sativa (Alfalfa)[3879]; Nicotiana tabacum (Common tobacco)[4097]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Philadelphus[23113]; Pisum sativum (Garden pea)[3888]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum tuberosum (Potato)[4113]; Teramnus repens[157662]; Trifolium incarnatum (Crimson clover)[60916]; Viburnum opulus (Guelder-rose)[85293]; Vigna radiata var. radiata (Mung bean) (Phaseolus aureus)[3916]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000000359	Beta vulgaris (Sugar beet)[161934]
+	
+>UP000000360	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+ UP000002486	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+ UP000007532	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+ UP000008603	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+ UP000008604	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+ UP000008605	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+ UP000008606	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+ UP000008607	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+ UP000008608	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes luteocephalus (Mosquito)[299629]; Aedes simpsoni[7161]; Homo sapiens (Human)[9606]; Simiiformes[314293]
+	
+>UP000000367	Yersinia enterocolitica (type O:3) [34051]
+ UP000033011	Enterobacter [547]
+ UP000033012	Enterobacter [547]
+ UP000033013	Enterobacter [547]
+ UP000033026	Citrobacter [544]
+	
+>UP000000369	Escherichia coli[562]
+	
+>UP000000371	Streptococcus thermophilus [1308]
+	
+>UP000000372	Escherichia coli[562]
+	
+>UP000000373	Escherichia coli[562]
+	
+>UP000000375	Pseudomonas [286]
+ UP000008132	Pseudomonas [286]
+ UP000008133	Pseudomonas aeruginosa PAK [1009714]
+ UP000018640	Pseudomonas aeruginosa PAK [1009714]
+ UP000018643	Pseudomonas aeruginosa CHA [1227568]
+ UP000030225	Pseudomonas [286]
+ UP000030230	Pseudomonas [286]
+	
+>UP000000384	Streptomyces avermitilis [33903]
+	
+>UP000000394	Citrus[2706]
+	
+>UP000000395	Sclerotinia sclerotiorum (White mold) (Whetzelinia sclerotiorum)[5180]
+	
+>UP000000396	Malus sylvestris[3752]
+	
+>UP000000398	Botryotinia fuckeliana (Noble rot fungus) (Botrytis cinerea)[40559]
+	
+>UP000000399	Vitis vinifera (Grape)[29760]
+	
+>UP000000400	Zea mays (Maize)[4577]
+	
+>UP000000401	Brassica[3705]; Cardamine lilacina[82359]
+ UP000008268	Brassica[3705]; Cardamine lilacina[82359]; Malva parviflora (Little mallow) (Cheeseweed mallow)[145753]
+	
+>UP000000402	Fenneropenaeus merguiensis (Banana prawn) (Penaeus merguiensis)[71412]; Penaeus esculentus[161923]; Penaeus japonicus (Kuruma prawn) (Marsupenaeus japonicus)[27405]; Penaeus monodon (Giant tiger prawn)[6687]
+	
+>UP000000403	Heterosigma akashiwo (Chromophytic alga) (Heterosigma carterae)[2829]
+	
+>UP000000404	Anas platyrhynchos (Mallard) (Anas boschas)[8839]
+	
+>UP000000405	Equus caballus (Horse)[9796]
+	
+>UP000000406	Homo sapiens (Human)[9606]
+	
+>UP000000407	Sus scrofa (Pig)[9823]
+	
+>UP000000408	Sus scrofa (Pig)[9823]
+	
+>UP000000409	Capsicum annuum (Bell pepper)[4072]; Myzus[13163]; Petunia[4101]; Spinacia oleracea (Spinach)[3562]; Vicia faba (Broad bean) (Faba vulgaris)[3906]
+	
+>UP000000410	Nicotiana tabacum (Common tobacco)[4097]; Pelargonium[4030]; Prunus[3754]; Rubus (bramble)[23216]
+	
+>UP000000411	Cynara cardunculus var. scolymus (Artichoke) (Cynara scolymus)[59895]; Diplotaxis erucoides (White wall-rocket) (Sinapis erucoides)[3732]; Glebionis segetum[118509]; Pelargonium zonale[4032]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000000412	Olea[4145]
+	
+>UP000000413	Oryctolagus cuniculus (Rabbit)[9986]
+ UP000008652	Oryctolagus cuniculus (Rabbit)[9986]
+ UP000008653	Oryctolagus cuniculus (Rabbit)[9986]
+	
+>UP000000414	Dicentrarchus labrax (European seabass) (Morone labrax)[13489]; Epinephelus akaara (Hong Kong grouper) (Serranus akaara)[215347]; Hippoglossus hippoglossus (Atlantic halibut) (Pleuronectes hippoglossus)[8267]; Lates calcarifer (Barramundi) (Holocentrus calcarifer)[8187]; Oplegnathus fasciatus (Barred knifejaw) (Scaradon fasciatus)[163134]
+	
+>UP000000456	Cronobacter sakazakii [28141]
+	
+>UP000000457	Cronobacter sakazakii [28141]
+	
+>UP000000461	Caulobacter [75]
+	
+>UP000000463	Caulobacter [75]
+	
+>UP000000472	Homo sapiens (Human)[9606]
+	
+>UP000000473	Columba livia (Rock dove)[8932]
+ UP000007621	Serinus[9134]
+	
+>UP000000477	Carica papaya (Papaya)[3649]; Ullucus tuberosus (Olluco)[108055]
+	
+>UP000000479	Streptococcus [1301]
+	
+>UP000000489	
+	
+>UP000000506	Nitrososphaera [497726]
+	
+>UP000000513	Acidianus convivator[269667]
+	
+>UP000000514	Acidianus hospitalis[563177]; Acidianus infernus[12915]
+	
+>UP000000515	Drosophila melanogaster (Fruit fly)[7227]
+	
+>UP000000516	Pleuronectiformes[8252]
+	
+>UP000000518	Homo sapiens (Human)[9606]
+ UP000002672	Homo sapiens (Human)[9606]
+ UP000002674	Homo sapiens (Human)[9606]
+ UP000002679	Homo sapiens (Human)[9606]
+ UP000002680	Homo sapiens (Human)[9606]
+ UP000002682	Homo sapiens (Human)[9606]
+ UP000002683	Homo sapiens (Human)[9606]
+ UP000002692	Homo sapiens (Human)[9606]
+ UP000007410	Homo sapiens (Human)[9606]
+ UP000007411	Homo sapiens (Human)[9606]
+ UP000007412	Homo sapiens (Human)[9606]
+ UP000007413	Homo sapiens (Human)[9606]
+ UP000007414	Homo sapiens (Human)[9606]
+ UP000007415	Homo sapiens (Human)[9606]
+ UP000007416	Homo sapiens (Human)[9606]
+ UP000007417	Homo sapiens (Human)[9606]
+ UP000007533	Homo sapiens (Human)[9606]
+ UP000007534	Homo sapiens (Human)[9606]
+ UP000007536	Homo sapiens (Human)[9606]
+ UP000008092	Homo sapiens (Human)[9606]
+ UP000008093	Homo sapiens (Human)[9606]
+ UP000008094	Homo sapiens (Human)[9606]
+ UP000008095	Homo sapiens (Human)[9606]
+ UP000008096	Homo sapiens (Human)[9606]
+ UP000008097	Homo sapiens (Human)[9606]
+ UP000008098	Homo sapiens (Human)[9606]
+ UP000008099	Homo sapiens (Human)[9606]
+ UP000008100	Homo sapiens (Human)[9606]
+ UP000008101	Homo sapiens (Human)[9606]
+ UP000008102	Homo sapiens (Human)[9606]
+ UP000008103	Homo sapiens (Human)[9606]
+ UP000008104	Homo sapiens (Human)[9606]
+ UP000008855	Homo sapiens (Human)[9606]
+	
+>UP000000519	Cicer arietinum (Chickpea) (Garbanzo)[3827]; Lathyrus odoratus (Sweet pea)[3859]; Lens culinaris (Lentil) (Cicer lens)[3864]; Medicago arabica[70936]; Pisum sativum (Garden pea)[3888]; Trifolium incarnatum (Crimson clover)[60916]; Vicia faba (Broad bean) (Faba vulgaris)[3906]; Vicia sativa (Spring vetch) (Tare)[3908]
+	
+>UP000000520	Capsicum (peppers)[4071]; Nicotiana[4085]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum tuberosum (Potato)[4113]
+ UP000008157	Capsicum annuum (Bell pepper)[4072]; Datura inoxia (Downy thornapple) (Datura meteloides)[4075]; Solanum[4107]
+ UP000008616	Capsicum (peppers)[4071]; Nicotiana[4085]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum tuberosum (Potato)[4113]
+	
+>UP000000521	Bromus[4501]; Hordeum murinum (Mouse barley) (Critesion murinum)[97361]
+	
+>UP000000522	Nicotiana tabacum (Common tobacco)[4097]
+ UP000000279	Nicotiana tabacum (Common tobacco)[4097]
+ UP000000281	Capsicum annuum (Bell pepper)[4072]; Eryngium planum[43071]; Nicotiana glauca (Glaucous tobacco) (Tree tobacco)[4090]; Nicotiana tabacum (Common tobacco)[4097]
+ UP000000475	Vicia faba (Broad bean) (Faba vulgaris)[3906]
+ UP000000476	Capsicum annuum (Bell pepper)[4072]
+ UP000001451	Antirrhinum majus (Garden snapdragon)[4151]; Capsicum (peppers)[4071]; Delphinium[46246]; Petunia[4101]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Tagetes (marigolds)[13707]
+ UP000007788	Cymbidium[14366]; Odontoglossum[154697]
+ UP000008248	Nicotiana tabacum (Common tobacco)[4097]
+ UP000008251	Allium chinense[130426]; Nicotiana tabacum (Common tobacco)[4097]
+ UP000008252	Antirrhinum majus (Garden snapdragon)[4151]; Capsicum (peppers)[4071]; Delphinium[46246]; Petunia[4101]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Tagetes (marigolds)[13707]
+ UP000008253	Antirrhinum majus (Garden snapdragon)[4151]; Capsicum (peppers)[4071]; Delphinium[46246]; Petunia[4101]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Tagetes (marigolds)[13707]
+ UP000008254	Antirrhinum majus (Garden snapdragon)[4151]; Capsicum (peppers)[4071]; Delphinium[46246]; Petunia[4101]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Tagetes (marigolds)[13707]
+ UP000008384	Cymbidium[14366]; Odontoglossum[154697]
+	
+>UP000000523	Staphylococcus aureus [1280]
+	
+>UP000000524	Mycobacterium [1763]
+ UP000008197	Mycobacterium [1763]
+	
+>UP000000527	Mycobacterium [1763]
+ UP000000525	Mycobacterium [1763]
+ UP000008425	Mycobacterium [1763]
+ UP000009280	Mycobacterium [1763]
+ UP000027489	Mycobacterium [1763]
+ UP000030211	Mycobacterium [1763]
+	
+>UP000000568	Dactylis glomerata (Orchard grass) (Cock's-foot grass)[4509]; Lolium[4520]
+	
+>UP000000569	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Aedes furcifer (Mosquito)[299627]; Aedes polynesiensis (Polynesian tiger mosquito)[188700]; Cercopithecus[9533]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Pan troglodytes (Chimpanzee)[9598]; Papio (baboons)[9554]; Presbytis[9573]
+ UP000007138	Aedes[7158]; Culex tritaeniorhynchus (Mosquito)[7178]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008450	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Aedes furcifer (Mosquito)[299627]; Aedes polynesiensis (Polynesian tiger mosquito)[188700]; Cercopithecus[9533]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Pan troglodytes (Chimpanzee)[9598]; Papio (baboons)[9554]; Presbytis[9573]
+ UP000008625	Aedes vexans (Inland floodwater mosquito) (Culex vexans)[7163]; Culex tritaeniorhynchus (Mosquito)[7178]; Equus caballus (Horse)[9796]
+	
+>UP000000570	Aedes[7158]; Atelerix albiventris (Middle-African hedgehog) (Four-toed hedgehog)[9368]; Culex tritaeniorhynchus (Mosquito)[7178]; Halcyon[170865]; Homo sapiens (Human)[9606]; Quelea[158617]; Rhipicephalus[34630]
+ UP000007609	Anopheles amictus[59117]; Culex annulirostris (Common banded mosquito)[162997]; Homo sapiens (Human)[9606]; Macropus[9312]
+ UP000007774	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Haemagogus[7180]; Homo sapiens (Human)[9606]
+	
+>UP000000571	Homo sapiens (Human)[9606]
+ UP000007143	Homo sapiens (Human)[9606]
+ UP000007145	Homo sapiens (Human)[9606]
+ UP000007185	Homo sapiens (Human)[9606]
+ UP000007186	Homo sapiens (Human)[9606]
+ UP000007187	Homo sapiens (Human)[9606]
+ UP000007188	Homo sapiens (Human)[9606]
+ UP000008176	Homo sapiens (Human)[9606]
+ UP000008389	Homo sapiens (Human)[9606]
+ UP000008993	Homo sapiens (Human)[9606]
+	
+>UP000000572	Cajanus cajan (Pigeon pea) (Cajanus indicus)[3821]; Pothos[174212]
+	
+>UP000000573	Avena sativa (Oat)[4498]
+	
+>UP000000574	Dianthus barbatus[278075]; Dianthus caryophyllus (Carnation) (Clove pink)[3570]
+	
+>UP000000575	Chenopodium amaranticolor[66262]; Chenopodium quinoa (Quinoa)[63459]; Cucumis sativus (Cucumber)[3659]; Nicotiana clevelandii (Wild tobacco)[81866]; Nicotiana tabacum (Common tobacco)[4097]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Tulipa gesneriana (Garden tulip)[13306]
+	
+>UP000000587	Saimiri sciureus (Common squirrel monkey)[9521]
+ UP000008287	Ateles[9506]
+	
+>UP000000615	Escherichia coli [562]
+	
+>UP000000617	Escherichia coli [562]
+ UP000026987	Escherichia coli O157:H7 [83334]
+	
+>UP000000618	Klebsiella [570]
+	
+>UP000000621	Mycobacterium smegmatis [1772]
+	
+>UP000000623	Yersinia pestis [632]
+ UP000001792	Yersinia pestis [632]
+ UP000008736	Yersinia pestis [632]
+	
+>UP000000624	Ornithodoros (relapsing fever ticks)[6937]; Sus scrofa (Pig)[9823]
+	
+>UP000000633	Enterococcus faecalis [1351]
+ UP000000634	Enterococcus [1350]
+ UP000000635	Enterococcus [1350]
+	
+>UP000000667	Homo sapiens (Human)[9606]
+	
+>UP000000668	Bos taurus (Bovine)[9913]
+ UP000008174	Bos taurus (Bovine)[9913]
+	
+>UP000000670	Homo sapiens (Human)[9606]
+ UP000002496	Homo sapiens (Human)[9606]; Macaca (macaques)[9539]
+ UP000008274	Homo sapiens (Human)[9606]
+	
+>UP000000672	Sus scrofa (Pig)[9823]
+	
+>UP000000675	Citrus sinensis (Sweet orange) (Citrus aurantium var. sinensis)[2711]; Citrus unshiu (Satsuma mandarin) (Citrus nobilis var. unshiu)[55188]; Viburnum odoratissimum[237951]
+	
+>UP000000676	Meleagris gallopavo (Common turkey)[9103]
+	
+>UP000000677	Solanum tuberosum (Potato)[4113]
+	
+>UP000000678	Crataegus (hawthorn)[23159]; Malus sieboldii[106566]; Malus sylvestris[3752]; Pyrus communis (Pear) (Pyrus domestica)[23211]
+	
+>UP000000679	Vitis vinifera (Grape)[29760]
+	
+>UP000000680	Blicca bjoerkna (white bream)[58317]
+	
+>UP000000681	Bombyx mori (Silk moth)[7091]
+	
+>UP000000682	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000007707	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000008621	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000008764	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000008765	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000012667	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000012668	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000012669	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000012670	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000012671	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000013587	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+ UP000013600	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Erinaceidae (hedgehogs)[9363]; Loxodonta africana (African elephant)[9785]; Ovis aries (Sheep)[9940]; Rattus norvegicus (Rat)[10116]; Sus scrofa (Pig)[9823]
+	
+>UP000000690	Cronobacter [413496]
+	
+>UP000000694	Mycobacterium [1763]
+	
+>UP000000697	Mycobacterium [1763]
+	
+>UP000000699	Enterococcus [1350]
+	
+>UP000000710	Psychrobacter sp. MV2 [936347]
+	
+>UP000000714	Lactococcus lactis [1358]
+	
+>UP000000725	Escherichia coli[562]
+	
+>UP000000726	Staphylococcus aureus [1280]
+	
+>UP000000729	Mycobacterium[1763]
+ UP000013554	Mycobacterium [1763]
+ UP000014223	Mycobacterium [1763]
+ UP000029346	Mycobacterium [1763]
+ UP000029347	Mycobacterium [1763]
+ UP000029893	Mycobacterium [1763]
+ UP000031068	Mycobacterium [1763]
+ UP000031069	Mycobacterium [1763]
+ UP000031074	Mycobacterium [1763]
+	
+>UP000000730	Mycobacterium smegmatis[1772]; Mycobacterium vaccae[1810]
+ UP000000693	Mycobacterium [1763]
+ UP000000696	Mycobacterium [1763]
+ UP000000902	Mycobacterium [1763]
+ UP000001389	Mycobacterium [1763]
+ UP000001391	Mycobacterium [1763]
+ UP000001848	Mycobacterium [1763]
+ UP000001850	Mycobacterium [1763]
+ UP000001851	Mycobacterium [1763]
+ UP000001853	Mycobacterium [1763]
+ UP000005449	Mycobacterium [1763]
+ UP000005660	Mycobacterium [1763]
+ UP000005884	Mycobacterium [1763]
+ UP000005885	Mycobacterium [1763]
+ UP000006067	Mycobacterium [1763]
+ UP000008422	Mycobacterium [1763]
+ UP000009187	Mycobacterium [1763]
+ UP000016780	Mycobacterium [1763]
+ UP000016781	Mycobacterium [1763]
+ UP000027390	Mycobacterium [1763]
+	
+>UP000000731	Mycobacterium [1763]
+	
+>UP000000732	Stenotrophomonas maltophilia [40324]
+	
+>UP000000735	Sulfolobus islandicus[43080]
+	
+>UP000000744	Bacillus subtilis[1423]
+ UP000000971	Bacillus subtilis[1423]
+	
+>UP000000786	Escherichia coli [562]
+ UP000001272	
+ UP000030715	
+	
+>UP000000825	Capsicum annuum (Bell pepper)[4072]; Nicotiana tabacum (Common tobacco)[4097]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum melongena (Eggplant) (Aubergine)[4111]; Solanum tuberosum (Potato)[4113]
+	
+>UP000000826	Homo sapiens (Human)[9606]
+ UP000007226	Homo sapiens (Human)[9606]
+	
+>UP000000831	
+	
+>UP000000832	Bos taurus (Bovine)[9913]; Culex annulus[182211]; Culex tritaeniorhynchus (Mosquito)[7178]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+	
+>UP000000835	Felidae (cat family)[9681]
+	
+>UP000000840	Escherichia coli[562]
+ UP000001714	Escherichia coli[562]
+ UP000001715	Escherichia coli[562]
+ UP000001716	Escherichia coli[562]
+ UP000001717	Escherichia coli[562]
+ UP000007959	Escherichia coli[562]
+ UP000008856	Escherichia coli[562]
+	
+>UP000000842	Pseudomonas aeruginosa [287]
+ UP000001370	Pseudomonas aeruginosa [287]
+ UP000001728	Pseudomonas aeruginosa [287]
+ UP000002081	Pseudomonas aeruginosa PAO1 [208964]
+ UP000002090	Pseudomonas aeruginosa [287]
+ UP000008018	Pseudomonas [286]
+ UP000008821	Pseudomonas aeruginosa [287]
+ UP000015558	Pseudomonas aeruginosa PAO1 [208964]
+ UP000017662	Pseudomonas aeruginosa [287]
+ UP000030219	Pseudomonas [286]
+ UP000032001	Pseudomonas [286]
+	
+>UP000000846	Shigella flexneri[623]
+	
+>UP000000847	Burkholderia thailandensis [57975]
+	
+>UP000000848	Vibrio cholerae O139 [45888]
+	
+>UP000000850	Mycoplasma pulmonis [2107]
+	
+>UP000000853	Escherichia coli[562]
+	
+>UP000000854	Sulfolobus solfataricus[2287]
+	
+>UP000000857	Staphylococcus aureus [1280]
+	
+>UP000000862	Chlorella[114049]
+	
+>UP000000863	
+	
+>UP000000864	
+	
+>UP000000866	Odocoileus hemionus (Mule deer) (Black-tailed deer)[9872]
+	
+>UP000000867	Oryctolagus cuniculus (Rabbit)[9986]
+ UP000000868	Oryctolagus cuniculus (Rabbit)[9986]
+	
+>UP000000869	Homo sapiens (Human)[9606]
+	
+>UP000000870	Capra hircus (Goat)[9925]; Homo sapiens (Human)[9606]; Ovis aries (Sheep)[9940]
+	
+>UP000000871	Sus scrofa (Pig)[9823]
+	
+>UP000000872	Amsacta[340055]
+	
+>UP000000875	Pseudomonas aeruginosa[287]
+ UP000002447	Pseudomonas aeruginosa PA14 [652611]
+ UP000002448	Pseudomonas aeruginosa PA14 [652611]
+ UP000008123	Pseudomonas aeruginosa [287]
+ UP000008487	Pseudomonas [286]
+ UP000011108	Pseudomonas [286]
+ UP000019787	Pseudomonas aeruginosa [287]
+ UP000028560	Pseudomonas aeruginosa PA14 [652611]
+	
+>UP000000876	Escherichia coli[562]
+ UP000019733	Escherichia [561]
+ UP000027388	Escherichia [561]
+ UP000029363	Shigella [620]
+ UP000033800	
+ UP000033801	
+	
+>UP000000877	Halorubrum coriense [64713]
+	
+>UP000000878	Escherichia coli [562]
+ UP000001124	
+ UP000001474	
+	
+>UP000000879	Lactobacillus casei [1582]
+	
+>UP000000880	Vibrio cholerae O139 [45888]
+	
+>UP000000881	Vibrio cholerae O139 [45888]
+ UP000000797	Vibrio cholerae [666]
+ UP000016896	Vibrio [662]
+	
+>UP000000901	Mannheimia [75984]
+ UP000002544	Mannheimia [75984]
+ UP000014673	Mannheimia [75984]
+	
+>UP000000903	Mycobacterium [1763]
+ UP000000701	Mycobacterium [1763]
+	
+>UP000000904	Mycobacterium [1763]
+ UP000000620	Mycobacterium smegmatis [1772]
+ UP000016711	Mycobacterium [1763]
+	
+>UP000000907	Mycobacterium [1763]
+ UP000002722	Mycobacterium [1763]
+ UP000005645	Mycobacterium [1763]
+ UP000005656	Mycobacterium [1763]
+ UP000005859	Mycobacterium [1763]
+ UP000007087	Mycobacterium [1763]
+ UP000007321	Mycobacterium [1763]
+ UP000018629	Mycobacterium [1763]
+ UP000019735	Mycobacterium [1763]
+ UP000019738	Mycobacterium [1763]
+ UP000031731	Mycobacterium [1763]
+	
+>UP000000908	Clostridium [1485]
+	
+>UP000000909	Synechococcus[1129]
+	
+>UP000000910	Lactococcus lactis subsp. lactis (strain IL1403) (Streptococcus lactis)[272623]
+ UP000000368	Lactococcus lactis [1358]
+	
+>UP000000911	Phormidium [1198]
+	
+>UP000000913	Escherichia coli [562]
+	
+>UP000000915	Prochlorococcus[1218]
+	
+>UP000000916	Prochlorococcus[1218]
+	
+>UP000000918	Staphylococcus [1279]
+	
+>UP000000919	Staphylococcus aureus [1280]
+	
+>UP000000920	Staphylococcus aureus [1280]
+	
+>UP000000921	Staphylococcus aureus [1280]
+ UP000000264	Staphylococcus [1279]
+	
+>UP000000922	Staphylococcus aureus [1280]
+	
+>UP000000924	Staphylococcus aureus [1280]
+	
+>UP000000938	Homo sapiens (Human)[9606]
+ UP000006907	Homo sapiens (Human)[9606]
+ UP000008455	Homo sapiens (Human)[9606]
+ UP000008991	Homo sapiens (Human)[9606]
+ UP000008992	Homo sapiens (Human)[9606]
+	
+>UP000000941	Connochaetes taurinus (Blue wildebeest)[9927]
+	
+>UP000000942	Homo sapiens (Human)[9606]
+	
+>UP000000944	Lactococcus [1357]
+ UP000000945	Lactococcus [1357]
+ UP000004781	Lactococcus Phage ASCC368 [1165145]
+ UP000004782	Lactococcus Phage ASCC395 [1165146]
+ UP000004784	Lactococcus Phage ASCC287 [1165138]
+ UP000004786	Lactococcus Phage ASCC324 [1165140]
+ UP000004787	Lactococcus Phage ASCC337 [1165141]
+ UP000004794	Lactococcus Phage ASCC544 [1165161]
+ UP000004796	Lactococcus Phage ASCC531 [1165159]
+ UP000004797	Lactococcus Phage ASCC527 [1165158]
+ UP000004798	Lactococcus Phage ASCC506 [1165157]
+ UP000004799	Lactococcus Phage ASCC473 [1165152]
+ UP000004800	Lactococcus Phage ASCC465 [1165151]
+ UP000004801	Lactococcus Phage ASCC489 [1165154]
+ UP000004802	Lactococcus Phage ASCC476 [1165153]
+ UP000004803	Lactococcus Phage ASCC502 [1165156]
+ UP000004804	Lactococcus Phage ASCC497 [1165155]
+ UP000004805	Lactococcus Phage ASCC397 [1165147]
+ UP000004806	Lactococcus Phage ASCC406 [1165148]
+ UP000004807	Lactococcus Phage ASCC454 [1165149]
+ UP000004808	Lactococcus Phage ASCC460 [1165150]
+ UP000007893	Lactococcus Phage ASCC191 [1165134]
+ UP000007894	Lactococcus Phage ASCC273 [1165135]
+	
+>UP000000947	Lactococcus [1357]
+ UP000000946	Lactococcus [1357]
+ UP000008071	Lactococcus [1357]
+	
+>UP000000957	Staphylococcus aureus [1280]
+	
+>UP000000958	Thermus [270]
+	
+>UP000000962	Lactobacillus gasseri [1596]
+	
+>UP000000963	Mycobacterium [1763]
+ UP000008414	Mycobacterium [1763]
+	
+>UP000000964	Mycobacterium [1763]
+ UP000005668	Mycobacterium [1763]
+ UP000015578	Mycobacterium [1763]
+ UP000015923	Mycobacterium [1763]
+ UP000028668	Mycobacterium [1763]
+	
+>UP000000965	Lactobacillus [1578]
+	
+>UP000000967	Mycobacterium [1763]
+	
+>UP000000968	Mycobacterium [1763]
+ UP000000698	Mycobacterium [1763]
+ UP000001613	Mycobacterium [1763]
+ UP000002543	Mycobacterium [1763]
+ UP000002721	Mycobacterium [1763]
+ UP000002723	Mycobacterium [1763]
+ UP000008398	Mycobacterium [1763]
+ UP000008399	Mycobacterium [1763]
+ UP000008403	Mycobacterium [1763]
+ UP000008406	Mycobacterium [1763]
+ UP000008417	Mycobacterium [1763]
+ UP000008523	Mycobacterium [1763]
+ UP000008900	Mycobacterium [1763]
+ UP000013557	Mycobacterium [1763]
+ UP000015087	Mycobacterium [1763]
+ UP000015542	Mycobacterium [1763]
+ UP000015556	Mycobacterium [1763]
+ UP000015574	Mycobacterium [1763]
+ UP000016712	Mycobacterium [1763]
+ UP000018626	Mycobacterium [1763]
+ UP000018636	Mycobacterium [1763]
+ UP000018637	Mycobacterium [1763]
+ UP000018638	Mycobacterium [1763]
+ UP000018639	Mycobacterium [1763]
+	
+>UP000000969	Escherichia coli O157:H7 [83334]
+	
+>UP000000970	
+	
+>UP000000972	Streptococcus thermophilus [1308]
+ UP000001186	Streptococcus thermophilus [1308]
+	
+>UP000000973	Staphylococcus aureus [1280]
+	
+>UP000000974	Staphylococcus aureus [1280]
+	
+>UP000000975	Staphylococcus aureus [1280]
+	
+>UP000000976	Staphylococcus aureus [1280]
+	
+>UP000000977	Staphylococcus aureus [1280]
+	
+>UP000000979	Salmonella enterica subsp. enterica serovar Typhimurium [90371]
+	
+>UP000000980	Staphylococcus aureus [1280]
+	
+>UP000000981	Staphylococcus aureus [1280]
+	
+>UP000000983	Escherichia coli O157:H7 [83334]
+ UP000000982	Escherichia coli O157:H7 [83334]
+	
+>UP000000984	Staphylococcus aureus [1280]
+	
+>UP000000985	Staphylococcus aureus [1280]
+	
+>UP000000986	Staphylococcus aureus [1280]
+	
+>UP000000987	Staphylococcus aureus [1280]
+	
+>UP000000988	Staphylococcus aureus [1280]
+	
+>UP000000989	Thermus [270]
+ UP000001438	Thermus thermophilus HB27 [262724]
+	
+>UP000000990	Lactobacillus plantarum [1590]
+	
+>UP000000991	Prochlorococcus[1218]
+ UP000013923	Prochlorococcus[1218]
+	
+>UP000000993	alpha proteobacterium JL001 [278678]
+	
+>UP000000994	Synechococcus[1129]
+	
+>UP000000996	Lactococcus lactis subsp. cremoris [1359]
+	
+>UP000000997	Streptococcus thermophilus [1308]
+	
+>UP000000999	Streptococcus [1301]
+	
+>UP000001000	Yersinia pestis [632]
+ UP000010841	Yersinia [444888]
+ UP000012998	Yersinia [444888]
+	
+>UP000001003	
+	
+>UP000001005	Escherichia coli [562]
+	
+>UP000001034	Ralstonia [48736]
+	
+>UP000001040	Escherichia coli O157:H7 [83334]
+	
+>UP000001041	Pseudomonas aeruginosa[287]
+	
+>UP000001043	Clostridium [1485]
+	
+>UP000001044	Ralstonia solanacearum [305]
+ UP000028669	Ralstonia [48736]
+	
+>UP000001046	Acinetobacter [469]
+	
+>UP000001047	Klebsiella oxytoca [571]
+	
+>UP000001049	Acholeplasma laidlawii [2148]
+	
+>UP000001057	Rhodococcus equi [43767]
+ UP000002347	Rhodococcus equi [43767]
+	
+>UP000001061	Homo sapiens (Human)[9606]
+ UP000007683	Homo sapiens (Human)[9606]
+	
+>UP000001063	Pan troglodytes (Chimpanzee)[9598]
+	
+>UP000001065	Glycine max (Soybean) (Glycine hispida)[3847]; Lablab purpureus (Hyacinth bean) (Dolichos lablab)[35936]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000001098	Felis catus (Cat) (Felis silvestris catus)[9685]
+ UP000008667	Felidae (cat family)[9681]
+ UP000008668	Felidae (cat family)[9681]
+ UP000008762	Felidae (cat family)[9681]
+	
+>UP000001099	Beta vulgaris (Sugar beet)[161934]; Citrullus lanatus (Watermelon) (Citrullus vulgaris)[3654]; Cucumis melo (Muskmelon)[3656]; Cucurbita maxima (Pumpkin) (Winter squash)[3661]; Cucurbita moschata (Winter crookneck squash) (Cucurbita pepo var. moschata)[3662]; Cucurbita pepo (Vegetable marrow) (Summer squash)[3663]; Daucus carota (Wild carrot)[4039]; Lactuca sativa (Garden lettuce)[4236]
+	
+>UP000001100	Beta macrocarpa (Beet) (Beta vulgaris subsp. macrocarpa)[343494]; Beta vulgaris (Sugar beet)[161934]; Spinacia oleracea (Spinach)[3562]
+	
+>UP000001101	Citrus sinensis (Sweet orange) (Citrus aurantium var. sinensis)[2711]
+	
+>UP000001102	Rubus idaeus (Raspberry)[32247]; Rubus occidentalis (Black raspberry)[75079]; Rubus ursinus (California blackberry)[75100]
+	
+>UP000001103	Cucumis melo (Muskmelon)[3656]
+	
+>UP000001104	Saccharomyces cerevisiae (Baker's yeast)[4932]
+	
+>UP000001105	Cryphonectria parasitica (Chesnut blight fungus) (Endothia parasitica)[5116]
+	
+>UP000001111	Escherichia coli [562]
+	
+>UP000001112	Actinomyces naeslundii [1655]
+	
+>UP000001119	Chlorocebus pygerythrus (Vervet monkey) (Cercopithecus pygerythrus)[60710]
+ UP000001454	Homo sapiens (Human)[9606]
+ UP000001455	Homo sapiens (Human)[9606]
+ UP000001456	Homo sapiens (Human)[9606]
+ UP000001457	Homo sapiens (Human)[9606]
+ UP000001458	Homo sapiens (Human)[9606]
+ UP000001459	Homo sapiens (Human)[9606]
+ UP000006368	Homo sapiens (Human)[9606]
+ UP000006580	Homo sapiens (Human)[9606]
+ UP000006581	Homo sapiens (Human)[9606]
+ UP000007047	Homo sapiens (Human)[9606]
+ UP000007048	Homo sapiens (Human)[9606]
+ UP000007179	Bos taurus (Bovine)[9913]
+ UP000007180	Macaca mulatta (Rhesus macaque)[9544]
+ UP000007181	Bos taurus (Bovine)[9913]
+ UP000008655	Homo sapiens (Human)[9606]
+ UP000008657	Bos taurus (Bovine)[9913]
+	
+>UP000001126	Listeria monocytogenes [1639]
+	
+>UP000001127	Listeria monocytogenes[1639]
+ UP000001954	Listeria [1637]
+ UP000011830	Listeria [1637]
+ UP000014706	Listeria [1637]
+ UP000026981	Listeria monocytogenes [1639]
+ UP000026982	Listeria monocytogenes [1639]
+ UP000026994	Listeria [1637]
+ UP000026996	Listeria monocytogenes [1639]
+ UP000026997	Listeria monocytogenes [1639]
+ UP000026998	Listeria [1637]
+ UP000027385	Listeria [1637]
+ UP000027386	Listeria [1637]
+ UP000027391	Listeria monocytogenes [1639]
+ UP000027392	Listeria [1637]
+ UP000029360	Listeria [1637]
+	
+>UP000001128	Listeria monocytogenes [1639]
+	
+>UP000001129	Listeria monocytogenes [1639]
+	
+>UP000001132	Thermus thermophilus [274]
+ UP000001133	Thermus thermophilus [274]
+	
+>UP000001134	Acanthamoeba polyphaga (Amoeba)[5757]
+	
+>UP000001151	Enterococcus faecalis (Streptococcus faecalis)[1351]
+ UP000008852	Enterococcus [1350]
+	
+>UP000001154	Escherichia coli[562]
+	
+>UP000001155	Methanobacterium [2160]
+	
+>UP000001156	Escherichia coli [562]
+ UP000006855	Shigella flexneri [623]
+ UP000030926	Shigella [620]
+	
+>UP000001157	Natrialba magadii [13769]
+	
+>UP000001158	Salmonella typhimurium[90371]
+	
+>UP000001159	Vibrio harveyi [669]
+	
+>UP000001160	Burkholderia cepacia [292]
+	
+>UP000001161	Roseobacter [2433]
+	
+>UP000001162	Staphylococcus [1279]
+ UP000000992	Staphylococcus [1279]
+	
+>UP000001163	Pseudomonas aeruginosa [287]
+ UP000001232	Pseudomonas [286]
+ UP000007573	Pseudomonas [286]
+ UP000009397	Pseudomonas aeruginosa [287]
+	
+>UP000001164	Lactococcus lactis subsp. cremoris (Streptococcus cremoris)[1359]
+	
+>UP000001165	Pseudomonas putida [303]
+	
+>UP000001166	Streptococcus pneumoniae [1313]
+	
+>UP000001178	Staphylococcus aureus[1280]
+	
+>UP000001179	Halomonas aquamarina[77097]
+	
+>UP000001189	Equus caballus (Horse)[9796]
+ UP000008296	Equus caballus (Horse)[9796]
+ UP000009245	Equus caballus (Horse)[9796]
+	
+>UP000001207	Bacillus subtilis[1423]
+ UP000000855	Bacillus subtilis[1423]
+	
+>UP000001211	Mycobacterium [1763]
+	
+>UP000001212	Mycobacterium [1763]
+ UP000001209	Mycobacterium [1763]
+	
+>UP000001216	Acidithiobacillus [119977]
+	
+>UP000001222	Edwardsiella [132406]
+ UP000001221	Edwardsiella [132406]
+	
+>UP000001223	Escherichia coli [562]
+	
+>UP000001229	Streptococcus gordonii [1302]
+	
+>UP000001238	Xanthomonas oryzae [347]
+	
+>UP000001239	Pseudomonas aeruginosa [287]
+	
+>UP000001240	Clostridium botulinum C[36828]
+	
+>UP000001245	Actinoplanes sp. SN223/29 [442459]
+	
+>UP000001246	Staphylococcus aureus[1280]
+ UP000001406	Staphylococcus [1279]
+ UP000001540	Staphylococcus aureus [1280]
+ UP000006134	Staphylococcus aureus [1280]
+ UP000008529	Staphylococcus [1279]
+ UP000008897	Staphylococcus aureus [1280]
+ UP000009368	Staphylococcus [1279]
+ UP000009395	Staphylococcus aureus [1280]
+ UP000019126	Staphylococcus aureus [1280]
+ UP000028568	Staphylococcus [1279]
+ UP000028960	Staphylococcus [1279]
+ UP000032690	Staphylococcus [1279]
+ UP000033027	Staphylococcus [1279]
+ UP000033028	Staphylococcus [1279]
+	
+>UP000001249	Microcystis aeruginosa [1126]
+ UP000028567	Microcystis [1125]
+	
+>UP000001250	Lactococcus lactis [1358]
+	
+>UP000001251	Streptomyces lividans [1916]
+	
+>UP000001252	Spiroplasma citri[2133]
+	
+>UP000001263	Enterococcus faecalis [1351]
+ UP000001264	Enterococcus [1350]
+	
+>UP000001265	Enterococcus faecalis [1351]
+	
+>UP000001266	Staphylococcus [1279]
+	
+>UP000001270	Mycobacterium [1763]
+ UP000001547	Mycobacterium [1763]
+	
+>UP000001284	Mycobacterium [1763]
+	
+>UP000001291	Pseudomonas tolaasii [29442]
+	
+>UP000001295	Canis familiaris (Dog) (Canis lupus familiaris)[9615]
+	
+>UP000001297	Burkholderia cepacia [292]
+	
+>UP000001298	Pseudomonas aeruginosa [287]
+	
+>UP000001305	Xanthomonas campestris pv. pelargonii [91612]
+	
+>UP000001314	Pseudomonas aeruginosa UCBPP-PA14 [208963]
+ UP000001779	Pseudomonas aeruginosa [287]
+ UP000007176	Pseudomonas [286]
+ UP000011109	Pseudomonas [286]
+ UP000011110	Pseudomonas [286]
+ UP000030217	Pseudomonas [286]
+ UP000031067	Pseudomonas [286]
+	
+>UP000001323	Noctuidae (owlet moths)[7100]
+	
+>UP000001324	Noctuidae (owlet moths)[7100]
+	
+>UP000001358	Aedes vexans (Inland floodwater mosquito) (Culex vexans)[7163]; Culex territans[42431]; Culiseta annulata[332058]; Ochlerotatus sollicitans (eastern saltmarsh mosquito)[310513]; Ochlerotatus taeniorhynchus (Black salt marsh mosquito) (Aedes taeniorhynchus)[329105]; Psorophora ferox[7183]
+	
+>UP000001359	Acheta domesticus (House cricket)[6997]; Chilo suppressalis (striped riceborer)[168631]; Gryllus bimaculatus (Two-spotted cricket)[6999]; Gryllus campestris[58607]; Spodoptera frugiperda (Fall armyworm)[7108]
+	
+>UP000001367	Enterococcus faecalis [1351]
+	
+>UP000001395	Xylella fastidiosa [2371]
+	
+>UP000001398	Homo sapiens (Human)[9606]
+ UP000002471	Anser sp. (goose)[8847]; Meleagris gallopavo (Common turkey)[9103]
+	
+>UP000001440	Sus scrofa (Pig)[9823]
+	
+>UP000001447	Streptococcus thermophilus [1308]
+	
+>UP000001448	Homo sapiens (Human)[9606]
+	
+>UP000001461	Dactylis glomerata (Orchard grass) (Cock's-foot grass)[4509]; Triticum aestivum (Wheat)[4565]
+ UP000008994	Dactylis glomerata (Orchard grass) (Cock's-foot grass)[4509]; Triticum aestivum (Wheat)[4565]
+	
+>UP000001463	Staphylococcus aureus [1280]
+ UP000001462	Staphylococcus aureus [1280]
+	
+>UP000001464	Staphylococcus aureus [1280]
+	
+>UP000001465	Staphylococcus aureus [1280]
+	
+>UP000001466	Staphylococcus phage Twort[55510]
+	
+>UP000001467	Enterobacteriaceae [543]
+ UP000000455	Cronobacter sakazakii [28141]
+ UP000001091	Escherichia coli [562]
+ UP000012999	Escherichia coli BL21(DE3) [469008]
+	
+>UP000001468	Vibrio [662]
+	
+>UP000001469	Haloarcula hispanica [51589]
+	
+>UP000001475	Streptococcus [1301]
+	
+>UP000001480	Xanthomonas campestris pv. campestris [340]
+	
+>UP000001481	Burkholderia cenocepacia [95486]
+	
+>UP000001482	Streptococcus [1301]
+	
+>UP000001483	Streptococcus oralis [1303]
+	
+>UP000001486	Staphylococcus [1279]
+	
+>UP000001487	Mycobacterium [1763]
+ UP000000695	Mycobacterium [1763]
+ UP000000905	Mycobacterium [1763]
+ UP000001390	Mycobacterium [1763]
+ UP000001684	Mycobacterium smegmatis [1772]
+ UP000005644	Mycobacterium [1763]
+ UP000013543	Mycobacterium [1763]
+ UP000013544	Mycobacterium [1763]
+ UP000013545	Mycobacterium [1763]
+ UP000030713	Mycobacterium [1763]
+ UP000032125	Mycobacterium [1763]
+	
+>UP000001504	Rhodococcus equi [43767]
+	
+>UP000001507	Brochothrix thermosphacta [2756]
+	
+>UP000001515	Synechococcus [1129]
+	
+>UP000001518	Escherichia coli [562]
+ UP000000616	Escherichia coli [562]
+ UP000017665	Erwinia [551]
+	
+>UP000001523	Salmonella enterica [28901]
+ UP000008122	Salmonella [590]
+	
+>UP000001524	Bacillus [55087]
+ UP000001215	Bacillus [55087]
+	
+>UP000001525	Lactobacillus jensenii [109790]
+	
+>UP000001530	Escherichia coli[562]
+ UP000001722	Escherichia coli[562]
+	
+>UP000001531	Corynebacterium [1716]
+	
+>UP000001533	Bacillus cereus [1396]
+ UP000001586	Bacillus anthracis [1392]
+ UP000001755	Bacillus [55087]
+ UP000002100	Bacillus anthracis [1392]
+ UP000006926	Bacillus cereus [1396]
+ UP000009048	Bacillus anthracis str. Vollum [261591]
+	
+>UP000001534	Burkholderia cepacia [292]
+	
+>UP000001535	Escherichia coli [562]
+	
+>UP000001538	Mycobacterium [1763]
+ UP000031718	Mycobacterium [1763]
+	
+>UP000001539	Staphylococcus aureus [1280]
+	
+>UP000001545	Clostridium perfringens [1502]
+ UP000000509	Clostridium perfringens [1502]
+ UP000000510	Clostridium [1485]
+ UP000001731	Clostridium perfringens [1502]
+ UP000008939	Clostridium perfringens [1502]
+	
+>UP000001573	Mycoplasma[2093]
+	
+>UP000001580	Staphylococcus [1279]
+ UP000019302	Staphylococcus aureus [1280]
+	
+>UP000001585	Bacillus [55087]
+	
+>UP000001587	Lactococcus lactis[1358]
+	
+>UP000001590	Bacillus subtilis[1423]
+ UP000017646	Bacillus subtilis [1423]
+	
+>UP000001594	Galliformes[8976]
+	
+>UP000001622	Enterococcus faecalis [1351]
+	
+>UP000001639	Salmonella enterica subsp. enterica serovar Newport [108619]
+	
+>UP000001649	Bromus inermis (Smooth brome grass) (Bromopsis inermis)[15371]
+ UP000007448	Vicia faba (Broad bean) (Faba vulgaris)[3906]
+ UP000008445	Glycine max (Soybean) (Glycine hispida)[3847]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000001650	Homo sapiens (Human)[9606]
+ UP000008628	Homo sapiens (Human)[9606]
+ UP000008629	Homo sapiens (Human)[9606]
+ UP000009176	Homo sapiens (Human)[9606]
+	
+>UP000001653	Brochothrix thermosphacta [2756]
+	
+>UP000001663	Allium cepa var. aggregatum (Shallot) (Allium ascalonicum)[28911]
+	
+>UP000001664	Botryotinia fuckeliana (Noble rot fungus) (Botrytis cinerea)[40559]
+	
+>UP000001665	Muhlenbergia[58090]; Panicum virgatum (Switchgrass)[38727]
+	
+>UP000001666	Capsicum annuum (Bell pepper)[4072]; Malus[3749]; Pyrus (pears)[3766]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum melongena (Eggplant) (Aubergine)[4111]; Tolmiea menziesii[29777]; Tulipa[13305]
+ UP000008565	Cucumis sativus (Cucumber)[3659]
+ UP000008567	Cymbidium[14366]; Trifolium repens (Creeping white clover)[3899]
+ UP000029759	Zea mays (Maize)[4577]
+	
+>UP000001667	Hordeum vulgare (Barley)[4513]; Triticum aestivum (Wheat)[4565]
+	
+>UP000001668	Arachis hypogaea (Peanut)[3818]; Setaria italica (Foxtail millet) (Panicum italicum)[4555]; Sorghum arundinaceum[91525]; Sorghum bicolor (Sorghum) (Sorghum vulgare)[4558]
+	
+>UP000001669	Bidens pilosa (Hairy beggarticks) (Cobbler's pegs)[42337]; Capsicum annuum (Bell pepper)[4072]; Cynara cardunculus var. scolymus (Artichoke) (Cynara scolymus)[59895]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000001670	Euphorbia pulcherrima (Poinsettia) (Poinsettia pulcherrima)[37495]
+	
+>UP000001671	Glycine max (Soybean) (Glycine hispida)[3847]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Vigna mungo (Black gram) (Phaseolus mungo)[3915]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000001672	Trifolium repens (Creeping white clover)[3899]
+	
+>UP000001673	Atkinsonella hypoxylon[47741]
+	
+>UP000001674	Ctenopharyngodon idella (Grass carp) (Leuciscus idella)[7959]; Gobiocypris rarus[143606]; Mylopharyngodon piceus (Black carp)[75356]; Pseudorasbora parva[51549]
+	
+>UP000001675	Callospermophilus lateralis (Golden-mantled ground squirrel) (Spermophilus lateralis)[76772]; Dermacentor andersoni (Rocky mountain wood tick)[34620]; Erethizon dorsatum (North American porcupine)[34844]; Homo sapiens (Human)[9606]; Neotoma cinerea (Bushy-tailed woodrat)[105147]; Peromyscus maniculatus (North American deer mouse)[10042]
+	
+>UP000001676	Aedes pseudoscutellaris[316597]
+	
+>UP000001677	Saccharum officinarum (Sugarcane)[4547]
+	
+>UP000001679	Lactococcus lactis [1358]
+	
+>UP000001690	Salmonella enterica [28901]
+	
+>UP000001696	Escherichia coli [562]
+	
+>UP000001704	Leuconostoc [1243]
+	
+>UP000001706	Lactococcus lactis subsp. lactis Il1403 [272623]
+	
+>UP000001707	Propionibacterium freudenreichii [1744]
+	
+>UP000001708	Streptomyces venezuelae [54571]
+	
+>UP000001709	Flavobacterium sp. [239]
+	
+>UP000001710	
+ UP000000728	Escherichia coli[562]
+ UP000001790	
+	
+>UP000001711	Escherichia coli[562]
+	
+>UP000001712	Lactococcus lactis subsp. lactis Il1403 [272623]
+	
+>UP000001713	Haemophilus[724]
+ UP000002096	Haemophilus influenzae [727]
+	
+>UP000001721	Salmonella typhimurium[90371]
+ UP000000843	Salmonella typhimurium[90371]
+	
+>UP000001724	Mycobacterium [1763]
+	
+>UP000001729	Rhizobium meliloti (Ensifer meliloti) (Sinorhizobium meliloti)[382]
+	
+>UP000001736	
+ UP000001042	Escherichia coli O157:H7 [83334]
+	
+>UP000001756	Streptococcus thermophilus [1308]
+	
+>UP000001757	Enterobacteriaceae[543]
+	
+>UP000001758	Aeromonas salmonicida [645]
+ UP000000917	Aeromonas salmonicida [645]
+	
+>UP000001759	Lactobacillus johnsonii [33959]
+	
+>UP000001760	Lactobacillus johnsonii [33959]
+	
+>UP000001761	Synechococcus [1129]
+	
+>UP000001762	Streptococcus [1301]
+	
+>UP000001763	Yersinia enterocolitica [630]
+	
+>UP000001764	Spiroplasma melliferum[2134]
+	
+>UP000001765	Bordetella bronchiseptica (Alcaligenes bronchisepticus)[518]
+	
+>UP000001766	Lactococcus [1357]
+	
+>UP000001770	Salmonella enterica [28901]
+	
+>UP000001771	Vibrio cholerae [666]
+ UP000002338	Vibrio cholerae [666]
+	
+>UP000001772	Yersinia pestis [632]
+ UP000017185	Escherichia coli O157:H7 [83334]
+	
+>UP000001773	Streptococcus sp. 'group C' [33972]
+	
+>UP000001774	Xanthomonas oryzae [347]
+ UP000001433	Xanthomonas oryzae [347]
+	
+>UP000001775	Burkholderia pseudomallei [28450]
+	
+>UP000001778	Streptomyces aureofaciens [1894]
+	
+>UP000001780	Streptococcus pneumoniae [1313]
+ UP000002404	Streptococcus [1301]
+	
+>UP000001781	Lactococcus lactis [1358]
+ UP000001720	Lactococcus lactis [1358]
+	
+>UP000001782	Lactococcus lactis subsp. lactis Il1403 [272623]
+	
+>UP000001783	Chlamydia pneumoniae [83558]
+	
+>UP000001785	Vibrio parahaemolyticus[670]
+ UP000009015	
+	
+>UP000001786	Ralstonia [48736]
+	
+>UP000001787	Ralstonia solanacearum [305]
+	
+>UP000001788	Staphylococcus [1279]
+	
+>UP000001789	Escherichia coli[562]
+	
+>UP000001791	Streptococcus [1301]
+	
+>UP000001793	Burkholderia ambifaria [152480]
+	
+>UP000001794	Vibrio parahaemolyticus [670]
+	
+>UP000001797	Lactobacillus casei [1582]
+	
+>UP000001804	Escherichia coli [562]
+ UP000007848	Shigella sonnei [624]
+ UP000031204	Siphoviridae [10699]
+	
+>UP000001832	Escherichia coli[562]
+ UP000001616	Escherichia coli[562]
+ UP000006120	Escherichia coli[562]
+ UP000006121	Escherichia coli[562]
+ UP000006122	Escherichia coli[562]
+ UP000008355	Escherichia coli[562]
+	
+>UP000001833	Escherichia coli[562]
+	
+>UP000001835	Lactococcus (lactic streptococci)[1357]
+ UP000002128	Lactococcus [1357]
+	
+>UP000001837	Salmonella [590]
+	
+>UP000001838	Mycoplasma fermentans [2115]
+	
+>UP000001849	Mycobacterium [1763]
+	
+>UP000001854	Ralstonia solanacearum [305]
+	
+>UP000001858	Burkholderia cenocepacia [95486]
+	
+>UP000001859	Lactococcus [1357]
+	
+>UP000001862	Iodobacter sp. CdM7 [641420]
+	
+>UP000001863	Acanthamoeba polyphaga (Amoeba)[5757]
+ UP000005001	Acanthamoeba polyphaga [5757]
+ UP000005002	Acanthamoeba polyphaga [5757]
+	
+>UP000001864	Morganella morganii [582]
+	
+>UP000001878	Lactobacillus [1578]
+	
+>UP000001891	Escherichia [561]
+ UP000001893	Escherichia [561]
+ UP000001894	Escherichia [561]
+ UP000001895	Escherichia [561]
+	
+>UP000001892	Escherichia [561]
+	
+>UP000001896	Mycobacterium [1763]
+	
+>UP000001899	Lactobacillus [1578]
+	
+>UP000001904	Bacillus [55087]
+	
+>UP000001905	Enterococcus faecalis [1351]
+ UP000001262	Enterococcus [1350]
+	
+>UP000001906	Pseudomonas fluorescens SBW25 [216595]
+	
+>UP000001922	Lactobacillus delbrueckii[1584]
+	
+>UP000001987	Aeromonas media [651]
+	
+>UP000001995	Mycobacterium smegmatis [1772]
+	
+>UP000001999	Microbacterium nematophilum [151262]
+	
+>UP000002006	Escherichia coli [562]
+ UP000031602	
+ UP000032685	Escherichia [561]
+	
+>UP000002017	Bacteroides [816]
+	
+>UP000002079	Xanthomonas oryzae [347]
+	
+>UP000002080	Escherichia coli [562]
+	
+>UP000002082	Pseudomonas aeruginosa [287]
+ UP000018630	Pseudomonas [286]
+ UP000019000	Pseudomonas aeruginosa [287]
+ UP000030227	Pseudomonas [286]
+	
+>UP000002083	Pseudomonas aeruginosa[287]
+ UP000006037	Pseudomonas aeruginosa PAO1 [208964]
+	
+>UP000002089	Pseudomonas aeruginosa [287]
+	
+>UP000002091	Listeria [1637]
+	
+>UP000002092	Escherichia coli[562]
+ UP000016454	
+ UP000029359	Yersinia [444888]
+	
+>UP000002093	Myxococcus [32]
+	
+>UP000002094	Vibrio [662]
+	
+>UP000002095	Clostridium perfringens [1502]
+	
+>UP000002097	Staphylococcus aureus[1280]
+	
+>UP000002098	Pseudomonas aeruginosa[287]
+	
+>UP000002099	Pseudomonas[286]
+	
+>UP000002101	Spiroplasma melliferum[2134]
+	
+>UP000002102	Escherichia coli [562]
+	
+>UP000002103	Staphylococcus aureus [1280]
+	
+>UP000002104	Vibrio cholerae [666]
+ UP000001776	Vibrio cholerae [666]
+	
+>UP000002105	Escherichia coli [562]
+ UP000009213	Escherichia coli [562]
+	
+>UP000002106	
+	
+>UP000002107	Escherichia coli[562]
+ UP000002141	Escherichia coli[562]
+ UP000002503	Escherichia coli[562]
+ UP000002886	Escherichia coli [562]
+ UP000008981	Salmonella [590]
+ UP000026908	Escherichia coli O157:H7 [83334]
+ UP000031089	
+ UP000031090	
+	
+>UP000002110	Burkholderia cenocepacia [95486]
+	
+>UP000002111	Escherichia coli[562]
+ UP000000266	Escherichia coli[562]
+ UP000001836	Escherichia coli[562]
+ UP000002557	Escherichia coli[562]
+ UP000006634	Escherichia coli[562]
+ UP000006913	Escherichia coli[562]
+ UP000006914	Escherichia coli[562]
+ UP000006915	Escherichia coli[562]
+ UP000006916	Escherichia coli[562]
+ UP000006917	Escherichia coli[562]
+ UP000006918	Escherichia coli[562]
+ UP000008358	Escherichia coli[562]
+ UP000013924	Escherichia coli[562]
+	
+>UP000002112	
+	
+>UP000002113	Vibrio parahaemolyticus [670]
+ UP000001244	Vibrio parahaemolyticus [670]
+	
+>UP000002114	Lactobacillus rhamnosus [47715]
+	
+>UP000002115	Vibrio cholerae [666]
+	
+>UP000002116	Pseudomonas [286]
+	
+>UP000002117	Lactobacillus plantarum [1590]
+	
+>UP000002118	Pseudomonas aeruginosa [287]
+	
+>UP000002119	Salmonella enterica subsp. enterica serovar Typhimurium [90371]
+	
+>UP000002120	Mycobacterium [1763]
+	
+>UP000002121	Pseudomonas aeruginosa[287]
+	
+>UP000002123	Mycobacterium[1763]
+ UP000002876	Mycobacterium [1763]
+	
+>UP000002124	Streptomyces coelicolor[1902]
+	
+>UP000002125	Chlamydophila psittaci (Chlamydia psittaci)[83554]
+	
+>UP000002126	Escherichia coli[562]
+ UP000000856	Enterobacteriaceae[543]
+ UP000001615	Escherichia coli[562]
+ UP000008509	Escherichia coli[562]
+ UP000009132	Escherichia coli[562]
+	
+>UP000002127	Escherichia coli[562]
+ UP000000961	Escherichia coli[562]
+ UP000002582	Escherichia coli[562]
+ UP000007349	
+ UP000007873	Escherichia coli[562]
+ UP000008497	Escherichia coli[562]
+ UP000008508	Escherichia coli[562]
+	
+>UP000002130	Xanthomonas campestris [339]
+	
+>UP000002131	Mycobacterium[1763]
+ UP000013546	Mycobacterium [1763]
+ UP000013547	Mycobacterium [1763]
+	
+>UP000002132	Escherichia coli[562]
+	
+>UP000002133	Mycobacterium[1763]
+ UP000024442	Mycobacterium [1763]
+ UP000031077	Mycobacterium [1763]
+	
+>UP000002134	Streptococcus thermophilus [1308]
+	
+>UP000002135	Escherichia coli O157:H7[83334]
+ UP000001920	Escherichia coli O157:H7 [83334]
+ UP000002005	
+	
+>UP000002136	Pseudoalteromonas espejiana[28107]
+	
+>UP000002137	Escherichia coli[562]
+ UP000000889	
+ UP000000890	
+ UP000000891	
+ UP000000892	
+ UP000000897	
+ UP000000899	
+ UP000001001	
+ UP000001536	
+ UP000001723	Escherichia coli[562]
+ UP000002088	
+ UP000002122	Escherichia coli[562]
+ UP000002728	Escherichia coli (strain K12)[83333]
+	
+>UP000002138	Pseudomonas aeruginosa[287]
+	
+>UP000002143	Acinetobacter calcoaceticus[471]; Escherichia coli[562]; Proteus mirabilis[584]; Pseudomonas aeruginosa[287]; Pseudomonas fluorescens[294]; Pseudomonas putida (Arthrobacter siderocapsulatus)[303]; Salmonella typhimurium[90371]; Vibrio cholerae[666]
+ UP000001004	
+ UP000001050	Acinetobacter calcoaceticus[471]; Escherichia coli[562]; Proteus mirabilis[584]; Pseudomonas aeruginosa[287]; Pseudomonas fluorescens[294]; Pseudomonas putida (Arthrobacter siderocapsulatus)[303]; Salmonella typhimurium[90371]; Vibrio cholerae[666]
+ UP000001241	
+ UP000001242	
+ UP000001532	
+ UP000001541	
+	
+>UP000002144	Pseudomonas aeruginosa [287]
+ UP000001581	Pseudomonas aeruginosa [287]
+	
+>UP000002147	Salmonella [590]
+ UP000002864	Salmonella enterica subsp. enterica serovar Enteritidis [149539]
+ UP000002912	Salmonella [590]
+ UP000015387	Salmonella [590]
+ UP000017182	Salmonella [590]
+ UP000019743	Salmonella enterica subsp. enterica serovar Enteritidis [149539]
+	
+>UP000002150	Acidianus convivator[269667]
+	
+>UP000002151	Clostridium [1485]
+ UP000030737	Clostridium [1485]
+	
+>UP000002158	Lactococcus lactis [1358]
+	
+>UP000002174	Lactobacillus johnsonii [33959]
+	
+>UP000002175	Azospirillum [191]
+	
+>UP000002176	Mycobacterium [1763]
+ UP000000526	Mycobacterium [1763]
+	
+>UP000002181	Mycobacterium [1763]
+	
+>UP000002182	Mycobacterium [1763]
+	
+>UP000002184	Mycobacterium [1763]
+	
+>UP000002234	Lactococcus [1357]
+	
+>UP000002235	Aeromonas salmonicida [645]
+	
+>UP000002236	Aeromonas salmonicida [645]
+	
+>UP000002237	Pseudoalteromonas [53246]
+	
+>UP000002238	Gallus gallus (Chicken)[9031]
+ UP000007183	Gallus gallus (Chicken)[9031]
+	
+>UP000002239	Alopecurus aequalis[114194]; Echinochloa crus-galli (Barnyard grass) (Panicum crus-galli)[90397]; Nephotettix cincticeps (Green rice leafhopper) (Selenocephalus cincticeps)[94400]; Oryza sativa (Rice)[4530]; Paspalum[147271]
+	
+>UP000002240	Homo sapiens (Human)[9606]
+ UP000008601	Homo sapiens (Human)[9606]
+ UP000008602	Homo sapiens (Human)[9606]
+	
+>UP000002241	Homo sapiens (Human)[9606]
+ UP000007418	Homo sapiens (Human)[9606]
+ UP000007690	Homo sapiens (Human)[9606]
+ UP000007691	Homo sapiens (Human)[9606]
+ UP000007692	Homo sapiens (Human)[9606]
+ UP000007697	Homo sapiens (Human)[9606]
+ UP000007699	Homo sapiens (Human)[9606]
+ UP000009152	Pan troglodytes (Chimpanzee)[9598]
+ UP000009153	Pan (chimpanzees)[9596]
+	
+>UP000002242	Homo sapiens (Human)[9606]
+ UP000007426	Homo sapiens (Human)[9606]
+	
+>UP000002243	Commelina[4743]
+	
+>UP000002244	Manihot esculenta (Cassava) (Jatropha manihot)[3983]
+	
+>UP000002245	Petunia[4101]
+ UP000008483	Petunia[4101]
+	
+>UP000002246	Oryza sativa (Rice)[4530]
+	
+>UP000002251	Clostridium [1485]
+	
+>UP000002259	Haloarcula hispanica[51589]
+	
+>UP000002260	Sodalis glossinidius str. 'morsitans' [343509]
+ UP000002547	Sodalis glossinidius str. 'morsitans' [343509]
+	
+>UP000002270	Sulfolobus islandicus[43080]
+	
+>UP000002288	Burkholderia pseudomallei [28450]
+	
+>UP000002289	Burkholderia pseudomallei [28450]
+	
+>UP000002317	Bos taurus (Bovine)[9913]
+ UP000007619	Bos taurus (Bovine)[9913]
+	
+>UP000002319	Homo sapiens (Human)[9606]; Mus musculus (Mouse)[10090]; Sigmodon hispidus (Hispid cotton rat)[42415]; Sus scrofa (Pig)[9823]
+ UP000008660	Homo sapiens (Human)[9606]; Mus musculus (Mouse)[10090]; Sigmodon hispidus (Hispid cotton rat)[42415]; Sus scrofa (Pig)[9823]
+ UP000008661	Homo sapiens (Human)[9606]; Mus musculus (Mouse)[10090]; Sigmodon hispidus (Hispid cotton rat)[42415]; Sus scrofa (Pig)[9823]
+ UP000008662	Homo sapiens (Human)[9606]; Mus musculus (Mouse)[10090]; Sigmodon hispidus (Hispid cotton rat)[42415]; Sus scrofa (Pig)[9823]
+ UP000008663	Homo sapiens (Human)[9606]; Mus musculus (Mouse)[10090]; Oryctolagus cuniculus (Rabbit)[9986]
+	
+>UP000002325	Oryza sativa (Rice)[4530]
+	
+>UP000002326	Aphis[80764]; Bidens pilosa (Hairy beggarticks) (Cobbler's pegs)[42337]; Lactuca sativa (Garden lettuce)[4236]; Sonchus oleraceus (Common sowthistle)[50207]
+	
+>UP000002327	Aedes[7158]; Bos taurus (Bovine)[9913]; Culicoides[58271]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Lutzomyia[252607]; Musca domestica (House fly)[7370]; Simuliidae (black flies)[7190]; Sus scrofa (Pig)[9823]
+ UP000007544	Aedes[7158]; Bos taurus (Bovine)[9913]; Culicoides[58271]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Lutzomyia[252607]; Musca domestica (House fly)[7370]; Simuliidae (black flies)[7190]; Sus scrofa (Pig)[9823]
+ UP000007623	Aedes[7158]; Bos taurus (Bovine)[9913]; Culicoides[58271]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Lutzomyia[252607]; Musca domestica (House fly)[7370]; Simuliidae (black flies)[7190]; Sus scrofa (Pig)[9823]
+ UP000007624	Aedes[7158]; Bos taurus (Bovine)[9913]; Culicoides[58271]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Lutzomyia[252607]; Musca domestica (House fly)[7370]; Simuliidae (black flies)[7190]; Sus scrofa (Pig)[9823]
+ UP000007625	Aedes[7158]; Bos taurus (Bovine)[9913]; Culicoides[58271]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Lutzomyia[252607]; Musca domestica (House fly)[7370]; Simuliidae (black flies)[7190]; Sus scrofa (Pig)[9823]
+	
+>UP000002328	Gallus gallus (Chicken)[9031]
+	
+>UP000002331	Homo sapiens (Human)[9606]
+	
+>UP000002336	Lactococcus lactis [1358]
+	
+>UP000002337	Vibrio [662]
+	
+>UP000002339	Musa[4640]
+	
+>UP000002340	Bacillus thuringiensis [1428]
+	
+>UP000002341	Ruegeria pomeroyi DSS-3 [246200]
+ UP000002342	Sulfitobacter sp. EE-36 [52598]
+	
+>UP000002346	Rhodococcus equi [43767]
+	
+>UP000002348	Lactococcus lactis [1358]
+ UP000000839	Lactococcus lactis [1358]
+ UP000001253	Lactococcus lactis [1358]
+ UP000011278	Lactococcus [1357]
+ UP000014664	Lactococcus [1357]
+ UP000014665	Lactococcus [1357]
+ UP000014666	Lactococcus [1357]
+ UP000026903	Lactococcus [1357]
+	
+>UP000002369	Campylobacter [194]
+ UP000002370	Campylobacter [194]
+	
+>UP000002373	Klebsiella pneumoniae [573]
+ UP000010073	Klebsiella pneumoniae [573]
+	
+>UP000002375	Lactobacillus [1578]
+	
+>UP000002379	Bacillus anthracis [1392]
+	
+>UP000002403	Pasteurella multocida [747]
+	
+>UP000002405	Staphylococcus aureus subsp. aureus NCTC 8325 [93061]
+	
+>UP000002406	Mycobacterium [1763]
+ UP000005646	Mycobacterium [1763]
+ UP000005858	Mycobacterium [1763]
+ UP000006817	Mycobacterium [1763]
+ UP000008196	Mycobacterium [1763]
+ UP000009191	Mycobacterium [1763]
+	
+>UP000002413	Bacillus thuringiensis [1428]
+	
+>UP000002414	Corynebacterium glutamicum [1718]
+	
+>UP000002416	Streptococcus equi [1336]
+	
+>UP000002418	Bdellovibrio bacteriovorus[959]
+	
+>UP000002421	Pseudomonas chlororaphis [587753]
+	
+>UP000002422	Salmonella enterica subsp. enterica serovar Gallinarum [594]
+	
+>UP000002423	Staphylococcus aureus[1280]
+	
+>UP000002450	Staphylococcus aureus [1280]
+	
+>UP000002451	Staphylococcus aureus [1280]
+	
+>UP000002452	Stenotrophomonas maltophilia [40324]
+	
+>UP000002472	Homo sapiens (Human)[9606]
+ UP000007678	Homo sapiens (Human)[9606]
+	
+>UP000002474	Homo sapiens (Human)[9606]; Mesocricetus auratus (Golden hamster)[10036]; Mus musculus (Mouse)[10090]
+ UP000002473	Homo sapiens (Human)[9606]; Mastomys natalensis (African soft-furred rat) (Praomys natalensis)[10112]
+ UP000009261	Praomys (African soft-furred rats)[10111]
+	
+>UP000002476	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Homo sapiens (Human)[9606]
+	
+>UP000002477	Aedes[7158]; Bos taurus (Bovine)[9913]; Bos taurus x Bison bison (beefalo)[297284]; Camelus bactrianus (Bactrian camel)[9837]; Capra hircus (Goat)[9925]; Homo sapiens (Human)[9606]; Ovis aries (Sheep)[9940]; Phlebotomus papatasi (Sandfly)[29031]
+	
+>UP000002500	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Homo sapiens (Human)[9606]
+ UP000000273	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Aedes polynesiensis (Polynesian tiger mosquito)[188700]; Homo sapiens (Human)[9606]
+ UP000000274	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Aedes polynesiensis (Polynesian tiger mosquito)[188700]; Homo sapiens (Human)[9606]
+ UP000000275	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Aedes polynesiensis (Polynesian tiger mosquito)[188700]; Homo sapiens (Human)[9606]
+ UP000002324	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes furcifer (Mosquito)[299627]; Aedes taylori (Mosquito)[299628]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]
+ UP000002329	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000002475	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000002479	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000007195	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000007196	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000007197	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000007198	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000007199	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000007200	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000007201	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Aedes polynesiensis (Polynesian tiger mosquito)[188700]; Homo sapiens (Human)[9606]
+ UP000007202	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Aedes polynesiensis (Polynesian tiger mosquito)[188700]; Homo sapiens (Human)[9606]
+ UP000007537	Aedimorphus[53540]; Diceromyia[53539]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Stegomyia[53541]
+ UP000007764	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]; Homo sapiens (Human)[9606]
+ UP000008390	Aedes aegypti (Yellowfever mosquito) (Culex aegypti)[7159]; Aedes furcifer (Mosquito)[299627]; Aedes taylori (Mosquito)[299628]; Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]
+	
+>UP000002501	Arabidopsis thaliana (Mouse-ear cress)[3702]; Brassica[3705]; Raphanus[3725]
+ UP000008438	Arabidopsis thaliana (Mouse-ear cress)[3702]; Brassica[3705]; Raphanus[3725]
+ UP000008439	Arabidopsis thaliana (Mouse-ear cress)[3702]; Brassica[3705]; Raphanus[3725]
+ UP000008440	Arabidopsis thaliana (Mouse-ear cress)[3702]; Brassica[3705]; Raphanus[3725]
+ UP000008441	Arabidopsis thaliana (Mouse-ear cress)[3702]; Brassica[3705]; Raphanus[3725]
+	
+>UP000002502	Cucurbita pepo (Vegetable marrow) (Summer squash)[3663]; Nicotiana tabacum (Common tobacco)[4097]
+ UP000007399	Canna[4627]; Chrysanthemum morifolium (Florist's daisy) (Dendranthema grandiflorum)[41568]; Lilium[4688]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000002536	Streptococcus pyogenes [1314]
+	
+>UP000002537	Mycobacterium [1763]
+ UP000002720	Mycobacterium [1763]
+	
+>UP000002538	Sinorhizobium meliloti [382]
+	
+>UP000002539	Mycobacterium [1763]
+ UP000000906	Mycobacterium [1763]
+ UP000001200	Mycobacterium smegmatis [1772]
+ UP000002177	Mycobacterium [1763]
+ UP000002178	Mycobacterium [1763]
+ UP000002179	Mycobacterium [1763]
+ UP000005659	Mycobacterium [1763]
+ UP000008416	Mycobacterium [1763]
+	
+>UP000002545	Ralstonia pickettii [329]
+	
+>UP000002546	Lactobacillus gasseri [1596]
+	
+>UP000002548	Spiroplasma [2132]
+	
+>UP000002549	Burkholderia cepacia [292]
+	
+>UP000002550	Bacillus thuringiensis [1428]
+ UP000001470	Bacillus thuringiensis [1428]
+	
+>UP000002553	Mycoplasma arthritidis [2111]
+	
+>UP000002554	Haemophilus [724]
+	
+>UP000002555	Aeromonas hydrophila [644]
+ UP000008726	Aeromonas salmonicida [645]
+	
+>UP000002559	Bacillus subtilis[1423]
+	
+>UP000002563	Staphylococcus aureus [1280]
+	
+>UP000002575	Streptococcus thermophilus [1308]
+	
+>UP000002576	Escherichia coli[562]
+	
+>UP000002577	Vibrio parahaemolyticus [670]
+ UP000001612	Vibrio parahaemolyticus [670]
+	
+>UP000002578	Chlamydia psittaci [83554]
+ UP000000966	Chlamydophila abortus [83555]
+ UP000002109	Chlamydia pecorum [85991]
+	
+>UP000002579	Methanothermobacter wolfeii [145261]
+	
+>UP000002580	Bacillus subtilis[1423]
+	
+>UP000002581	Streptococcus thermophilus [1308]
+	
+>UP000002583	Lactococcus [1357]
+	
+>UP000002584	Lactococcus lactis subsp. lactis Il1403 [272623]
+	
+>UP000002585	Lactococcus lactis subsp. lactis Il1403 [272623]
+	
+>UP000002599	Erwinia amylovora [552]
+ UP000006893	Erwinia [551]
+ UP000008894	Erwinia [551]
+	
+>UP000002602	Homo sapiens (Human)[9606]
+ UP000002603	Homo sapiens (Human)[9606]
+ UP000008504	Homo sapiens (Human)[9606]
+ UP000008505	Homo sapiens (Human)[9606]
+	
+>UP000002604	Salmonella enterica subsp. enterica serovar Anatum [58712]
+ UP000001513	Salmonella enterica subsp. enterica serovar Anatum [58712]
+	
+>UP000002610	Pseudomonas savastanoi pv. phaseolicola (Pseudomonas syringae pv. phaseolicola)[319]
+	
+>UP000002611	Enterobacteriaceae[543]
+ UP000000320	Escherichia coli[562]
+ UP000032404	
+	
+>UP000002614	Shigella boydii [621]
+ UP000007005	Salmonella [590]
+	
+>UP000002615	Pseudomonas aeruginosa [287]
+	
+>UP000002621	Streptococcus thermophilus [1308]
+	
+>UP000002628	Clavibacter michiganensis subsp. michiganensis [33013]
+	
+>UP000002632	Klebsiella pneumoniae [573]
+	
+>UP000002633	Klebsiella pneumoniae [573]
+ UP000018882	Klebsiella [570]
+ UP000032401	Klebsiella [570]
+	
+>UP000002653	Tetrasphaera jenkinsii [330834]
+	
+>UP000002662	Staphylococcus [1279]
+ UP000007525	Staphylococcus [1279]
+	
+>UP000002665	Escherichia coli O157:H7[83334]
+ UP000028566	
+	
+>UP000002666	Listeria monocytogenes[1639]
+	
+>UP000002726	Candidatus Hamiltonella defensa [138072]
+	
+>UP000002820	
+ UP000002819	
+	
+>UP000002822	Mycobacterium [1763]
+ UP000005665	Mycobacterium [1763]
+ UP000017666	Mycobacterium [1763]
+	
+>UP000002823	Salmonella [590]
+	
+>UP000002824	Salmonella [590]
+	
+>UP000002825	Celeribacter [875170]
+	
+>UP000002827	Marinomonas [28253]
+	
+>UP000002828	Croceibacter atlanticus HTCC2559 [216432]
+	
+>UP000002867	Pseudomonas [286]
+	
+>UP000002873	Bacillus cereus [1396]
+	
+>UP000002880	Acinetobacter baumannii [470]
+	
+>UP000002883	Saccharomonospora [1851]
+	
+>UP000002884	Pseudomonas [286]
+	
+>UP000002887	Salisaeta sp. SP9-1 [1089709]
+	
+>UP000002889	Staphylococcus aureus [1280]
+ UP000011838	Staphylococcus [1279]
+ UP000015576	Staphylococcus [1279]
+	
+>UP000002893	Weissella [46255]
+	
+>UP000002900	Helicobacter pylori (strain 35A)[585535]; Helicobacter pylori (strain F16)[866344]; Helicobacter pylori (strain F30)[866345]; Helicobacter pylori (strain F32)[102608]; Helicobacter pylori (strain F57)[866346]
+ UP000002910	Helicobacter [209]
+	
+>UP000002902	Escherichia [561]
+	
+>UP000002904	Mycobacterium [1763]
+ UP000005863	Mycobacterium [1763]
+ UP000008921	Mycobacterium [1763]
+	
+>UP000002905	Yersinia enterocolitica [630]
+	
+>UP000002907	Yersinia [444888]
+	
+>UP000002908	Yersinia enterocolitica [630]
+	
+>UP000002909	Yersinia enterocolitica [630]
+ UP000031805	Yersinia [444888]
+	
+>UP000002924	Helicobacter pylori [210]
+	
+>UP000003122	Xanthomonas citri [346]
+	
+>UP000003749	Streptococcus [1301]
+	
+>UP000003753	Streptococcus [1301]
+	
+>UP000003754	Agrobacterium [357]
+	
+>UP000003794	Mycobacterium [1763]
+	
+>UP000003802	Erwinia [551]
+	
+>UP000004058	Campylobacter jejuni subsp. jejuni [32022]
+ UP000005880	Campylobacter jejuni [197]
+ UP000008182	Campylobacter [194]
+ UP000008310	Campylobacter jejuni [197]
+ UP000015548	Campylobacter [194]
+	
+>UP000004791	Salinivibrio [51366]
+	
+>UP000004795	Lactococcus Phage ASCC532 [1165160]
+ UP000004780	Lactococcus Phage ASCC365 [1165144]
+ UP000004783	Lactococcus Phage ASCC284 [1165137]
+ UP000004785	Lactococcus Phage ASCC310 [1165139]
+ UP000004788	Lactococcus Phage ASCC356 [1165142]
+ UP000007892	Lactococcus Phage ASCC281 [1165136]
+ UP000007895	Lactococcus Phage ASCC358 [1165143]
+	
+>UP000004993	Homo sapiens (Human)[9606]
+	
+>UP000005214	Clostridium sporogenes [1509]
+	
+>UP000005227	Vibrio cholerae[666]
+	
+>UP000005228	Aeromonas salmonicida [645]
+	
+>UP000005229	Bdellovibrio bacteriovorus [959]
+	
+>UP000005230	Pectobacterium carotovorum [554]
+	
+>UP000005231	Vibrio cholerae [666]
+	
+>UP000005232	Ralstonia solanacearum [305]
+ UP000014901	Ralstonia solanacearum [305]
+	
+>UP000005245	Pseudomonas [286]
+	
+>UP000005246	Acinetobacter [469]
+	
+>UP000005249	Xanthomonas vesicatoria [56460]
+	
+>UP000005256	Vibrio vulnificus [672]
+	
+>UP000005261	Stenotrophomonas [40323]
+	
+>UP000005266	Colwellia [28228]
+	
+>UP000005425	Mycobacterium [1763]
+	
+>UP000005427	Rhodococcus equi [43767]
+	
+>UP000005428	Rhodococcus [1661425]
+	
+>UP000005429	Nocardia brasiliensis [37326]
+	
+>UP000005430	Rhodococcus equi [43767]
+	
+>UP000005431	Rhodococcus equi [43767]
+	
+>UP000005432	Rhodococcus erythropolis [1833]
+	
+>UP000005433	Rhodococcus globerulus [33008]
+	
+>UP000005445	Bacillus cereus [1396]
+	
+>UP000005642	Gordonia [79255]
+ UP000007318	Gordonia [79255]
+	
+>UP000005647	Mycobacterium [1763]
+	
+>UP000005648	Mycobacterium [1763]
+ UP000015555	Mycobacterium [1763]
+ UP000015572	Mycobacterium [1763]
+	
+>UP000005652	Mycobacterium [1763]
+	
+>UP000005653	Mycobacterium [1763]
+ UP000016709	Mycobacterium [1763]
+ UP000016710	Mycobacterium [1763]
+ UP000018803	Mycobacterium [1763]
+	
+>UP000005654	Mycobacterium [1763]
+	
+>UP000005655	Mycobacterium [1763]
+	
+>UP000005661	Mycobacterium [1763]
+	
+>UP000005673	Clostridium perfringens [1502]
+ UP000005675	Clostridium perfringens [1502]
+	
+>UP000005674	Clostridium perfringens [1502]
+	
+>UP000005857	Mycobacterium [1763]
+	
+>UP000005860	Mycobacterium [1763]
+ UP000029350	Mycobacterium [1763]
+ UP000030714	Mycobacterium [1763]
+	
+>UP000005861	Mycobacterium [1763]
+ UP000009067	Mycobacterium [1763]
+	
+>UP000005862	Mycobacterium [1763]
+	
+>UP000005878	Gordonia [79255]
+	
+>UP000005879	Pediococcus [1253]
+ UP000008671	Lactobacillus [1578]
+	
+>UP000005882	Synechococcus sp. CB0201 [232352]
+	
+>UP000005883	Vibrio [662]
+	
+>UP000005886	Mycobacterium [1763]
+	
+>UP000005888	Rhodobacter [1060]
+	
+>UP000005893	Escherichia coli C[498388]
+ UP000000882	
+ UP000000883	
+ UP000000884	
+ UP000000885	
+ UP000000886	
+ UP000000887	
+ UP000000888	
+ UP000000893	
+ UP000000894	
+ UP000000895	
+ UP000000896	
+ UP000000898	
+ UP000000900	
+ UP000000914	
+ UP000001002	
+ UP000001045	Escherichia coli[562]
+ UP000001427	Escherichia coli[562]
+ UP000001428	Escherichia coli[562]
+ UP000001537	
+ UP000001559	Escherichia coli[562]
+ UP000001560	Escherichia coli[562]
+ UP000001561	Escherichia coli[562]
+ UP000001562	Escherichia coli[562]
+ UP000001563	Escherichia coli[562]
+ UP000001575	
+ UP000001583	
+ UP000001718	Escherichia coli[562]
+ UP000001831	
+ UP000001834	
+ UP000001860	Escherichia coli[562]
+ UP000002086	
+ UP000002087	
+ UP000002129	Salmonella[590]
+ UP000002140	Escherichia coli[562]
+ UP000002261	Salmonella[590]
+ UP000002262	Escherichia coli[562]
+ UP000002263	Escherichia coli[562]
+ UP000002264	Escherichia coli[562]
+ UP000002265	Escherichia coli[562]
+ UP000002266	Escherichia coli[562]
+ UP000002267	Escherichia coli[562]
+ UP000002268	Escherichia coli[562]
+ UP000002269	Escherichia coli[562]
+ UP000002551	
+ UP000002552	
+ UP000002556	
+ UP000002558	
+ UP000002560	
+ UP000002561	
+ UP000002562	
+ UP000004991	Escherichia coli[562]
+ UP000005624	Escherichia coli[562]
+ UP000005625	Escherichia coli[562]
+ UP000005891	Escherichia coli[562]
+ UP000005892	Escherichia coli[562]
+ UP000005894	Escherichia coli[562]
+ UP000005895	Escherichia coli[562]
+ UP000005896	Escherichia coli[562]
+ UP000005897	Escherichia coli[562]
+ UP000005898	Escherichia coli[562]
+ UP000005899	Escherichia coli[562]
+ UP000005900	Escherichia coli[562]
+ UP000005901	Escherichia coli[562]
+ UP000005902	Escherichia coli[562]
+ UP000005903	Escherichia coli[562]
+ UP000005904	Escherichia coli[562]
+ UP000005905	Escherichia coli[562]
+ UP000005906	Escherichia coli[562]
+ UP000005907	Escherichia coli[562]
+ UP000005908	Escherichia coli[562]
+ UP000005909	Escherichia coli[562]
+ UP000005910	Escherichia coli[562]
+ UP000005911	Escherichia coli[562]
+ UP000005912	Escherichia coli[562]
+ UP000005913	Escherichia coli[562]
+ UP000005914	Escherichia coli[562]
+ UP000005915	Escherichia coli[562]
+ UP000005916	Escherichia coli[562]
+ UP000005917	Escherichia coli[562]
+ UP000005918	Escherichia coli[562]
+ UP000005919	Escherichia coli[562]
+ UP000005920	Escherichia coli[562]
+ UP000005921	Escherichia coli[562]
+ UP000005922	Escherichia coli[562]
+ UP000005923	Escherichia coli[562]
+ UP000006106	Escherichia coli[562]
+ UP000006107	Escherichia coli[562]
+ UP000006108	Escherichia coli[562]
+ UP000006109	Escherichia coli[562]
+ UP000006110	Escherichia coli[562]
+ UP000006111	Escherichia coli[562]
+ UP000006112	Escherichia coli[562]
+ UP000006113	Escherichia coli[562]
+ UP000006114	Escherichia coli[562]
+ UP000006115	Escherichia coli[562]
+ UP000006116	Escherichia coli[562]
+ UP000006117	Escherichia coli[562]
+ UP000006118	Escherichia coli[562]
+ UP000006119	Escherichia coli[562]
+ UP000006125	Escherichia coli[562]
+ UP000006126	Escherichia coli[562]
+ UP000006127	Escherichia coli[562]
+ UP000006128	Escherichia coli[562]
+ UP000006129	Escherichia coli[562]
+ UP000006130	Escherichia coli[562]
+ UP000006131	Escherichia coli[562]
+ UP000006132	Escherichia coli[562]
+ UP000006644	
+ UP000006645	
+ UP000006646	
+ UP000006733	Escherichia coli[562]
+ UP000006734	Escherichia coli[562]
+ UP000006736	Escherichia coli[562]
+ UP000006935	Escherichia coli[562]
+ UP000006936	Escherichia coli[562]
+ UP000006937	Escherichia coli[562]
+ UP000006939	Escherichia coli[562]
+ UP000006940	Escherichia coli[562]
+ UP000006941	Escherichia coli[562]
+ UP000006942	Escherichia coli[562]
+ UP000006943	Escherichia coli[562]
+ UP000006944	Escherichia coli[562]
+ UP000007958	Escherichia coli[562]
+ UP000008340	Escherichia coli[562]
+ UP000008341	Escherichia coli[562]
+ UP000008342	Escherichia coli[562]
+ UP000008343	Escherichia coli[562]
+ UP000008344	Escherichia coli[562]
+ UP000008345	Escherichia coli[562]
+ UP000008346	Escherichia coli[562]
+ UP000008347	Escherichia coli[562]
+ UP000008348	Escherichia coli[562]
+ UP000008349	Escherichia coli[562]
+ UP000008350	Escherichia coli[562]
+ UP000008351	Escherichia coli[562]
+ UP000008352	Escherichia coli[562]
+ UP000008353	Escherichia coli[562]
+ UP000008354	Escherichia coli[562]
+ UP000008357	Escherichia coli[562]
+ UP000008924	
+ UP000009086	Escherichia coli[562]
+ UP000009127	Escherichia coli[562]
+ UP000009128	Escherichia coli[562]
+ UP000009129	Escherichia coli[562]
+ UP000011155	
+ UP000015540	
+ UP000015541	
+ UP000028660	
+	
+>UP000006040	Apis mellifera (Honeybee)[7460]
+	
+>UP000006047	Bacillus thuringiensis [1428]
+	
+>UP000006059	Mycobacterium [1763]
+	
+>UP000006060	Mycobacterium [1763]
+ UP000006066	Mycobacterium [1763]
+ UP000008526	Mycobacterium [1763]
+ UP000016708	Mycobacterium [1763]
+ UP000016713	Mycobacterium [1763]
+ UP000029886	Mycobacterium [1763]
+	
+>UP000006091	Clostridium [1485]
+	
+>UP000006092	Clostridium [1485]
+	
+>UP000006099	Bacillus cereus [1396]
+ UP000006291	Bacillus [55087]
+ UP000017657	Bacillus [55087]
+	
+>UP000006105	Pectobacterium [122277]
+	
+>UP000006144	Vibrio [662]
+	
+>UP000006145	Helicobacter [209]
+	
+>UP000006172	Enterococcus faecalis [1351]
+	
+>UP000006179	Thermoanaerobacterium [28895]
+	
+>UP000006183	Pseudomonas [286]
+	
+>UP000006280	Pectobacterium [122277]
+	
+>UP000006285	Bacillus [55087]
+ UP000026901	Bacillus [55087]
+ UP000026902	Bacillus thuringiensis [1428]
+ UP000026905	Bacillus [55087]
+	
+>UP000006290	Tramea lacerata [126233]
+	
+>UP000006298	Bacillus cereus [1396]
+	
+>UP000006361	Trifolium pratense (Red clover)[57577]
+	
+>UP000006364	Acidianus sp. F28[315458]
+	
+>UP000006367	Homo sapiens (Human)[9606]
+	
+>UP000006369	Bos taurus (Bovine)[9913]
+	
+>UP000006372	Homo sapiens (Human)[9606]
+ UP000007671	Homo sapiens (Human)[9606]
+	
+>UP000006460	Clostridium [1485]
+	
+>UP000006501	Pseudomonas aeruginosa PA14 [652611]
+	
+>UP000006508	Staphylococcus epidermidis [1282]
+	
+>UP000006509	Staphylococcus epidermidis [1282]
+	
+>UP000006511	Staphylococcus pasteuri [45972]
+ UP000006510	Bacillus [55087]
+	
+>UP000006518	Campoletis sonorensis[7416]
+	
+>UP000006523	Synechococcus [1129]
+	
+>UP000006524	Synechococcus [1129]
+	
+>UP000006525	Synechococcus [1129]
+	
+>UP000006526	Synechococcus [1129]
+	
+>UP000006527	Synechococcus [1129]
+	
+>UP000006528	Prochlorococcus [1218]
+	
+>UP000006529	
+ UP000011837	Prochlorococcus [1218]
+	
+>UP000006530	Prochlorococcus [1218]
+ UP000006538	Prochlorococcus [1218]
+ UP000012039	Prochlorococcus [1218]
+	
+>UP000006531	
+	
+>UP000006532	Prochlorococcus [1218]
+	
+>UP000006533	
+	
+>UP000006534	Prochlorococcus [1218]
+	
+>UP000006535	Synechococcus [1129]
+	
+>UP000006536	
+	
+>UP000006537	Prochlorococcus [1218]
+	
+>UP000006540	Mus musculus (Mouse)[10090]
+	
+>UP000006541	Avena sativa (Oat)[4498]; Axonopus compressus[217170]; Brachiaria deflexa[240436]; Cenchrus polystachios[281129]; Coix lacryma-jobi (Job's tears)[4505]; Dactyloctenium aegyptium[270102]; Digitaria[66017]; Echinochloa colona[90396]; Eleusine coracana (Indian finger millet) (Ragi)[4511]; Eleusine indica (Goosegrass) (Cynosurus indicus)[29674]; Hordeum vulgare (Barley)[4513]; Megathyrsus maximus[59788]; Melinis repens (Natal redtop) (Rhynchelytrum repens)[29709]; Oryza glaberrima (African rice)[4538]; Oryza sativa (Rice)[4530]; Paspalum conjugatum (Hilo grass)[158143]; Paspalum notatum (Bahia grass)[147272]; Paspalum scrobiculatum[173849]; Pennisetum americanum (Pearl millet) (Pennisetum glaucum)[4543]; Rottboellia cochinchinensis[300125]; Saccharum officinarum (Sugarcane)[4547]; Setaria barbata[192628]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+ UP000007779	Avena sativa (Oat)[4498]; Axonopus compressus[217170]; Brachiaria deflexa[240436]; Cenchrus polystachios[281129]; Coix lacryma-jobi (Job's tears)[4505]; Dactyloctenium aegyptium[270102]; Digitaria[66017]; Echinochloa colona[90396]; Eleusine coracana (Indian finger millet) (Ragi)[4511]; Eleusine indica (Goosegrass) (Cynosurus indicus)[29674]; Hordeum vulgare (Barley)[4513]; Megathyrsus maximus[59788]; Melinis repens (Natal redtop) (Rhynchelytrum repens)[29709]; Oryza glaberrima (African rice)[4538]; Oryza sativa (Rice)[4530]; Paspalum conjugatum (Hilo grass)[158143]; Paspalum notatum (Bahia grass)[147272]; Paspalum scrobiculatum[173849]; Pennisetum americanum (Pearl millet) (Pennisetum glaucum)[4543]; Rottboellia cochinchinensis[300125]; Saccharum officinarum (Sugarcane)[4547]; Setaria barbata[192628]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+ UP000008869	Avena sativa (Oat)[4498]; Axonopus compressus[217170]; Brachiaria deflexa[240436]; Cenchrus polystachios[281129]; Coix lacryma-jobi (Job's tears)[4505]; Dactyloctenium aegyptium[270102]; Digitaria[66017]; Echinochloa colona[90396]; Eleusine coracana (Indian finger millet) (Ragi)[4511]; Eleusine indica (Goosegrass) (Cynosurus indicus)[29674]; Hordeum vulgare (Barley)[4513]; Megathyrsus maximus[59788]; Melinis repens (Natal redtop) (Rhynchelytrum repens)[29709]; Oryza glaberrima (African rice)[4538]; Oryza sativa (Rice)[4530]; Paspalum conjugatum (Hilo grass)[158143]; Paspalum notatum (Bahia grass)[147272]; Paspalum scrobiculatum[173849]; Pennisetum americanum (Pearl millet) (Pennisetum glaucum)[4543]; Rottboellia cochinchinensis[300125]; Saccharum officinarum (Sugarcane)[4547]; Setaria barbata[192628]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+	
+>UP000006542	Beta vulgaris (Sugar beet)[161934]; Capsicum (peppers)[4071]; Cucurbitaceae[3650]; Linum[4005]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum tuberosum (Potato)[4113]; Spinacia oleracea (Spinach)[3562]
+	
+>UP000006543	Medicago arabica[70936]; Medicago lupulina[47085]; Medicago minima[70957]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Pisum sativum (Garden pea)[3888]; Trifolium cernuum[74509]; Trifolium dubium (Suckling clover) (Lesser trefoil)[97021]; Trifolium glomeratum[74514]; Trifolium pratense (Red clover)[57577]; Trifolium repens (Creeping white clover)[3899]; Trifolium subterraneum (Subterranean clover)[3900]; Vicia faba (Broad bean) (Faba vulgaris)[3906]; Wisteria sinensis[20997]
+	
+>UP000006547	Synechococcus [1129]
+	
+>UP000006550	Shigella flexneri [623]
+ UP000030325	Citrobacter [544]
+	
+>UP000006563	Cavia cutleri (Guinea pig)[10144]; Cricetidae sp. (Hamster)[36483]; Mus musculus (Mouse)[10090]; Rattus norvegicus (Rat)[10116]
+ UP000006560	Cavia cutleri (Guinea pig)[10144]; Cricetidae sp. (Hamster)[36483]; Mus musculus (Mouse)[10090]; Rattus norvegicus (Rat)[10116]
+ UP000006825	Cavia cutleri (Guinea pig)[10144]; Cricetidae sp. (Hamster)[36483]; Mus musculus (Mouse)[10090]; Rattus norvegicus (Rat)[10116]
+ UP000007191	Cavia cutleri (Guinea pig)[10144]; Cricetidae sp. (Hamster)[36483]; Mus musculus (Mouse)[10090]; Rattus norvegicus (Rat)[10116]
+ UP000007311	Cavia cutleri (Guinea pig)[10144]; Cricetidae sp. (Hamster)[36483]; Mus musculus (Mouse)[10090]; Rattus norvegicus (Rat)[10116]
+ UP000008510	Cavia cutleri (Guinea pig)[10144]; Cricetidae sp. (Hamster)[36483]; Mus musculus (Mouse)[10090]; Rattus norvegicus (Rat)[10116]
+ UP000008857	Cavia cutleri (Guinea pig)[10144]; Cricetidae sp. (Hamster)[36483]; Mus musculus (Mouse)[10090]; Rattus norvegicus (Rat)[10116]
+	
+>UP000006567	Bos taurus (Bovine)[9913]
+ UP000007612	Bos taurus (Bovine)[9913]
+	
+>UP000006568	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)[8022]
+ UP000007227	Salmo salar (Atlantic salmon)[8030]
+	
+>UP000006571	Equus caballus (Horse)[9796]
+	
+>UP000006576	Rousettus leschenaultii (Leschenault's rousette)[9408]
+	
+>UP000006579	Aedes[7158]; Culex annulirostris (Common banded mosquito)[162997]; Homo sapiens (Human)[9606]; Macropus sp. (kangaroo)[9322]
+	
+>UP000006624	Homo sapiens (Human)[9606]
+	
+>UP000006625	Mus musculus (Mouse)[10090]
+ UP000008875	Mus musculus (Mouse)[10090]
+	
+>UP000006635	Culex nigripalpus[42429]
+	
+>UP000006636	Tupaia[9394]
+	
+>UP000006649	Peptoclostridium difficile (Clostridium difficile)[1496]
+	
+>UP000006651	Escherichia coli O157:H7 [83334]
+ UP000033806	
+	
+>UP000006653	Aeromonas salmonicida [645]
+ UP000002894	Aeromonas sp. [647]
+ UP000003289	Aeromonas salmonicida [645]
+	
+>UP000006658	Pseudomonas[286]
+	
+>UP000006662	Lactococcus lactis [1358]
+	
+>UP000006664	Geobacillus sp. 6k51 [340407]
+	
+>UP000006667	Staphylococcus epidermidis [1282]
+	
+>UP000006674	Frankliniella occidentalis (Western flower thrips)[133901]; Scirtothrips dorsalis[163899]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Thrips tabaci[161014]
+	
+>UP000006675	Homo sapiens (Human)[9606]
+ UP000006827	Homo sapiens (Human)[9606]
+ UP000007708	Homo sapiens (Human)[9606]
+ UP000008105	Homo sapiens (Human)[9606]
+ UP000008106	Homo sapiens (Human)[9606]
+ UP000008107	Homo sapiens (Human)[9606]
+ UP000008108	Homo sapiens (Human)[9606]
+ UP000008109	Homo sapiens (Human)[9606]
+ UP000008110	Homo sapiens (Human)[9606]
+ UP000008111	Homo sapiens (Human)[9606]
+ UP000008112	Homo sapiens (Human)[9606]
+ UP000008113	Homo sapiens (Human)[9606]
+ UP000008114	Homo sapiens (Human)[9606]
+ UP000008115	Homo sapiens (Human)[9606]
+ UP000008116	Homo sapiens (Human)[9606]
+ UP000008235	Homo sapiens (Human)[9606]
+ UP000008686	Homo sapiens (Human)[9606]
+	
+>UP000006676	Eriophyes pyri (pearleaf blister mite)[483436]; Sorbus aucuparia (European mountain ash) (Rowan)[36599]
+	
+>UP000006677	Avena sativa (Oat)[4498]; Digitaria[66017]; Eragrostis[38413]; Hordeum vulgare (Barley)[4513]; Oryza sativa (Rice)[4530]; Setaria italica (Foxtail millet) (Panicum italicum)[4555]; Setaria viridis (Green bristlegrass) (Setaria italica subsp. viridis)[4556]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+	
+>UP000006678	Lactuca sativa (Garden lettuce)[4236]
+	
+>UP000006684	Pantoea agglomerans [549]
+	
+>UP000006685	Prunus armeniaca (Apricot) (Armeniaca vulgaris)[36596]; Prunus cerasifera (cherry plum)[36595]; Prunus domestica (Garden plum)[3758]; Prunus glandulosa[105665]; Prunus persica (Peach) (Amygdalus persica)[3760]; Prunus salicina[88123]; Prunus spinosa (Blackthorn) (Prunus domestica var. spinosa)[114937]
+ UP000007637	Prunus armeniaca (Apricot) (Armeniaca vulgaris)[36596]; Prunus cerasifera (cherry plum)[36595]; Prunus domestica (Garden plum)[3758]; Prunus glandulosa[105665]; Prunus persica (Peach) (Amygdalus persica)[3760]; Prunus salicina[88123]; Prunus spinosa (Blackthorn) (Prunus domestica var. spinosa)[114937]
+	
+>UP000006686	Prunus armeniaca (Apricot) (Armeniaca vulgaris)[36596]; Prunus cerasifera (cherry plum)[36595]; Prunus domestica (Garden plum)[3758]; Prunus glandulosa[105665]; Prunus persica (Peach) (Amygdalus persica)[3760]; Prunus salicina[88123]; Prunus spinosa (Blackthorn) (Prunus domestica var. spinosa)[114937]
+ UP000006849	Prunus armeniaca (Apricot) (Armeniaca vulgaris)[36596]; Prunus cerasifera (cherry plum)[36595]; Prunus domestica (Garden plum)[3758]; Prunus glandulosa[105665]; Prunus persica (Peach) (Amygdalus persica)[3760]; Prunus salicina[88123]; Prunus spinosa (Blackthorn) (Prunus domestica var. spinosa)[114937]
+	
+>UP000006687	Sus scrofa (Pig)[9823]
+ UP000000937	Sus scrofa (Pig)[9823]
+	
+>UP000006689	Pisum sativum (Garden pea)[3888]
+	
+>UP000006696	Leptolyngbya foveolarum [47253]
+ UP000017664	
+	
+>UP000006703	Rubus plicatus[211815]
+	
+>UP000006704	Hordeum vulgare (Barley)[4513]
+ UP000007446	Hordeum vulgare (Barley)[4513]
+ UP000007447	Hordeum vulgare (Barley)[4513]
+	
+>UP000006705	Homo sapiens (Human)[9606]
+ UP000001028	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000001322	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Gallus gallus (Chicken)[9031]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000007242	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Gallus gallus (Chicken)[9031]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000007243	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Gallus gallus (Chicken)[9031]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000007244	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000007245	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Gallus gallus (Chicken)[9031]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000007246	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Gallus gallus (Chicken)[9031]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000007247	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000008498	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Gallus gallus (Chicken)[9031]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000008858	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000008859	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+ UP000008989	Bandicota bengalensis (lesser bandicoot rat)[69079]; Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Mus musculus (Mouse)[10090]; Pan troglodytes (Chimpanzee)[9598]; Saimiri (squirrel monkeys)[9520]; Sus scrofa (Pig)[9823]
+	
+>UP000006707	Vitis vinifera (Grape)[29760]
+	
+>UP000006709	Dianthus barbatus[278075]; Dianthus caryophyllus (Carnation) (Clove pink)[3570]; Dianthus chinensis[118431]; Dianthus superbus[288950]; Saponaria officinalis (Common soapwort) (Lychnis saponaria)[3572]
+	
+>UP000006710	Acrocephalus scirpaceus (Eurasian reed-warbler)[48156]; Aedes[7158]; Culex[53527]; Homo sapiens (Human)[9606]; Motacilla alba (White wagtail) (Pied wagtail)[45807]; Streptopelia turtur[177155]
+ UP000006561	Acrocephalus scirpaceus (Eurasian reed-warbler)[48156]; Aedes[7158]; Culex[53527]; Homo sapiens (Human)[9606]; Motacilla alba (White wagtail) (Pied wagtail)[45807]; Streptopelia turtur[177155]
+ UP000007442	Aedes[7158]
+	
+>UP000006711	Helicoverpa armigera (Cotton bollworm) (Heliothis armigera)[29058]
+	
+>UP000006712	Lymantria dispar (Gypsy moth) (Porthetria dispar)[13123]
+	
+>UP000006713	
+	
+>UP000006714	Penicillium chrysogenum (Penicillium notatum)[5076]
+	
+>UP000006715	Solanum nigrum (Black nightshade)[4112]; Solanum tuberosum (Potato)[4113]
+	
+>UP000006716	Homo sapiens (Human)[9606]
+	
+>UP000006717	Gallus gallus (Chicken)[9031]
+ UP000007642	Gallus gallus (Chicken)[9031]
+	
+>UP000006719	Cryphonectria parasitica (Chesnut blight fungus) (Endothia parasitica)[5116]
+	
+>UP000006720	Nephotettix cincticeps (Green rice leafhopper) (Selenocephalus cincticeps)[94400]; Oryza sativa (Rice)[4530]
+	
+>UP000006721	Leishmania major[5664]
+	
+>UP000006722	Avena byzantina[146531]; Avena sativa (Oat)[4498]; Hordeum vulgare (Barley)[4513]; Lolium multiflorum (Italian ryegrass) (Lolium perenne subsp. multiflorum)[4521]; Lolium perenne (Perennial ryegrass)[4522]; Oryza sativa (Rice)[4530]; Secale cereale (Rye)[4550]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+	
+>UP000006723	Solanum tuberosum (Potato)[4113]
+ UP000000474	Solanum tuberosum (Potato)[4113]
+	
+>UP000006724	Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007712	Homo sapiens (Human)[9606]
+ UP000007899	Homo sapiens (Human)[9606]
+ UP000007900	Homo sapiens (Human)[9606]
+ UP000007901	Homo sapiens (Human)[9606]
+ UP000007902	Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007903	Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007904	Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007905	Homo sapiens (Human)[9606]
+ UP000008613	Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Macaca (macaques)[9539]; Pan troglodytes (Chimpanzee)[9598]
+	
+>UP000006815	Mycobacterium[1763]
+	
+>UP000006819	Mycobacterium [1763]
+	
+>UP000006824	Agaricus bisporus (White button mushroom)[5341]
+	
+>UP000006829	Listeria monocytogenes [1639]
+	
+>UP000006831	Periplaneta fuliginosa (Smokybrown cockroach) (Dusky-brown cockroach)[36977]
+	
+>UP000006840	Amazona oratrix (yellow-headed parrot)[152276]
+	
+>UP000006857	
+	
+>UP000006885	Abutilon[3630]; Gossypium hirsutum (Upland cotton) (Gossypium mexicanum)[3635]; Hibiscus[47605]; Malva[96479]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Sida[108335]
+ UP000002321	Capsicum annuum (Bell pepper)[4072]
+ UP000002323	Cynanchum acutum[185024]; Malva parviflora (Little mallow) (Cheeseweed mallow)[145753]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+ UP000006572	Macroptilium lathyroides[260885]; Malvastrum coromandelianum[108453]; Phaseolus lunatus (Lima bean) (Phaseolus limensis)[3884]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]
+ UP000006828	Solanum tuberosum (Potato)[4113]
+ UP000007210	Manihot esculenta (Cassava) (Jatropha manihot)[3983]
+ UP000007405	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000006895	Erwinia [551]
+	
+>UP000006896	Erwinia [551]
+ UP000001571	Erwinia amylovora [552]
+ UP000006894	Erwinia [551]
+	
+>UP000006921	
+	
+>UP000006923	Balsamorhiza sagittata[230209]; Malus domestica (Apple) (Pyrus malus)[3750]; Plantago major (Common plantain)[29818]; Prunus avium (Cherry) (Cerasus avium)[42229]; Prunus persica (Peach) (Amygdalus persica)[3760]; Taraxacum officinale (Common dandelion) (Leontodon taraxacum)[50225]
+	
+>UP000006925	Staphylococcus epidermidis [1282]
+	
+>UP000006933	Citrus[2706]
+	
+>UP000006947	Mycobacterium [1763]
+	
+>UP000007008	Pseudomonas fluorescens [294]
+	
+>UP000007017	Sulfolobus islandicus[43080]
+	
+>UP000007018	Mastomys natalensis (African soft-furred rat) (Praomys natalensis)[10112]
+	
+>UP000007019	Mus musculus (Mouse)[10090]
+ UP000000468	Sus scrofa (Pig)[9823]
+ UP000002478	Felidae (cat family)[9681]; Nasua nasua (Ring-tailed coati)[9651]; Procyon lotor (Raccoon)[9654]
+ UP000007717	Neovison vison (American mink) (Mustela vison)[452646]
+ UP000007897	Cricetidae sp. (Hamster)[36483]; Rattus norvegicus (Rat)[10116]
+ UP000008155	Sus scrofa (Pig)[9823]
+ UP000008295	Canis familiaris (Dog) (Canis lupus familiaris)[9615]; Felis catus (Cat) (Felis silvestris catus)[9685]
+	
+>UP000007020	Helicoverpa zea (Corn earworm moth) (Heliothis zea)[7113]; Lepidoptera (butterflies and moths)[7088]; Ostrinia nubilalis (European corn borer) (Pyralis nubilalis)[29057]
+ UP000008292	Lepidoptera (butterflies and moths)[7088]
+	
+>UP000007021	Crassostrea gigas (Pacific oyster) (Crassostrea angulata)[29159]; Pecten maximus (King scallop) (Pilgrim's clam)[6579]
+	
+>UP000007022	Bos taurus (Bovine)[9913]
+	
+>UP000007023	Sus scrofa (Pig)[9823]
+ UP000000470	Sus scrofa (Pig)[9823]
+	
+>UP000007024	Haloarcula hispanica[51589]
+	
+>UP000007025	Crataegus (hawthorn)[23159]; Cydonia oblonga (Quince) (Pyrus cydonia)[36610]; Malus sylvestris[3752]; Prunus armeniaca (Apricot) (Armeniaca vulgaris)[36596]; Prunus domestica (Garden plum)[3758]; Prunus persica (Peach) (Amygdalus persica)[3760]; Prunus spinosa (Blackthorn) (Prunus domestica var. spinosa)[114937]; Pyrus communis (Pear) (Pyrus domestica)[23211]
+ UP000000397	Crataegus (hawthorn)[23159]; Cydonia oblonga (Quince) (Pyrus cydonia)[36610]; Malus sylvestris[3752]; Prunus armeniaca (Apricot) (Armeniaca vulgaris)[36596]; Prunus domestica (Garden plum)[3758]; Prunus persica (Peach) (Amygdalus persica)[3760]; Prunus spinosa (Blackthorn) (Prunus domestica var. spinosa)[114937]; Pyrus communis (Pear) (Pyrus domestica)[23211]
+	
+>UP000007026	Burkholderia [32008]
+	
+>UP000007045	Acinetobacter [469]
+	
+>UP000007049	Homo sapiens (Human)[9606]
+	
+>UP000007051	Thalassomonas [137583]
+	
+>UP000007068	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum nigrum (Black nightshade)[4112]
+	
+>UP000007070	Homo sapiens (Human)[9606]
+ UP000007680	Homo sapiens (Human)[9606]
+ UP000007681	Homo sapiens (Human)[9606]
+ UP000007682	Homo sapiens (Human)[9606]
+ UP000013736	Homo sapiens (Human)[9606]
+	
+>UP000007071	Zea mays (Maize)[4577]
+	
+>UP000007078	Homo sapiens (Human)[9606]
+	
+>UP000007079	Sus scrofa (Pig)[9823]
+	
+>UP000007080	Aotus trivirgatus (Three-striped night monkey) (Douroucouli)[9505]
+	
+>UP000007081	Sander vitreus (Walleye) (Perca vitrea)[283036]
+ UP000008337	Sander vitreus (Walleye) (Perca vitrea)[283036]
+	
+>UP000007083	Equus caballus (Horse)[9796]
+	
+>UP000007084	Ipomoea batatas (Sweet potato) (Convolvulus batatas)[4120]
+	
+>UP000007085	Oryza sativa subsp. japonica (Rice)[39947]
+	
+>UP000007086	Oryza sativa (Rice)[4530]
+ UP000007184	Oryza sativa (Rice)[4530]
+	
+>UP000007103	Aethusa cynapium (Fool's parsley)[40954]; Anethum graveolens (Dill)[40922]; Anthriscus cerefolium (chervil)[40888]; Anthriscus sylvestris[48027]; Apium graveolens (Celery)[4045]; Chaerophyllum temulum[105274]; Coriandrum sativum (Coriander) (Chinese parsley)[4047]; Daucus carota (Wild carrot)[4039]; Heracleum sphondylium[40919]; Oenanthe aquatica[305795]; Pastinaca sativa (Parsnip) (Anethum pastinaca)[4041]; Torilis japonica[49576]
+	
+>UP000007163	Synechococcus sp. CB0101 [232348]
+	
+>UP000007167	Aeromonas salmonicida subsp. salmonicida [29491]
+	
+>UP000007172	Pseudomonas [286]
+	
+>UP000007175	Campylobacter [194]
+	
+>UP000007178	
+	
+>UP000007182	Fragaria vesca (Woodland strawberry) (Potentilla vesca)[57918]; Narcissus pseudonarcissus (Daffodil)[39639]; Rubus idaeus (Raspberry)[32247]
+	
+>UP000007190	Saccharomyces cerevisiae (Baker's yeast)[4932]
+	
+>UP000007192	Mus musculus (Mouse)[10090]
+	
+>UP000007193	Mus musculus (Mouse)[10090]
+ UP000001985	Homo sapiens (Human)[9606]
+ UP000006551	Homo sapiens (Human)[9606]
+ UP000007552	Homo sapiens (Human)[9606]
+ UP000008170	Homo sapiens (Human)[9606]
+	
+>UP000007206	Mammalia[40674]
+ UP000006363	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000006366	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000006826	Canis familiaris (Dog) (Canis lupus familiaris)[9615]; Chodsigoa caovansunga (Shrew)[269271]; Felis catus (Cat) (Felis silvestris catus)[9685]; Rodentia[9989]
+ UP000006845	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000006846	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000006884	Homo sapiens (Human)[9606]; Pteropus alecto (Black flying fox)[9402]; Pteropus conspicillatus (Spectacled flying fox)[328804]; Pteropus poliocephalus (Grey-headed flying fox)[9403]; Pteropus scapulatus (Little red flying fox)[94117]; Saccolaimus[446909]
+ UP000006934	Homo sapiens (Human)[9606]; Pteropus alecto (Black flying fox)[9402]; Pteropus conspicillatus (Spectacled flying fox)[328804]; Pteropus poliocephalus (Grey-headed flying fox)[9403]; Pteropus scapulatus (Little red flying fox)[94117]; Saccolaimus[446909]
+ UP000007308	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000007309	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000007310	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000007445	Myotis blythii (Lesser mouse-eared bat)[109482]
+ UP000008381	Murina leucogaster (Greater tube-nosed bat)[187017]
+ UP000008617	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000008618	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000008619	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000008620	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000008649	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000008650	Homo sapiens (Human)[9606]; Mammalia[40674]
+ UP000008926	Mammalia[40674]
+ UP000008996	Homo sapiens (Human)[9606]; Mammalia[40674]
+	
+>UP000007209	Epomops franqueti (Franquet's epauleted fruit bat)[77231]; Homo sapiens (Human)[9606]; Myonycteris torquata (Little collared fruit bat)[77243]
+ UP000000277	Epomops franqueti (Franquet's epauleted fruit bat)[77231]; Homo sapiens (Human)[9606]; Myonycteris torquata (Little collared fruit bat)[77243]
+ UP000002322	Homo sapiens (Human)[9606]; Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)[9541]; Pteropodinae[77225]; Sus scrofa (Pig)[9823]
+ UP000007207	Epomops franqueti (Franquet's epauleted fruit bat)[77231]; Homo sapiens (Human)[9606]; Myonycteris torquata (Little collared fruit bat)[77243]; Sus scrofa (Pig)[9823]
+ UP000007208	Epomops franqueti (Franquet's epauleted fruit bat)[77231]; Homo sapiens (Human)[9606]; Myonycteris torquata (Little collared fruit bat)[77243]
+	
+>UP000007212	Salmo[8028]
+ UP000007211	Salmo[8028]
+ UP000008118	Acanthopagrus schlegelii (Black porgy)[72011]; Paralichthys olivaceus (Bastard halibut) (Hippoglossus olivaceus)[8255]; Plecoglossus altivelis (Ayu)[61084]; Sebastes inermis (Dark-banded rockfish)[160818]
+	
+>UP000007215	Ovis aries (Sheep)[9940]
+	
+>UP000007217	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]
+	
+>UP000007218	Crotalaria juncea (Sunn hemp)[3829]; Lablab purpureus (Hyacinth bean) (Dolichos lablab)[35936]; Mucuna[40336]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000007219	Gobiosoma bosc (naked goby)[203314]
+	
+>UP000007222	Pan troglodytes (Chimpanzee)[9598]
+	
+>UP000007223	Mammalia[40674]
+	
+>UP000007225	Chenopodium quinoa (Quinoa)[63459]; Fragaria vesca (Woodland strawberry) (Potentilla vesca)[57918]; Rubus rosifolius[59498]
+	
+>UP000007230	Cenchrus echinatus[173841]; Saccharum officinarum (Sugarcane)[4547]
+	
+>UP000007231	Simiiformes[314293]
+	
+>UP000007232	Canis familiaris (Dog) (Canis lupus familiaris)[9615]; Homo sapiens (Human)[9606]
+	
+>UP000007235	Meleagris gallopavo (Common turkey)[9103]
+	
+>UP000007248	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)[8022]; Salmo[8028]
+ UP000007213	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)[8022]; Salmo[8028]
+	
+>UP000007249	Gallus gallus (Chicken)[9031]; Meleagris gallopavo (Common turkey)[9103]
+ UP000007429	Gallus gallus (Chicken)[9031]; Meleagris gallopavo (Common turkey)[9103]
+	
+>UP000007250	Channa lucius[64146]
+	
+>UP000007251	Cryphonectria parasitica (Chesnut blight fungus) (Endothia parasitica)[5116]
+ UP000008451	Cryphonectria parasitica (Chesnut blight fungus) (Endothia parasitica)[5116]
+	
+>UP000007252	Homo sapiens (Human)[9606]
+	
+>UP000007253	Mammalia[40674]
+ UP000006370	Mammalia[40674]
+ UP000006373	Mammalia[40674]
+	
+>UP000007261	Lactobacillus sp. [1591]
+	
+>UP000007262	Lactobacillus sp. [1591]
+	
+>UP000007263	Enterobacter cloacae [550]
+	
+>UP000007317	Mycobacterium [1763]
+	
+>UP000007323	Erwinia pyrifoliae [79967]
+	
+>UP000007327	Cronobacter [413496]
+	
+>UP000007330	Escherichia [561]
+ UP000012985	Escherichia [561]
+	
+>UP000007331	Escherichia [561]
+	
+>UP000007333	Pseudomonas [286]
+	
+>UP000007334	Pseudomonas [286]
+	
+>UP000007345	Salmonella [590]
+	
+>UP000007380	Carica papaya (Papaya)[3649]
+ UP000006688	Carica papaya (Papaya)[3649]
+	
+>UP000007387	Dickeya solani [1089444]
+ UP000028741	Dickeya [204037]
+	
+>UP000007396	Vibrio [662]
+ UP000002626	Vibrio [662]
+ UP000007496	Vibrio cholerae [666]
+ UP000007497	Vibrio [662]
+ UP000007498	Vibrio [662]
+ UP000007499	Vibrio [662]
+	
+>UP000007402	Ixodes persulcatus (Taiga tick)[34615]; Ixodes ricinus (Common tick)[34613]
+ UP000006848	Dermacentor andersoni (Rocky mountain wood tick)[34620]; Homo sapiens (Human)[9606]; Ixodes cookei[35565]; Ixodes scapularis (Black-legged tick) (Deer tick)[6945]; Ixodes spinipalpis[34614]; Lepus americanus (Snowshoe hare)[48086]; Marmota monax (Woodchuck)[9995]
+ UP000007400	Ixodes persulcatus (Taiga tick)[34615]; Ixodes ricinus (Common tick)[34613]
+ UP000007401	Ixodes persulcatus (Taiga tick)[34615]; Ixodes ricinus (Common tick)[34613]
+ UP000007644	Bos taurus (Bovine)[9913]; Canis familiaris (Dog) (Canis lupus familiaris)[9615]; Cervinae[34878]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Ixodes ricinus (Common tick)[34613]; Ovis aries (Sheep)[9940]; Sus scrofa (Pig)[9823]
+ UP000007766	Homo sapiens (Human)[9606]; Ixodida (ticks)[6935]
+	
+>UP000007404	Capsicum annuum (Bell pepper)[4072]; Cassia[53851]; Datura stramonium (Jimsonweed) (Common thornapple)[4076]; Nicotiana tabacum (Common tobacco)[4097]; Physalis[24663]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000007420	Homo sapiens (Human)[9606]
+ UP000007714	Homo sapiens (Human)[9606]
+	
+>UP000007424	Homo sapiens (Human)[9606]
+ UP000005623	Macaca (macaques)[9539]
+ UP000007220	Cercopithecidae (Old World monkeys)[9527]
+ UP000007221	Cercopithecidae (Old World monkeys)[9527]
+ UP000007421	Homo sapiens (Human)[9606]
+ UP000007422	Homo sapiens (Human)[9606]
+ UP000007423	Homo sapiens (Human)[9606]
+ UP000007425	Homo sapiens (Human)[9606]
+ UP000007427	Homo sapiens (Human)[9606]
+ UP000007713	Homo sapiens (Human)[9606]
+ UP000008173	Cercopithecidae (Old World monkeys)[9527]
+	
+>UP000007428	Homo sapiens (Human)[9606]
+	
+>UP000007430	Escherichia coli [562]
+ UP000007042	Shigella sonnei [624]
+ UP000030716	
+ UP000030717	
+ UP000030718	
+	
+>UP000007432	Bombyx mori (Silk moth)[7091]
+	
+>UP000007439	Gallus gallus (Chicken)[9031]
+	
+>UP000007440	Gallus gallus (Chicken)[9031]; Meleagris gallopavo (Common turkey)[9103]
+	
+>UP000007443	Papio (baboons)[9554]; Theropithecus gelada (Gelada baboon)[9565]
+	
+>UP000007444	Hordeum vulgare (Barley)[4513]
+	
+>UP000007449	Tylonycteris pachypus (Lesser bamboo bat)[258959]
+ UP000006574	Tylonycteris pachypus (Lesser bamboo bat)[258959]
+	
+>UP000007451	Pipistrellus abramus (Japanese pipistrelle) (Pipistrellus javanicus abramus)[105295]
+	
+>UP000007453	Phaseolus vulgaris (Kidney bean) (French bean)[3885]
+	
+>UP000007454	Gracula[116991]; Psittaciformes[9223]
+	
+>UP000007462	Staphylococcus aureus[1280]
+ UP000000923	Staphylococcus aureus [1280]
+ UP000001356	Staphylococcus aureus [1280]
+ UP000001767	Staphylococcus aureus [1280]
+ UP000007856	Staphylococcus aureus[1280]
+ UP000007857	Staphylococcus aureus[1280]
+ UP000019369	Staphylococcus [1279]
+	
+>UP000007475	Pseudomonas fluorescens [294]
+	
+>UP000007493	Pseudomonas [286]
+	
+>UP000007500	Vibrio cholerae [666]
+ UP000007501	Vibrio [662]
+ UP000028661	Vibrio [662]
+	
+>UP000007502	Vibrio cholerae [666]
+ UP000007655	Vibrio [662]
+ UP000007656	Vibrio [662]
+ UP000007657	Vibrio [662]
+ UP000007658	Vibrio [662]
+ UP000007659	Vibrio [662]
+ UP000007660	Vibrio [662]
+ UP000008985	Vibrio [662]
+	
+>UP000007518	Rhodobacter [1060]
+	
+>UP000007520	Vibrio [662]
+	
+>UP000007524	Klebsiella sp. [576]
+	
+>UP000007528	Gallus gallus (Chicken)[9031]
+ UP000007539	Gallus gallus (Chicken)[9031]
+ UP000008442	Gallus gallus (Chicken)[9031]
+ UP000008443	Gallus gallus (Chicken)[9031]
+ UP000008444	Gallus gallus (Chicken)[9031]
+	
+>UP000007540	Colocasia esculenta (Wild taro) (Arum esculentum)[4460]
+	
+>UP000007545	Beta vulgaris (Sugar beet)[161934]; Brassica napus subsp. rapifera[3709]; Brassica napus var. napus[138011]; Brassica nigra (Black mustard) (Sinapis nigra)[3710]; Brassica oleracea var. botrytis (Cauliflower)[3715]; Brassica oleracea var. capitata (Cabbage)[3716]; Brassica rapa subsp. rapa (Turnip)[51350]; Capsicum annuum (Bell pepper)[4072]; Cicer arietinum (Chickpea) (Garbanzo)[3827]; Citrullus lanatus (Watermelon) (Citrullus vulgaris)[3654]; Crambe hispanica subsp. abyssinica (Abyssinian kale) (Crambe abyssinica)[3721]; Cucumis sativus (Cucumber)[3659]; Cucurbita pepo (Vegetable marrow) (Summer squash)[3663]; Glycine max (Soybean) (Glycine hispida)[3847]; Helianthus annuus (Common sunflower)[4232]; Lactuca sativa (Garden lettuce)[4236]; Phlox drummondii (Annual phlox)[103529]; Pisum sativum (Garden pea)[3888]; Raphanus sativus (Radish)[3726]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Spinacia oleracea (Spinach)[3562]; Trifolium subterraneum (Subterranean clover)[3900]; Vicia faba (Broad bean) (Faba vulgaris)[3906]
+	
+>UP000007546	Sus scrofa (Pig)[9823]
+ UP000007543	Sus scrofa (Pig)[9823]
+	
+>UP000007547	Cynanchum acutum[185024]; Malva parviflora (Little mallow) (Cheeseweed mallow)[145753]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+ UP000008246	Cynanchum acutum[185024]; Malva parviflora (Little mallow) (Cheeseweed mallow)[145753]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000007548	Datura stramonium (Jimsonweed) (Common thornapple)[4076]; Datura stramonium var. tatula[239686]; Nicotiana tabacum (Common tobacco)[4097]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000007550	Homo sapiens (Human)[9606]
+ UP000008256	Homo sapiens (Human)[9606]
+	
+>UP000007551	Homo sapiens (Human)[9606]
+	
+>UP000007553	Homo sapiens (Human)[9606]
+	
+>UP000007554	Bos taurus (Bovine)[9913]
+ UP000008570	Bos taurus (Bovine)[9913]
+ UP000008571	Bos taurus (Bovine)[9913]
+ UP000008572	Bos taurus (Bovine)[9913]
+	
+>UP000007566	Synechococcus [1129]
+ UP000007166	Synechococcus [1129]
+ UP000007565	Synechococcus [1129]
+	
+>UP000007595	Vibrio [662]
+	
+>UP000007596	Synechococcus [1129]
+ UP000018809	Synechococcus [1129]
+	
+>UP000007597	Synechococcus [1129]
+	
+>UP000007608	Psittacidae (parrots)[9224]
+	
+>UP000007610	Desmodium[53866]; Glycine max (Soybean) (Glycine hispida)[3847]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]
+	
+>UP000007611	Xanthomonas campestris pv. campestris[340]
+	
+>UP000007613	Bos taurus (Bovine)[9913]
+	
+>UP000007614	Ribes nigrum (European black currant)[78511]
+	
+>UP000007615	Allium porrum (Leek) (Allium ampeloprasum var. porrum)[4681]; Apium graveolens (Celery)[4045]; Beta vulgaris (Sugar beet)[161934]; Fraxinus (ash trees)[38871]; Lactuca sativa (Garden lettuce)[4236]; Narcissus pseudonarcissus (Daffodil)[39639]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Robinia pseudoacacia (Black locust)[35938]; Rubus (bramble)[23216]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum tuberosum (Potato)[4113]; Tulipa[13305]; Vitis[3603]
+	
+>UP000007616	Bos taurus (Bovine)[9913]
+	
+>UP000007618	Bos taurus (Bovine)[9913]
+ UP000008568	Sus scrofa (Pig)[9823]
+ UP000008569	Sus scrofa (Pig)[9823]
+	
+>UP000007620	Arachis hypogaea (Peanut)[3818]; Canna[4627]; Crotalaria[3828]; Eustoma[52517]; Freesia[58987]; Gladiolus[49747]; Glycine max (Soybean) (Glycine hispida)[3847]; Lupinus luteus (European yellow lupin)[3873]; Medicago sativa (Alfalfa)[3879]; Papaver somniferum (Opium poppy)[3469]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Pisum sativum (Garden pea)[3888]; Robinia pseudoacacia (Black locust)[35938]; Trifolium hybridum (Alsike clover)[74517]; Trifolium incarnatum (Crimson clover)[60916]; Trifolium pratense (Red clover)[57577]; Trifolium repens (Creeping white clover)[3899]; Trifolium subterraneum (Subterranean clover)[3900]; Trifolium vesiculosum[97047]; Trigonella foenum-graecum (Fenugreek)[78534]; Vicia faba (Broad bean) (Faba vulgaris)[3906]; Vicia sativa (Spring vetch) (Tare)[3908]
+	
+>UP000007622	Brassica oleracea (Wild cabbage)[3712]
+ UP000009151	Cucurbita moschata (Winter crookneck squash) (Cucurbita pepo var. moschata)[3662]; Cucurbita pepo (Vegetable marrow) (Summer squash)[3663]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]
+	
+>UP000007626	Aedes[7158]; Bos taurus (Bovine)[9913]; Culicoides[58271]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Lutzomyia[252607]; Musca domestica (House fly)[7370]; Simuliidae (black flies)[7190]; Sus scrofa (Pig)[9823]
+	
+>UP000007627	Trifolium[3898]
+ UP000007628	Trifolium[3898]
+	
+>UP000007629	Avena sativa (Oat)[4498]; Hordeum vulgare (Barley)[4513]; Lolium multiflorum (Italian ryegrass) (Lolium perenne subsp. multiflorum)[4521]; Secale cereale (Rye)[4550]; Triticum aestivum (Wheat)[4565]
+	
+>UP000007630	Aedes[7158]; Anopheles[7164]; Carpodacus mexicanus (House finch) (Haemorhous mexicanus)[30427]; Culex tarsalis (Encephalitis mosquito)[7177]; Homo sapiens (Human)[9606]; Lepus americanus (Snowshoe hare)[48086]; Lithobates pipiens (Northern leopard frog) (Rana pipiens)[8404]; Passer domesticus (House sparrow) (Fringilla domestica)[48849]; Thamnophis[34999]; Urocitellus richardsonii (Richardson's ground squirrel) (Spermophilus richardsonii)[37591]
+	
+>UP000007631	Marmota monax (Woodchuck)[9995]
+ UP000000287	Marmota monax (Woodchuck)[9995]
+ UP000007542	Marmota monax (Woodchuck)[9995]
+ UP000007632	Marmota monax (Woodchuck)[9995]
+ UP000008172	Sciurus carolinensis (Gray squirrel)[30640]; Spermophilus beecheyi (California ground squirrel) (Otospermophilus beecheyi)[34862]
+ UP000008598	Marmota monax (Woodchuck)[9995]
+ UP000009156	Spermophilus (old world ground squirrels)[9996]
+	
+>UP000007633	Callithrix[9481]; Cercopithecus hamlyni (Owl-faced monkey) (Hamlyn's monkey)[9536]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Macaca (macaques)[9539]; Pan troglodytes (Chimpanzee)[9598]
+	
+>UP000007634	Ailuropoda melanoleuca (Giant panda)[9646]; Ailurus fulgens (Lesser panda) (Red panda)[9649]; Canis familiaris (Dog) (Canis lupus familiaris)[9615]; Mustela[9665]; Panthera leo (Lion)[9689]; Procyon lotor (Raccoon)[9654]; Zalophus californianus (California sealion)[9704]
+	
+>UP000007640	Homo sapiens (Human)[9606]
+ UP000007639	Homo sapiens (Human)[9606]
+ UP000007641	Homo sapiens (Human)[9606]
+	
+>UP000007643	Ictaluridae (bullhead catfishes)[7996]
+	
+>UP000007661	Sus scrofa (Pig)[9823]
+ UP000007224	Otariidae (fur seals & sea lions)[9702]
+	
+>UP000007662	Antilocapra americana (Pronghorn)[9891]; Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Culicoides variipennis[46212]; Ovis aries (Sheep)[9940]
+	
+>UP000007663	Homo sapiens (Human)[9606]
+ UP000008656	Homo sapiens (Human)[9606]
+	
+>UP000007664	Homo sapiens (Human)[9606]
+ UP000008175	Sus scrofa (Pig)[9823]
+	
+>UP000007665	Homo sapiens (Human)[9606]
+	
+>UP000007666	Homo sapiens (Human)[9606]
+ UP000009126	Homo sapiens (Human)[9606]
+ UP000009155	Homo sapiens (Human)[9606]
+	
+>UP000007668	Homo sapiens (Human)[9606]
+	
+>UP000007670	Homo sapiens (Human)[9606]
+	
+>UP000007673	Homo sapiens (Human)[9606]
+	
+>UP000007674	Homo sapiens (Human)[9606]
+	
+>UP000007677	Homo sapiens (Human)[9606]
+	
+>UP000007679	Homo sapiens (Human)[9606]
+ UP000013737	Homo sapiens (Human)[9606]
+	
+>UP000007688	Homo sapiens (Human)[9606]
+ UP000007693	Homo sapiens (Human)[9606]
+ UP000007694	Homo sapiens (Human)[9606]
+ UP000007695	Homo sapiens (Human)[9606]
+	
+>UP000007689	Homo sapiens (Human)[9606]
+ UP000007698	Homo sapiens (Human)[9606]
+	
+>UP000007696	Homo sapiens (Human)[9606]
+ UP000007685	Homo sapiens (Human)[9606]
+ UP000007686	Homo sapiens (Human)[9606]
+ UP000007687	Homo sapiens (Human)[9606]
+	
+>UP000007701	Burkholderia [32008]
+	
+>UP000007705	Macaca (macaques)[9539]
+	
+>UP000007711	Homo sapiens (Human)[9606]
+	
+>UP000007743	Pseudomonas aeruginosa [287]
+	
+>UP000007744	Pseudomonas aeruginosa [287]
+	
+>UP000007746	Pseudomonas [286]
+	
+>UP000007749	Salmonella [590]
+	
+>UP000007763	Cestrum parqui[142762]
+	
+>UP000007767	Homo sapiens (Human)[9606]
+	
+>UP000007771	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)[9407]
+ UP000000838	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)[9407]
+ UP000007772	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)[9407]
+ UP000008239	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)[9407]
+ UP000008242	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]; Rousettus aegyptiacus (Egyptian rousette) (Egyptian fruit bat)[9407]
+	
+>UP000007773	Neovison vison (American mink) (Mustela vison)[452646]
+	
+>UP000007776	Mus musculus (Mouse)[10090]
+ UP000007777	Mus musculus (Mouse)[10090]
+ UP000007778	Mus musculus (Mouse)[10090]
+ UP000008877	Mus musculus (Mouse)[10090]
+	
+>UP000007781	Avena sativa (Oat)[4498]; Axonopus compressus[217170]; Brachiaria deflexa[240436]; Cenchrus polystachios[281129]; Coix lacryma-jobi (Job's tears)[4505]; Dactyloctenium aegyptium[270102]; Digitaria[66017]; Echinochloa colona[90396]; Eleusine coracana (Indian finger millet) (Ragi)[4511]; Eleusine indica (Goosegrass) (Cynosurus indicus)[29674]; Hordeum vulgare (Barley)[4513]; Megathyrsus maximus[59788]; Melinis repens (Natal redtop) (Rhynchelytrum repens)[29709]; Oryza glaberrima (African rice)[4538]; Oryza sativa (Rice)[4530]; Paspalum conjugatum (Hilo grass)[158143]; Paspalum notatum (Bahia grass)[147272]; Paspalum scrobiculatum[173849]; Pennisetum americanum (Pearl millet) (Pennisetum glaucum)[4543]; Rottboellia cochinchinensis[300125]; Saccharum officinarum (Sugarcane)[4547]; Setaria barbata[192628]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+ UP000007780	Avena sativa (Oat)[4498]; Axonopus compressus[217170]; Brachiaria deflexa[240436]; Cenchrus polystachios[281129]; Coix lacryma-jobi (Job's tears)[4505]; Dactyloctenium aegyptium[270102]; Digitaria[66017]; Echinochloa colona[90396]; Eleusine coracana (Indian finger millet) (Ragi)[4511]; Eleusine indica (Goosegrass) (Cynosurus indicus)[29674]; Hordeum vulgare (Barley)[4513]; Megathyrsus maximus[59788]; Melinis repens (Natal redtop) (Rhynchelytrum repens)[29709]; Oryza glaberrima (African rice)[4538]; Oryza sativa (Rice)[4530]; Paspalum conjugatum (Hilo grass)[158143]; Paspalum notatum (Bahia grass)[147272]; Paspalum scrobiculatum[173849]; Pennisetum americanum (Pearl millet) (Pennisetum glaucum)[4543]; Rottboellia cochinchinensis[300125]; Saccharum officinarum (Sugarcane)[4547]; Setaria barbata[192628]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+ UP000007782	Avena sativa (Oat)[4498]; Axonopus compressus[217170]; Brachiaria deflexa[240436]; Cenchrus polystachios[281129]; Coix lacryma-jobi (Job's tears)[4505]; Dactyloctenium aegyptium[270102]; Digitaria[66017]; Echinochloa colona[90396]; Eleusine coracana (Indian finger millet) (Ragi)[4511]; Eleusine indica (Goosegrass) (Cynosurus indicus)[29674]; Hordeum vulgare (Barley)[4513]; Megathyrsus maximus[59788]; Melinis repens (Natal redtop) (Rhynchelytrum repens)[29709]; Oryza glaberrima (African rice)[4538]; Oryza sativa (Rice)[4530]; Paspalum conjugatum (Hilo grass)[158143]; Paspalum notatum (Bahia grass)[147272]; Paspalum scrobiculatum[173849]; Pennisetum americanum (Pearl millet) (Pennisetum glaucum)[4543]; Rottboellia cochinchinensis[300125]; Saccharum officinarum (Sugarcane)[4547]; Setaria barbata[192628]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+ UP000008872	Avena sativa (Oat)[4498]; Axonopus compressus[217170]; Brachiaria deflexa[240436]; Cenchrus polystachios[281129]; Coix lacryma-jobi (Job's tears)[4505]; Dactyloctenium aegyptium[270102]; Digitaria[66017]; Echinochloa colona[90396]; Eleusine coracana (Indian finger millet) (Ragi)[4511]; Eleusine indica (Goosegrass) (Cynosurus indicus)[29674]; Hordeum vulgare (Barley)[4513]; Megathyrsus maximus[59788]; Melinis repens (Natal redtop) (Rhynchelytrum repens)[29709]; Oryza glaberrima (African rice)[4538]; Oryza sativa (Rice)[4530]; Paspalum conjugatum (Hilo grass)[158143]; Paspalum notatum (Bahia grass)[147272]; Paspalum scrobiculatum[173849]; Pennisetum americanum (Pearl millet) (Pennisetum glaucum)[4543]; Rottboellia cochinchinensis[300125]; Saccharum officinarum (Sugarcane)[4547]; Setaria barbata[192628]; Triticum aestivum (Wheat)[4565]; Zea mays (Maize)[4577]
+	
+>UP000007783	Mus musculus (Mouse)[10090]
+	
+>UP000007784	Glycine max (Soybean) (Glycine hispida)[3847]; Vigna mungo (Black gram) (Phaseolus mungo)[3915]; Vigna radiata (Mung bean)[157791]; Vigna radiata var. radiata (Mung bean) (Phaseolus aureus)[3916]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000007785	Hordeum vulgare (Barley)[4513]
+	
+>UP000007786	Ovis aries (Sheep)[9940]
+	
+>UP000007789	Ononis[58889]
+	
+>UP000007795	Asparagus officinalis (Garden asparagus)[4686]; Dahlia[41562]; Glycine max (Soybean) (Glycine hispida)[3847]; Gossypium herbaceum (Levant cotton) (Arabian cotton)[34274]; Melilotus albus (White sweet clover) (Melilotus officinalis subsp. albus)[47082]; Nicotiana tabacum (Common tobacco)[4097]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Rosa setigera[137000]; Trifolium pratense (Red clover)[57577]
+	
+>UP000007804	Bos taurus (Bovine)[9913]; Bradypodidae (three-fingered sloths)[9352]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Crocidura leucodon (Bicoloured white-toothed shrew) (Celebes shrew)[109474]; Equidae (horses)[9788]; Felis catus (Cat) (Felis silvestris catus)[9685]; Hexaprotodon liberiensis (Pygmy hippopotamus) (Choeropsis liberiensis)[56798]; Lama glama (Llama)[9844]; Oryctolagus cuniculus (Rabbit)[9986]; Ovis aries (Sheep)[9940]; Struthio camelus (Common ostrich)[8801]; Varecia variegata (Black-and-white ruffed lemur) (Lemur variegatus)[9455]; Vicugna pacos (Alpaca) (Lama pacos)[30538]
+ UP000006642	Bos taurus (Bovine)[9913]; Bradypodidae (three-fingered sloths)[9352]; Capra hircus (Goat)[9925]; Cervidae (deer)[9850]; Crocidura leucodon (Bicoloured white-toothed shrew) (Celebes shrew)[109474]; Equidae (horses)[9788]; Felis catus (Cat) (Felis silvestris catus)[9685]; Hexaprotodon liberiensis (Pygmy hippopotamus) (Choeropsis liberiensis)[56798]; Lama glama (Llama)[9844]; Oryctolagus cuniculus (Rabbit)[9986]; Ovis aries (Sheep)[9940]; Struthio camelus (Common ostrich)[8801]; Varecia variegata (Black-and-white ruffed lemur) (Lemur variegatus)[9455]; Vicugna pacos (Alpaca) (Lama pacos)[30538]
+	
+>UP000007817	Burkholderia [32008]
+	
+>UP000007840	Planktothrix agardhii HAB637 [598707]
+	
+>UP000007858	Bacillus [55087]
+	
+>UP000007859	Escherichia [561]
+	
+>UP000007860	Escherichia [561]
+	
+>UP000007862	Clostridium perfringens [1502]
+	
+>UP000007863	Bacillus cereus [1396]
+ UP000006292	Bacillus [55087]
+	
+>UP000007864	Pseudomonas [286]
+	
+>UP000007870	Bacteroides fragilis [817]
+	
+>UP000007890	Sphingomonas [13687]
+	
+>UP000007896	Megathyrsus maximus[59788]
+	
+>UP000007929	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007908	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007919	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007924	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007927	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007932	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+	
+>UP000007940	Synechococcus sp. CB0204 [232353]
+	
+>UP000007941	Synechococcus sp. CB0202 [305430]
+	
+>UP000007943	Riemerella anatipestifer [34085]
+	
+>UP000007957	Lactococcus lactis [1358]
+ UP000001048	Lactococcus [1357]
+	
+>UP000007960	Salmonella typhimurium[90371]
+ UP000001315	Salmonella typhimurium[90371]
+ UP000001795	Salmonella typhimurium[90371]
+ UP000001796	Salmonella typhimurium[90371]
+ UP000002165	Salmonella typhimurium[90371]
+	
+>UP000007964	Lactobacillus delbrueckii subsp. lactis [29397]
+	
+>UP000008012	Staphylococcus hominis [1290]
+	
+>UP000008013	Staphylococcus hominis [1290]
+	
+>UP000008014	Staphylococcus capitis [29388]
+	
+>UP000008015	Mycobacterium [1763]
+	
+>UP000008020	Salmonella [590]
+	
+>UP000008024	Enterobacter cancerogenus [69218]
+	
+>UP000008026	Artibeus (neotropical fruit bats)[9416]
+ UP000008164	Hylaeamys megacephalus (Large-headed rice rat) (Oryzomys megacephalus)[89099]
+ UP000008449	Homo sapiens (Human)[9606]
+ UP000009260	Homo sapiens (Human)[9606]; Zygodontomys brevicauda[157541]
+ UP000009263	Calomys callosus (Large vesper mouse)[56210]; Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)[9534]; Homo sapiens (Human)[9606]
+ UP000009267	Homo sapiens (Human)[9606]
+	
+>UP000008027	Homo sapiens (Human)[9606]
+	
+>UP000008030	Spodoptera frugiperda (Fall armyworm)[7108]
+	
+>UP000008033	Glycine max (Soybean) (Glycine hispida)[3847]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Vigna mungo (Black gram) (Phaseolus mungo)[3915]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000008034	Sigmodon hispidus (Hispid cotton rat)[42415]
+	
+>UP000008038	Providencia [586]
+	
+>UP000008040	Streptomyces venezuelae [54571]
+	
+>UP000008041	Streptomyces coelicolor A3(2) [100226]
+ UP000002921	Streptomyces [1883]
+	
+>UP000008042	Streptomyces coelicolor A3(2) [100226]
+	
+>UP000008045	
+	
+>UP000008060	Acinetobacter [469]
+	
+>UP000008061	Lactobacillus [1578]
+	
+>UP000008072	Gallus gallus (Chicken)[9031]
+	
+>UP000008085	
+	
+>UP000008086	
+ UP000008516	
+	
+>UP000008089	Ovis aries (Sheep)[9940]
+	
+>UP000008090	Vibrio parahaemolyticus [670]
+	
+>UP000008091	Enterobacteriaceae[543]
+ UP000001577	Enterobacteriaceae[543]
+	
+>UP000008125	Pseudomonas aeruginosa[287]
+ UP000002449	Pseudomonas aeruginosa [287]
+ UP000005265	Pseudomonas aeruginosa [287]
+ UP000006741	Pseudomonas [286]
+ UP000007438	Pseudomonas aeruginosa [287]
+ UP000007574	Pseudomonas aeruginosa [287]
+ UP000008822	Pseudomonas aeruginosa [287]
+ UP000008823	Pseudomonas aeruginosa [287]
+ UP000019158	Pseudomonas aeruginosa [287]
+ UP000030228	Pseudomonas [286]
+	
+>UP000008151	Listeria monocytogenes[1639]
+	
+>UP000008154	Lactuca sativa (Garden lettuce)[4236]; Sonchus asper (Spiny sowthistle) (Sonchus oleraceus var. asper)[50193]; Sonchus oleraceus (Common sowthistle)[50207]
+	
+>UP000008158	Homo sapiens (Human)[9606]
+	
+>UP000008159	Sus scrofa (Pig)[9823]
+	
+>UP000008167	Homo sapiens (Human)[9606]
+ UP000004992	Homo sapiens (Human)[9606]
+ UP000008437	Homo sapiens (Human)[9606]
+	
+>UP000008168	Microplitis demolitor[69319]
+	
+>UP000008169	Macaca mulatta (Rhesus macaque)[9544]
+	
+>UP000008184	Escherichia coli[562]
+	
+>UP000008222	Homo sapiens (Human)[9606]
+ UP000007675	Homo sapiens (Human)[9606]
+ UP000007676	Homo sapiens (Human)[9606]
+ UP000009123	Homo sapiens (Human)[9606]
+	
+>UP000008226	Homo sapiens (Human)[9606]
+ UP000009121	Homo sapiens (Human)[9606]
+	
+>UP000008228	Homo sapiens (Human)[9606]
+	
+>UP000008231	Hylobatidae (gibbons)[9577]
+ UP000007765	Phascolarctos cinereus (Koala)[38626]
+	
+>UP000008238	Aedes[7158]
+	
+>UP000008249	Nicotiana tabacum (Common tobacco)[4097]
+	
+>UP000008255	Avena sativa (Oat)[4498]; Hordeum vulgare (Barley)[4513]; Secale cereale (Rye)[4550]; Triticum aestivum (Wheat)[4565]; x Triticosecale[49317]
+	
+>UP000008257	Homo sapiens (Human)[9606]
+	
+>UP000008258	Homo sapiens (Human)[9606]
+	
+>UP000008259	Homo sapiens (Human)[9606]
+	
+>UP000008260	Homo sapiens (Human)[9606]
+	
+>UP000008261	Homo sapiens (Human)[9606]
+	
+>UP000008262	Alliaria petiolata (Garlic mustard) (Arabis petiolata)[126270]; Brassica[3705]; Calanthe[38206]; Capsella bursa-pastoris (Shepherd's purse) (Thlaspi bursa-pastoris)[3719]; Hesperis matronalis[264418]; Stellaria media (Common chickweed) (Alsine media)[13274]; Trifolium hybridum (Alsike clover)[74517]
+ UP000008263	Alliaria[126269]; Brassica[3705]; Calanthe[38206]; Capsella bursa-pastoris (Shepherd's purse) (Thlaspi bursa-pastoris)[3719]; Hesperis matronalis[264418]; Stellaria media (Common chickweed) (Alsine media)[13274]; Trifolium hybridum (Alsike clover)[74517]
+	
+>UP000008264	Brassicaceae[3700]
+ UP000008609	Brassica napus (Rape)[3708]
+	
+>UP000008266	Cynanchum acutum[185024]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum nigrum (Black nightshade)[4112]
+ UP000008265	Cynanchum acutum[185024]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum nigrum (Black nightshade)[4112]
+	
+>UP000008267	Nicotiana tabacum (Common tobacco)[4097]; Sigesbeckia orientalis[185191]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000008269	Homo sapiens (Human)[9606]
+	
+>UP000008285	Aves[8782]; Felis catus (Cat) (Felis silvestris catus)[9685]; Homo sapiens (Human)[9606]; Panthera pardus (Leopard) (Felis pardus)[9691]; Panthera tigris (Tiger)[9694]; Sus scrofa (Pig)[9823]
+	
+>UP000008286	Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+	
+>UP000008288	Rattus[10114]
+	
+>UP000008294	Lepidoptera (butterflies and moths)[7088]
+ UP000007205	Diatraea saccharalis (sugarcane borer)[40085]
+	
+>UP000008298	Aedes[7158]; Homo sapiens (Human)[9606]; Passeriformes[9126]
+ UP000008300	Bos taurus (Bovine)[9913]; Didelphis marsupialis (Southern opossum)[9268]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Melanoconion[53535]; Philander opossum (Gray four-eyed opossum)[9272]; Proechimys[10162]; Sigmodon hispidus (Hispid cotton rat)[42415]
+	
+>UP000008314	Salmonella [590]
+	
+>UP000008331	Listeria [1637]
+	
+>UP000008338	Bacillus subtilis[1423]
+ UP000002667	Bacillus subtilis[1423]
+	
+>UP000008356	Escherichia coli[562]
+ UP000006123	Escherichia coli[562]
+ UP000006124	Escherichia coli[562]
+ UP000006945	Escherichia coli[562]
+	
+>UP000008377	Carthamus tinctorius (Safflower)[4222]; Cicer arietinum (Chickpea) (Garbanzo)[3827]; Cichorium endivia (Endive)[114280]; Cichorium intybus (Chicory)[13427]; Eustoma exaltatum subsp. russellianum (Bluebells) (Eustoma grandiflorum)[52518]; Lactuca[4235]; Pisum sativum (Garden pea)[3888]; Spinacia oleracea (Spinach)[3562]
+ UP000008378	Carthamus tinctorius (Safflower)[4222]; Cicer arietinum (Chickpea) (Garbanzo)[3827]; Cichorium endivia (Endive)[114280]; Cichorium intybus (Chicory)[13427]; Eustoma exaltatum subsp. russellianum (Bluebells) (Eustoma grandiflorum)[52518]; Lactuca[4235]; Pisum sativum (Garden pea)[3888]; Spinacia oleracea (Spinach)[3562]
+	
+>UP000008388	Pseudomonas [286]
+	
+>UP000008391	Mycobacterium [1763]
+	
+>UP000008395	Mycobacterium [1763]
+ UP000008396	Mycobacterium [1763]
+ UP000009003	
+	
+>UP000008400	Mycobacterium [1763]
+	
+>UP000008401	Mycobacterium [1763]
+	
+>UP000008402	Mycobacterium [1763]
+	
+>UP000008407	Mycobacterium [1763]
+	
+>UP000008408	Mycobacterium [1763]
+	
+>UP000008409	Mycobacterium [1763]
+	
+>UP000008418	Mycobacterium [1763]
+	
+>UP000008426	Mycobacterium [1763]
+	
+>UP000008429	Mycobacterium [1763]
+	
+>UP000008436	Pan troglodytes (Chimpanzee)[9598]
+	
+>UP000008446	Dianthus caryophyllus (Carnation) (Clove pink)[3570]
+	
+>UP000008447	Citrullus[3653]; Cucumis sativus (Cucumber)[3659]; Lagenaria siceraria (Bottle gourd) (Lagenaria leucantha)[3668]
+	
+>UP000008448	Homo sapiens (Human)[9606]; Phlebotominae (sandflies)[7198]
+	
+>UP000008453	Hewittia sublobata[197394]; Jatropha multifida (Coralbush)[3996]; Laportea[194268]; Manihot esculenta (Cassava) (Jatropha manihot)[3983]
+	
+>UP000008454	Cucumis sativus (Cucumber)[3659]; Nicotiana tabacum (Common tobacco)[4097]; Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000008465	Pantoea agglomerans [549]
+	
+>UP000008469	Mammalia[40674]
+	
+>UP000008470	Mustela[9665]
+	
+>UP000008471	Bombyx mori (Silk moth)[7091]
+	
+>UP000008472	Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta)[7160]
+	
+>UP000008476	Bos taurus (Bovine)[9913]
+	
+>UP000008477	Mesocricetus auratus (Golden hamster)[10036]
+	
+>UP000008478	Homo sapiens (Human)[9606]
+ UP000008166	Homo sapiens (Human)[9606]
+ UP000008475	Homo sapiens (Human)[9606]
+ UP000008990	Homo sapiens (Human)[9606]
+	
+>UP000008479	Mus musculus (Mouse)[10090]
+ UP000006847	Mus musculus (Mouse)[10090]
+	
+>UP000008481	
+	
+>UP000008484	Solanum tuberosum (Potato)[4113]
+ UP000007549	Nicotiana tabacum (Common tobacco)[4097]; Rumex[3618]
+	
+>UP000008488	Salmonella [590]
+ UP000011828	Salmonella [590]
+ UP000016455	Salmonella [590]
+ UP000016456	Salmonella [590]
+	
+>UP000008506	Homo sapiens (Human)[9606]
+	
+>UP000008507	Homo sapiens (Human)[9606]
+	
+>UP000008518	Mycobacterium [1763]
+ UP000032126	Mycobacterium [1763]
+	
+>UP000008519	Mycobacterium [1763]
+	
+>UP000008530	Salmonella [590]
+ UP000007004	Salmonella [590]
+	
+>UP000008551	Mycobacterium smegmatis [1772]
+ UP000024437	Mycobacterium [1763]
+	
+>UP000008564	Aucuba japonica (Japanese laurel) (Spotted laurel)[16901]; Cycas revoluta (Sago palm)[3396]; Gladiolus[49747]
+	
+>UP000008573	Homo sapiens (Human)[9606]
+	
+>UP000008576	Aves[8782]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]
+ UP000008581	Aves[8782]
+	
+>UP000008588	Bos taurus (Bovine)[9913]; Bubalus bubalis (Domestic water buffalo)[89462]; Culicoides[58271]; Syncerus caffer (African buffalo)[9970]
+	
+>UP000008589	Cajanus cajan (Pigeon pea) (Cajanus indicus)[3821]; Crotalaria juncea (Sunn hemp)[3829]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000008590	Teleogryllus oceanicus (black field cricket)[128161]
+	
+>UP000008591	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000001180	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000001181	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000001182	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000001183	Pongo pygmaeus (Bornean orangutan)[9600]
+ UP000001386	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000001387	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000001388	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000001503	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000001799	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000002445	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007406	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007407	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007408	Hylobatidae (gibbons)[9577]
+ UP000007409	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007526	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007535	Gorilla gorilla (western gorilla)[9593]
+ UP000007906	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007907	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007909	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007910	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007911	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007912	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007915	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007917	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007918	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007920	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007921	Homo sapiens (Human)[9606]
+ UP000007922	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007923	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007925	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007926	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007928	Pan troglodytes (Chimpanzee)[9598]
+ UP000007930	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000007931	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008031	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008032	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008282	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008283	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008284	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008500	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008501	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008502	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008503	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008537	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008538	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008599	Lagothrix lagotricha (Brown woolly monkey) (Humboldt's woolly monkey)[9519]
+ UP000008675	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+ UP000008766	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+	
+>UP000008592	Embergeria[43191]; Lactuca sativa (Garden lettuce)[4236]; Reichardia tingitana[43208]; Sonchus hydrophilus[255580]; Sonchus oleraceus (Common sowthistle)[50207]
+	
+>UP000008593	Rottboellia[300124]; Setaria[4554]; Sorghum bicolor (Sorghum) (Sorghum vulgare)[4558]; Zea mays (Maize)[4577]
+	
+>UP000008594	Aedes[7158]; Lepidoptera (butterflies and moths)[7088]; Sus scrofa (Pig)[9823]
+	
+>UP000008595	Homo sapiens (Human)[9606]; Ixodes ricinus (Common tick)[34613]
+	
+>UP000008596	Erythrocebus patas (Red guenon) (Cercopithecus patas)[9538]; Homo sapiens (Human)[9606]; Macaca (macaques)[9539]; Papio hamadryas (Hamadryas baboon)[9557]
+	
+>UP000008597	Vertebrata[7742]
+	
+>UP000008600	Aedes[7158]; Amblyomma variegatum (Tropical bont tick)[34610]; Aves[8782]; Culex[53527]; Homo sapiens (Human)[9606]; Hyalomma marginatum[34627]; Mansonia uniformis[308735]; Mimomyia[308737]; Rhipicephalus[34630]
+ UP000007214	Ardeidae (herons)[8899]; Bos taurus (Bovine)[9913]; Culex gelidus[308713]; Culex tritaeniorhynchus (Mosquito)[7178]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000007715	Ardeidae (herons)[8899]; Bos taurus (Bovine)[9913]; Culex gelidus[308713]; Culex tritaeniorhynchus (Mosquito)[7178]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008379	Ciconiiformes[8920]; Culex annulirostris (Common banded mosquito)[162997]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]
+ UP000008380	Ardeidae (herons)[8899]; Bos taurus (Bovine)[9913]; Culex gelidus[308713]; Culex tritaeniorhynchus (Mosquito)[7178]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008863	Culex annulirostris (Common banded mosquito)[162997]; Homo sapiens (Human)[9606]
+	
+>UP000008610	Citrullus lanatus (Watermelon) (Citrullus vulgaris)[3654]; Cucumis melo (Muskmelon)[3656]; Cucumis sativus (Cucumber)[3659]; Cucurbita pepo (Vegetable marrow) (Summer squash)[3663]
+ UP000000471	Arachis hypogaea (Peanut)[3818]; Arachis pintoi[108216]; Cassia[53851]; Glycine max (Soybean) (Glycine hispida)[3847]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Pisum sativum (Garden pea)[3888]; Stylosanthes[35627]
+ UP000007016	Glycine max (Soybean) (Glycine hispida)[3847]
+ UP000007189	Glycine max (Soybean) (Glycine hispida)[3847]
+ UP000007452	Phaseolus vulgaris (Kidney bean) (French bean)[3885]
+ UP000007617	Amaranthus retroflexus (Redroot amaranth) (Redroot pigweed)[124763]; Beta vulgaris subsp. maritima (Sea beet) (Beta maritima)[350892]; Beta vulgaris subsp. vulgaris[3555]; Chenopodium album (Fat-hen)[3559]; Melilotus indicus (Sourclover) (Yellow sweet clover)[200951]; Sonchus arvensis (Perennial sowthistle)[50192]; Spinacia oleracea (Spinach)[3562]; Trifolium incarnatum (Crimson clover)[60916]
+ UP000008611	Citrullus lanatus (Watermelon) (Citrullus vulgaris)[3654]; Cucumis melo (Muskmelon)[3656]; Cucumis sativus (Cucumber)[3659]; Cucurbita pepo (Vegetable marrow) (Summer squash)[3663]
+ UP000008612	Citrullus lanatus (Watermelon) (Citrullus vulgaris)[3654]; Cucumis melo (Muskmelon)[3656]; Cucumis sativus (Cucumber)[3659]; Cucurbita pepo (Vegetable marrow) (Summer squash)[3663]
+	
+>UP000008622	Scrophularia californica (California bee plant)[46031]
+	
+>UP000008623	Setaria italica (Foxtail millet) (Panicum italicum)[4555]; Setaria viridis (Green bristlegrass) (Setaria italica subsp. viridis)[4556]
+	
+>UP000008624	Apium graveolens (Celery)[4045]; Vitis vinifera (Grape)[29760]
+	
+>UP000008626	Anser (geese)[8842]
+	
+>UP000008627	Apodemus agrarius (Eurasian field mouse)[39030]; Homo sapiens (Human)[9606]
+ UP000008482	Homo sapiens (Human)[9606]; Myodes glareolus (Bank vole) (Clethrionomys glareolus)[447135]
+	
+>UP000008644	Enterococcus [1350]
+	
+>UP000008646	Mycobacterium [1763]
+	
+>UP000008647	Cronobacter [413496]
+	
+>UP000008648	Erwinia amylovora [552]
+	
+>UP000008651	Medicago sativa (Alfalfa)[3879]; Melilotus officinalis (Yellow sweet clover) (Trifolium officinale)[47083]; Trifolium pratense (Red clover)[57577]; Trifolium repens (Creeping white clover)[3899]
+	
+>UP000008659	Bos taurus (Bovine)[9913]; Didelphis marsupialis (Southern opossum)[9268]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Melanoconion[53535]; Philander opossum (Gray four-eyed opossum)[9272]; Proechimys[10162]; Sigmodon hispidus (Hispid cotton rat)[42415]
+ UP000008275	Aedes[7158]; Homo sapiens (Human)[9606]; Passeriformes[9126]
+ UP000008299	Bos taurus (Bovine)[9913]; Didelphis marsupialis (Southern opossum)[9268]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Melanoconion[53535]; Philander opossum (Gray four-eyed opossum)[9272]; Proechimys[10162]; Sigmodon hispidus (Hispid cotton rat)[42415]
+ UP000008658	Bos taurus (Bovine)[9913]; Didelphis marsupialis (Southern opossum)[9268]; Equus asinus (Donkey)[9793]; Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Melanoconion[53535]; Philander opossum (Gray four-eyed opossum)[9272]; Proechimys[10162]; Sigmodon hispidus (Hispid cotton rat)[42415]
+ UP000008678	Aedes[7158]; Homo sapiens (Human)[9606]; Passeriformes[9126]
+	
+>UP000008664	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]; Solanum melongena (Eggplant) (Aubergine)[4111]; Solanum seaforthianum (Brazilian nightshade)[45840]
+	
+>UP000008665	Cicer arietinum (Chickpea) (Garbanzo)[3827]; Lens culinaris (Lentil) (Cicer lens)[3864]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Vicia faba (Broad bean) (Faba vulgaris)[3906]
+ UP000008236	Astragalus sinicus (Chinese milk vetch)[47065]; Glycine max (Soybean) (Glycine hispida)[3847]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Pisum sativum (Garden pea)[3888]; Vicia faba (Broad bean) (Faba vulgaris)[3906]
+ UP000008666	Cicer arietinum (Chickpea) (Garbanzo)[3827]; Lens culinaris (Lentil) (Cicer lens)[3864]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Vicia faba (Broad bean) (Faba vulgaris)[3906]
+	
+>UP000008669	Streptomyces avermitilis [33903]
+	
+>UP000008687	Brassica campestris (Field mustard)[3711]; Solanum tuberosum (Potato)[4113]
+ UP000006841	Brassica campestris (Field mustard)[3711]; Solanum tuberosum (Potato)[4113]
+ UP000006842	Brassica campestris (Field mustard)[3711]; Solanum tuberosum (Potato)[4113]
+ UP000008615	Brassica campestris (Field mustard)[3711]; Solanum tuberosum (Potato)[4113]
+	
+>UP000008689	Lolium multiflorum x Lolium perenne[480553]
+	
+>UP000008692	Homo sapiens (Human)[9606]
+	
+>UP000008697	Homo sapiens (Human)[9606]
+	
+>UP000008699	Homo sapiens (Human)[9606]
+ UP000000833	Homo sapiens (Human)[9606]
+ UP000007775	Homo sapiens (Human)[9606]
+ UP000008654	Bos indicus (Zebu)[9915]; Bos taurus (Bovine)[9913]; Bubalus bubalis (Domestic water buffalo)[89462]; Capra hircus (Goat)[9925]; Gazella (gazelles)[9933]; Giraffa camelopardalis (Giraffe)[9894]; Hippopotamus[9832]; Ovis aries (Sheep)[9940]; Suidae (pigs)[9821]
+	
+>UP000008725	Escherichia coli [562]
+ UP000019300	Enterobacter [547]
+	
+>UP000008727	Aeromonas salmonicida [645]
+	
+>UP000008728	
+	
+>UP000008729	Burkholderia [32008]
+	
+>UP000008730	Acinetobacter johnsonii [40214]
+	
+>UP000008731	Acinetobacter johnsonii [40214]
+	
+>UP000008732	Acinetobacter [469]
+	
+>UP000008733	Ralstonia solanacearum [305]
+	
+>UP000008734	Salmonella enterica subsp. enterica serovar Enteritidis str. LK5 [272989]
+	
+>UP000008739	Propionibacterium [1743]
+ UP000000228	Propionibacterium acnes [1747]
+ UP000008046	Propionibacterium acnes [1747]
+ UP000008047	Propionibacterium acnes [1747]
+ UP000008048	Propionibacterium acnes [1747]
+ UP000008049	Propionibacterium acnes [1747]
+ UP000008050	Propionibacterium acnes [1747]
+ UP000008051	Propionibacterium acnes [1747]
+ UP000008052	Propionibacterium acnes [1747]
+ UP000008053	Propionibacterium acnes [1747]
+ UP000008054	Propionibacterium acnes [1747]
+ UP000008055	Propionibacterium acnes [1747]
+ UP000008670	Propionibacterium acnes [1747]
+ UP000008740	Propionibacterium [1743]
+ UP000016441	Propionibacterium acnes [1747]
+ UP000016442	Propionibacterium acnes [1747]
+ UP000016443	Propionibacterium acnes [1747]
+ UP000016444	Propionibacterium [1743]
+ UP000016445	Propionibacterium acnes [1747]
+ UP000016446	Propionibacterium acnes [1747]
+ UP000016447	Propionibacterium acnes [1747]
+ UP000016448	Propionibacterium acnes [1747]
+ UP000016449	Propionibacterium [1743]
+ UP000016450	Propionibacterium [1743]
+ UP000016451	Propionibacterium acnes [1747]
+ UP000016452	Propionibacterium acnes [1747]
+ UP000016453	Propionibacterium [1743]
+ UP000031092	Propionibacterium [1743]
+ UP000033302	Propionibacterium [1743]
+ UP000033303	Propionibacterium [1743]
+ UP000033304	Propionibacterium [1743]
+ UP000033305	Propionibacterium [1743]
+ UP000033306	Propionibacterium [1743]
+ UP000033308	Propionibacterium [1743]
+ UP000033309	Propionibacterium [1743]
+ UP000033310	Propionibacterium [1743]
+ UP000033311	Propionibacterium [1743]
+ UP000033312	Propionibacterium [1743]
+ UP000033313	Propionibacterium [1743]
+ UP000033314	Propionibacterium [1743]
+ UP000033315	Propionibacterium [1743]
+ UP000033316	Propionibacterium [1743]
+ UP000033317	Propionibacterium [1743]
+ UP000033318	Propionibacterium [1743]
+ UP000033319	Propionibacterium [1743]
+ UP000033320	Propionibacterium [1743]
+ UP000033321	Propionibacterium [1743]
+ UP000033322	Propionibacterium [1743]
+ UP000033323	Propionibacterium [1743]
+ UP000033324	Propionibacterium [1743]
+ UP000033325	Propionibacterium [1743]
+ UP000033326	Propionibacterium [1743]
+ UP000033327	Propionibacterium [1743]
+ UP000033328	Propionibacterium [1743]
+ UP000033329	Propionibacterium [1743]
+ UP000033330	Propionibacterium [1743]
+ UP000033331	Propionibacterium [1743]
+ UP000033332	Propionibacterium [1743]
+ UP000033333	Propionibacterium [1743]
+ UP000033334	Propionibacterium [1743]
+ UP000033335	Propionibacterium [1743]
+ UP000033336	Propionibacterium [1743]
+ UP000033337	Propionibacterium [1743]
+	
+>UP000008742	Roseobacter [2433]
+	
+>UP000008763	Felis catus (Cat) (Felis silvestris catus)[9685]
+	
+>UP000008767	Bos taurus (Bovine)[9913]; Capra hircus (Goat)[9925]; Homo sapiens (Human)[9606]; Hyalomma[34625]; Ovis aries (Sheep)[9940]; Rhipicephalus microplus (Cattle tick) (Boophilus microplus)[6941]
+	
+>UP000008768	Cervidae (deer)[9850]; Homo sapiens (Human)[9606]; Ochlerotatus triseriatus (Eastern treehole mosquito) (Aedes triseriatus)[7162]; Tamias[13712]
+	
+>UP000008769	Macroptilium lathyroides[260885]; Malvastrum coromandelianum[108453]; Phaseolus lunatus (Lima bean) (Phaseolus limensis)[3884]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]
+	
+>UP000008770	Ambystoma (mole salamanders)[8295]; Hyla versicolor (chameleon treefrog)[30343]; Lithobates pipiens (Northern leopard frog) (Rana pipiens)[8404]; Notophthalmus viridescens (Eastern newt) (Triturus viridescens)[8316]; Rana sylvatica (Wood frog)[45438]
+	
+>UP000008771	Equus caballus (Horse)[9796]; Homo sapiens (Human)[9606]; Pteropus alecto (Black flying fox)[9402]; Pteropus poliocephalus (Grey-headed flying fox)[9403]; Pteropus scapulatus (Little red flying fox)[94117]
+ UP000002330	Cynopterus brachyotis (Lesser short-nosed fruit bat) (Pachysoma brachyotis)[58060]; Eonycteris spelaea (Lesser dawn bat) (Macroglossus spelaeus)[58065]; Homo sapiens (Human)[9606]; Pteropus hypomelanus (Island flying fox) (Variable flying fox)[9405]; Pteropus vampyrus (Large flying fox)[132908]; Scotophilus kuhlii (Lesser asiatic yellow bat)[153297]; Sus scrofa (Pig)[9823]
+ UP000007527	Cynopterus brachyotis (Lesser short-nosed fruit bat) (Pachysoma brachyotis)[58060]; Eonycteris spelaea (Lesser dawn bat) (Macroglossus spelaeus)[58065]; Homo sapiens (Human)[9606]; Pteropus hypomelanus (Island flying fox) (Variable flying fox)[9405]; Pteropus vampyrus (Large flying fox)[132908]; Scotophilus kuhlii (Lesser asiatic yellow bat)[153297]; Sus scrofa (Pig)[9823]
+ UP000008676	Cynopterus brachyotis (Lesser short-nosed fruit bat) (Pachysoma brachyotis)[58060]; Eonycteris spelaea (Lesser dawn bat) (Macroglossus spelaeus)[58065]; Homo sapiens (Human)[9606]; Pteropus hypomelanus (Island flying fox) (Variable flying fox)[9405]; Pteropus vampyrus (Large flying fox)[132908]; Scotophilus kuhlii (Lesser asiatic yellow bat)[153297]; Sus scrofa (Pig)[9823]
+	
+>UP000008772	Gadus morhua (Atlantic cod)[8049]; Oncorhynchus kisutch (Coho salmon) (Salmo kisutch)[8019]; Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)[8022]; Pollachius virens (Saithe) (Gadus virens)[8060]; Salmo salar (Atlantic salmon)[8030]; Salmo trutta (Brown trout)[8032]
+	
+>UP000008773	Siniperca chuatsi (Mandarin fish)[119488]; Synchiropus splendidus (mandarinfish)[270530]
+	
+>UP000008774	Mus musculus (Mouse)[10090]
+	
+>UP000008775	Rosellinia necatrix (White root-rot fungus)[77044]
+	
+>UP000008776	Neodiprion lecontei (redheaded pine sawfly)[441921]
+	
+>UP000008777	
+	
+>UP000008778	Homo sapiens (Human)[9606]
+	
+>UP000008779	Homo sapiens (Human)[9606]
+	
+>UP000008780	Saguinus imperator (Emperor tamarin)[9491]
+	
+>UP000008781	Felis catus (Cat) (Felis silvestris catus)[9685]
+	
+>UP000008785	Bos taurus (Bovine)[9913]
+	
+>UP000008786	Fringilla coelebs (chaffinch)[37598]
+	
+>UP000008787	Sylvilagus floridanus (Cottontail rabbit)[9988]
+	
+>UP000008788	Canis familiaris (Dog) (Canis lupus familiaris)[9615]
+	
+>UP000008789	Phocoena spinipinnis (Burmeister's porpoise)[27614]
+	
+>UP000008790	Psittacus erithacus erithacus[382670]
+	
+>UP000008791	Equus caballus (Horse)[9796]
+	
+>UP000008847	Escherichia coli [562]
+	
+>UP000008848	Escherichia coli K-12 [83333]
+	
+>UP000008865	Narcissus pseudonarcissus (Daffodil)[39639]
+	
+>UP000008868	Anopheles[44482]; Homo sapiens (Human)[9606]
+ UP000007787	Anopheles[44482]; Homo sapiens (Human)[9606]
+ UP000008382	Anopheles[44482]; Homo sapiens (Human)[9606]
+	
+>UP000008870	Macaca mulatta (Rhesus macaque)[9544]
+ UP000007228	Macaca mulatta (Rhesus macaque)[9544]
+ UP000007229	Macaca mulatta (Rhesus macaque)[9544]
+	
+>UP000008874	Miscanthus sacchariflorus[183675]
+	
+>UP000008876	Mycobacterium [1763]
+	
+>UP000008891	Erwinia amylovora [552]
+	
+>UP000008892	Erwinia amylovora [552]
+	
+>UP000008893	Erwinia amylovora [552]
+	
+>UP000008899	Escherichia [561]
+	
+>UP000008902	Mycobacterium [1763]
+	
+>UP000008903	Mycobacterium [1763]
+ UP000029881	Mycobacterium [1763]
+ UP000029892	Mycobacterium [1763]
+	
+>UP000008904	Mycobacterium [1763]
+	
+>UP000008905	Mycobacterium [1763]
+	
+>UP000008911	Aeropyrum pernix[56636]
+	
+>UP000008913	Ralstonia solanacearum [305]
+	
+>UP000008920	Streptococcus pneumoniae[1313]
+	
+>UP000008925	Staphylococcus aureus [1280]
+	
+>UP000008927	Clitoria[43365]; Lablab purpureus (Hyacinth bean) (Dolichos lablab)[35936]; Medicago sativa (Alfalfa)[3879]; Phaseolus vulgaris (Kidney bean) (French bean)[3885]; Vigna unguiculata (Cowpea)[3917]
+	
+>UP000008972	Bombyx mori (Silk moth)[7091]
+	
+>UP000008973	Amblyomma variegatum (Tropical bont tick)[34610]; Cavia cutleri (Guinea pig)[10144]; Mungos mungo (Banded mongoose)[210652]; Rhipicephalus appendiculatus (Brown ear tick)[34631]; Rhipicephalus microplus (Cattle tick) (Boophilus microplus)[6941]
+	
+>UP000008986	Delftia acidovorans [80866]
+	
+>UP000009001	Burkholderia [32008]
+	
+>UP000009012	Burkholderia [32008]
+	
+>UP000009013	
+	
+>UP000009014	Burkholderia cenocepacia [95486]
+	
+>UP000009016	Aeromonas hydrophila [644]
+	
+>UP000009054	Escherichia [561]
+	
+>UP000009060	Cervus elaphus (Red deer)[9860]
+	
+>UP000009068	Shigella flexneri[623]
+	
+>UP000009070	Salmonella[590]
+ UP000008039	Escherichia [561]
+ UP000011000	Salmonella [590]
+ UP000011296	
+ UP000015086	Escherichia [561]
+ UP000030212	Escherichia [561]
+ UP000031806	Salmonella [590]
+ UP000033338	Escherichia [561]
+ UP000033803	
+ UP000033805	
+ UP000033807	
+	
+>UP000009085	Pseudomonas aeruginosa[287]
+	
+>UP000009087	Escherichia coli[562]
+ UP000000691	Escherichia coli [562]
+ UP000000912	Escherichia coli[562]
+ UP000001092	Escherichia coli[562]
+ UP000002306	
+ UP000002309	Escherichia coli[562]
+ UP000002901	Escherichia coli O157:H7 [83334]
+ UP000002906	Yersinia [444888]
+ UP000006856	Shigella flexneri [623]
+ UP000007649	Escherichia coli O157:H7[83334]
+ UP000009065	Escherichia coli [562]
+ UP000009211	Escherichia coli [562]
+ UP000015080	Yersinia [444888]
+ UP000024439	Escherichia coli [562]
+ UP000029884	Shigella [620]
+ UP000029928	
+ UP000029929	
+ UP000029930	
+ UP000029931	
+ UP000029932	Escherichia coli[562]
+ UP000029933	
+ UP000029934	Escherichia coli[562]
+ UP000029935	
+ UP000029936	Escherichia coli[562]
+ UP000029937	Escherichia coli[562]
+ UP000029938	Escherichia coli[562]
+ UP000030727	Escherichia [561]
+	
+>UP000009088	Escherichia coli[562]
+	
+>UP000009089	Streptococcus pneumoniae[1313]
+	
+>UP000009090	Pseudomonas aeruginosa[287]
+ UP000001719	Pseudomonas aeruginosa[287]
+	
+>UP000009091	Bacillus pumilus (Bacillus mesentericus)[1408]; Bacillus subtilis[1423]
+	
+>UP000009092	Enterobacteriaceae[543]
+ UP000013925	
+	
+>UP000009093	Escherichia coli[562]
+	
+>UP000009098	Anas (ducks)[8835]
+ UP000007203	Anas (ducks)[8835]
+ UP000007558	Anas (ducks)[8835]
+ UP000008119	Anas (ducks)[8835]
+ UP000008679	Ardeidae (herons)[8899]
+ UP000008682	Anas (ducks)[8835]
+	
+>UP000009104	Homo sapiens (Human)[9606]
+ UP000006932	Homo sapiens (Human)[9606]
+ UP000008232	Homo sapiens (Human)[9606]
+ UP000009119	Homo sapiens (Human)[9606]
+ UP000009124	Homo sapiens (Human)[9606]
+ UP000009166	Homo sapiens (Human)[9606]
+	
+>UP000009105	Homo sapiens (Human)[9606]
+ UP000007706	Homo sapiens (Human)[9606]
+ UP000009115	Homo sapiens (Human)[9606]
+	
+>UP000009106	Homo sapiens (Human)[9606]
+	
+>UP000009107	Homo sapiens (Human)[9606]
+ UP000000469	Pan paniscus (Pygmy chimpanzee) (Bonobo)[9597]
+	
+>UP000009109	Homo sapiens (Human)[9606]
+ UP000008695	Homo sapiens (Human)[9606]
+	
+>UP000009112	Homo sapiens (Human)[9606]
+ UP000009111	Homo sapiens (Human)[9606]
+	
+>UP000009113	Homo sapiens (Human)[9606]
+	
+>UP000009114	Homo sapiens (Human)[9606]
+ UP000007667	Homo sapiens (Human)[9606]
+	
+>UP000009116	Homo sapiens (Human)[9606]
+	
+>UP000009117	Homo sapiens (Human)[9606]
+ UP000009122	Homo sapiens (Human)[9606]
+	
+>UP000009118	Homo sapiens (Human)[9606]
+	
+>UP000009120	Homo sapiens (Human)[9606]
+	
+>UP000009133	Brassica napus subsp. rapifera[3709]; Hypomyces[5130]; Moricandia arvensis (Purple mistress) (Brassica arvensis)[180540]
+ UP000007403	Brassica napus subsp. rapifera[3709]; Hypomyces[5130]; Moricandia arvensis (Purple mistress) (Brassica arvensis)[180540]
+	
+>UP000009140	Salmonella sp. [599]
+	
+>UP000009143	Halocynthia [7728]
+	
+>UP000009147	Staphylococcus aureus [1280]
+	
+>UP000009148	Staphylococcus aureus [1280]
+	
+>UP000009158	Homo sapiens (Human)[9606]
+	
+>UP000009160	Vitis rupestris[103352]; Vitis vinifera (Grape)[29760]
+ UP000007441	Fragaria[3746]; Ligustrum (privets)[13596]; Phlox (phloxes)[40749]; Rubus (bramble)[23216]; Vitis vinifera (Grape)[29760]
+	
+>UP000009162	Homo sapiens (Human)[9606]
+ UP000008230	Homo sapiens (Human)[9606]
+ UP000009108	Homo sapiens (Human)[9606]
+ UP000009110	Homo sapiens (Human)[9606]
+ UP000009165	Homo sapiens (Human)[9606]
+	
+>UP000009171	Homo sapiens (Human)[9606]
+	
+>UP000009174	Heterosigma akashiwo (Chromophytic alga) (Heterosigma carterae)[2829]
+	
+>UP000009178	Burkholderia [32008]
+	
+>UP000009185	Cervidae (deer)[9850]
+	
+>UP000009190	Plantago asiatica[197796]
+	
+>UP000009196	Stenotrophomonas maltophilia [40324]
+	
+>UP000009206	Streptomyces [1883]
+	
+>UP000009210	Escherichia [561]
+	
+>UP000009212	
+	
+>UP000009214	Escherichia coli O157:H7 [83334]
+ UP000002617	Sodalis glossinidius [63612]
+	
+>UP000009243	Clostridium [1485]
+ UP000030729	Clostridium [1485]
+ UP000030730	Clostridium [1485]
+	
+>UP000009246	Homo sapiens (Human)[9606]
+	
+>UP000009247	Lithobates pipiens (Northern leopard frog) (Rana pipiens)[8404]
+	
+>UP000009248	Orgyia pseudotsugata (Douglas-fir tussock moth)[33414]
+	
+>UP000009249	Cydia pomonella (Codling moth)[82600]
+	
+>UP000009250	Thermoproteus tenax[2271]
+	
+>UP000009251	Homo sapiens (Human)[9606]
+	
+>UP000009252	Homo sapiens (Human)[9606]
+ UP000007669	Homo sapiens (Human)[9606]
+ UP000009167	Homo sapiens (Human)[9606]
+	
+>UP000009253	Homo sapiens (Human)[9606]
+ UP000007672	Homo sapiens (Human)[9606]
+	
+>UP000009254	Homo sapiens (Human)[9606]
+ UP000007684	Homo sapiens (Human)[9606]
+ UP000008029	Homo sapiens (Human)[9606]
+	
+>UP000009255	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000000827	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000000828	Aves[8782]
+ UP000000829	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000000830	Aves[8782]
+ UP000000834	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000006679	Aves[8782]; Felis catus (Cat) (Felis silvestris catus)[9685]; Homo sapiens (Human)[9606]; Panthera pardus (Leopard) (Felis pardus)[9691]; Panthera tigris (Tiger)[9694]; Sus scrofa (Pig)[9823]
+ UP000007555	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000007556	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000007557	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000007716	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000007768	Aves[8782]; Felis catus (Cat) (Felis silvestris catus)[9685]; Homo sapiens (Human)[9606]; Panthera pardus (Leopard) (Felis pardus)[9691]; Panthera tigris (Tiger)[9694]; Sus scrofa (Pig)[9823]
+ UP000007769	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000007770	Aves[8782]
+ UP000007790	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000007791	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000007792	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000007793	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008025	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008081	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008213	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008217	Aves[8782]
+ UP000008218	Aves[8782]; Homo sapiens (Human)[9606]
+ UP000008219	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008244	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000008430	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008431	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008432	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008433	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008434	Aves[8782]; Sus scrofa (Pig)[9823]
+ UP000008435	Aves[8782]
+ UP000008574	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000008575	Aves[8782]
+ UP000008577	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000008578	Aves[8782]; Equus caballus (Horse)[9796]
+ UP000008579	Aves[8782]
+ UP000008580	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008582	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008583	Aves[8782]
+ UP000008584	Aves[8782]
+ UP000008585	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000008586	Aves[8782]; Homo sapiens (Human)[9606]; Sus scrofa (Pig)[9823]
+ UP000008587	Aves[8782]; Felis catus (Cat) (Felis silvestris catus)[9685]; Homo sapiens (Human)[9606]; Panthera pardus (Leopard) (Felis pardus)[9691]; Panthera tigris (Tiger)[9694]; Sus scrofa (Pig)[9823]
+ UP000008862	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000009189	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+ UP000009193	Aves[8782]; Cetacea (whales)[9721]; Homo sapiens (Human)[9606]; Phocidae (true seals)[9709]; Sus scrofa (Pig)[9823]
+	
+>UP000009262	Calomys callosus (Large vesper mouse)[56210]
+ UP000009264	Bolomys[10080]
+	
+>UP000009266	Sigmodon alstoni[134742]
+ UP000001801	Nephelomys albigularis (Tomes's rice rat) (Oryzomys albigularis)[530178]; Sooretamys angouya (Paraguayan rice rat) (Oryzomys angouya)[530180]
+ UP000009258	Oecomys bicolor (Bicolored arboreal rice rat)[48011]; Oecomys roberti (Robert's arboreal rice rat)[48012]
+ UP000009259	Peromyscus californicus (California mouse)[42520]
+ UP000009265	Sooretamys angouya (Paraguayan rice rat) (Oryzomys angouya)[530180]
+ UP000009268	Neotoma (wood rats)[42407]
+	
+>UP000009269	Citrus aurantifolia (Lime) (Limonia aurantifolia)[159033]; Citrus limon (Lemon) (Citrus medica var. limon)[2708]; Citrus paradisi (Grapefruit)[37656]
+	
+>UP000009270	Hordeum vulgare (Barley)[4513]; Triticum[4564]
+	
+>UP000009272	
+	
+>UP000009273	Bacillus [55087]
+	
+>UP000009279	Mycobacterium [1763]
+ UP000001210	Mycobacterium [1763]
+	
+>UP000009281	Mycobacterium [1763]
+	
+>UP000009289	Mycobacterium [1763]
+ UP000009244	Mycobacterium [1763]
+ UP000013558	Mycobacterium [1763]
+ UP000015557	Mycobacterium [1763]
+	
+>UP000009294	Homo sapiens (Human)[9606]
+ UP000001874	Homo sapiens (Human)[9606]
+	
+>UP000009295	Homo sapiens (Human)[9606]
+ UP000006930	Homo sapiens (Human)[9606]
+	
+>UP000009366	Xanthomonas citri [346]
+	
+>UP000009369	Escherichia [561]
+	
+>UP000009370	Vibrio [662]
+ UP000001840	Vibrio [662]
+	
+>UP000009398	Vibrio [662]
+ UP000004790	Vibrio [662]
+	
+>UP000009401	Halorubrum sp. PV6[634157]
+	
+>UP000010081	
+	
+>UP000010363	Serratia sp. [616]
+	
+>UP000010364	Bacillus [55087]
+	
+>UP000010365	Edwardsiella [132406]
+	
+>UP000010368	Lactobacillus [1578]
+	
+>UP000010369	
+	
+>UP000010370	
+	
+>UP000010371	Escherichia [561]
+	
+>UP000010372	
+	
+>UP000010373	
+	
+>UP000010374	
+ UP000010376	
+	
+>UP000010375	
+	
+>UP000010377	
+	
+>UP000010391	Klebsiella [570]
+ UP000032127	Klebsiella [570]
+	
+>UP000010393	
+ UP000010392	
+	
+>UP000010394	
+	
+>UP000010395	
+	
+>UP000010396	
+	
+>UP000010398	
+	
+>UP000010399	
+	
+>UP000010400	
+	
+>UP000010401	
+	
+>UP000010485	Cronobacter [413496]
+	
+>UP000010803	Klebsiella [570]
+	
+>UP000010999	Pectobacterium atrosepticum SCRI1043 [218491]
+	
+>UP000011111	Streptococcus thermophilus [1308]
+	
+>UP000011145	Rhizobium [379]
+	
+>UP000011147	Rhizobium [379]
+ UP000011146	Rhizobium [379]
+ UP000011150	Rhizobium [379]
+ UP000011151	Rhizobium [379]
+	
+>UP000011148	Rhizobium [379]
+ UP000011152	Rhizobium [379]
+ UP000011153	Rhizobium [379]
+	
+>UP000011149	Rhizobium [379]
+	
+>UP000011154	Pseudomonas [286]
+	
+>UP000011156	Acinetobacter [469]
+	
+>UP000011235	Burkholderia cepacia (Pseudomonas cepacia)[292]
+ UP000000995	Burkholderia cenocepacia [95486]
+ UP000001248	Burkholderia cepacia [292]
+ UP000001998	Burkholderia cenocepacia HI2424 [331272]
+	
+>UP000011237	Burkholderia cenocepacia (strain ATCC BAA-245 / DSM 16553 / LMG 16656 / NCTC 13227 / J2315 / CF5610) (Burkholderia cepacia (strain J2315))[216591]
+ UP000001434	Burkholderia thailandensis [57975]
+	
+>UP000011238	Lithobates pipiens (Northern leopard frog) (Rana pipiens)[8404]
+	
+>UP000011239	Anguilla anguilla (European freshwater eel) (Muraena anguilla)[7936]; Anguilla japonica (Japanese eel)[7937]
+	
+>UP000011243	Salmo salar (Atlantic salmon)[8030]
+	
+>UP000011244	Bothrops atrox (Barba amarilla) (Fer-de-lance)[8725]
+	
+>UP000011260	Rhizosolenia setigera[3005]
+	
+>UP000011261	Schizochytrium[4772]
+	
+>UP000011262	Oxalis tuberosa (Oca)[50475]; Solanum demissum (Wild potato)[50514]; Solanum tuberosum (Potato)[4113]; Tropaeolum tuberosum[147035]; Ullucus tuberosus (Olluco)[108055]
+	
+>UP000011263	Heterocapsa circularisquama (Dinoflagellate)[139025]
+	
+>UP000011264	Sus scrofa (Pig)[9823]
+	
+>UP000011265	Nicotiana glutinosa (Tobacco)[35889]
+	
+>UP000011266	Helicoverpa zea (Corn earworm moth) (Heliothis zea)[7113]
+	
+>UP000011269	Euprosterna elaeasa[984472]
+	
+>UP000011271	Aeropyrum pernix[56636]
+	
+>UP000011272	Trichomonas vaginalis[5722]
+	
+>UP000011274	Musca domestica (House fly)[7370]
+	
+>UP000011276	Rosellinia necatrix (White root-rot fungus)[77044]
+	
+>UP000011277	Zalophus californianus (California sealion)[9704]
+	
+>UP000011284	Salmonella enterica [28901]
+ UP000006954	Salmonella [590]
+ UP000032000	Salmonella [590]
+	
+>UP000011285	Streptococcus [1301]
+	
+>UP000011286	Streptococcus [1301]
+	
+>UP000011293	Salmonella enterica subsp. enterica serovar Typhimurium [90371]
+	
+>UP000011294	Candidatus Pelagibacter ubique HTCC1062 [335992]
+	
+>UP000011295	Candidatus Pelagibacter ubique HTCC1062 [335992]
+	
+>UP000011297	Candidatus Pelagibacter ubique HTCC1062 [335992]
+	
+>UP000011298	Candidatus Pelagibacter ubique HTCC1062 [335992]
+	
+>UP000011300	Crocodylus johnsoni (Australian freshwater crocodile)[184234]; Crocodylus niloticus (Nile crocodile) (African crocodile)[8501]; Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile)[8502]
+	
+>UP000011301	Glossina (tsetse flies)[7393]
+	
+>UP000011785	Oryctes rhinoceros (Coconut rhinoceros beetle)[72550]
+	
+>UP000011786	Turdus hortulorum[411519]; Turdus merula (Common blackbird)[9187]
+	
+>UP000011826	
+	
+>UP000011829	Cronobacter sakazakii [28141]
+ UP000002874	Cronobacter sakazakii [28141]
+ UP000026984	Cronobacter [413496]
+	
+>UP000011836	Staphylococcus [1279]
+	
+>UP000011843	
+	
+>UP000011848	Streptococcus [1301]
+	
+>UP000011849	Streptococcus [1301]
+ UP000011850	Streptococcus [1301]
+	
+>UP000011851	Streptococcus [1301]
+	
+>UP000011852	Streptococcus [1301]
+	
+>UP000011853	Synechococcus [1129]
+ UP000011854	Synechococcus [1129]
+ UP000011855	Synechococcus [1129]
+	
+>UP000011856	Streptococcus [1301]
+	
+>UP000011857	Streptococcus [1301]
+	
+>UP000011858	Mycobacterium [1763]
+	
+>UP000011861	Bacillus subtilis subsp. natto [86029]
+	
+>UP000011862	Vibrio [662]
+	
+>UP000011865	Bacillus cereus [1396]
+ UP000019744	Bacillus cereus [1396]
+	
+>UP000012036	Leuconostoc [1243]
+ UP000002922	Leuconostoc [1243]
+ UP000012037	Leuconostoc [1243]
+	
+>UP000012041	Nitratiruptor [269258]
+	
+>UP000012167	Bacillus [55087]
+	
+>UP000012171	Mycobacterium [1763]
+	
+>UP000012673	Shigella [620]
+	
+>UP000012678	Rhodococcus equi [43767]
+	
+>UP000012980	Escherichia coli[562]
+	
+>UP000012991	Clostridium [1485]
+	
+>UP000012997	Edwardsiella ictaluri [67780]
+	
+>UP000013498	Staphylococcus [1279]
+ UP000019303	Staphylococcus aureus [1280]
+	
+>UP000013499	Staphylococcus aureus [1280]
+	
+>UP000013500	Staphylococcus [1279]
+	
+>UP000013542	Mycobacterium [1763]
+	
+>UP000013551	Mycobacterium [1763]
+ UP000006948	Mycobacterium [1763]
+	
+>UP000013553	Mycobacterium [1763]
+ UP000008413	Mycobacterium [1763]
+	
+>UP000013555	Mycobacterium [1763]
+ UP000003800	Mycobacterium [1763]
+ UP000004789	Mycobacterium [1763]
+ UP000008057	Mycobacterium [1763]
+	
+>UP000013556	Mycobacterium [1763]
+	
+>UP000013559	Salmonella [590]
+	
+>UP000013560	Staphylococcus [1279]
+	
+>UP000013562	Mycobacterium [1763]
+	
+>UP000013564	Pseudoalteromonas [53246]
+	
+>UP000013566	Burkholderia pseudomallei [28450]
+	
+>UP000013920	Escherichia coli [562]
+ UP000008853	Escherichia coli [562]
+	
+>UP000013922	Caulobacter [75]
+ UP000000460	Caulobacter [75]
+ UP000000462	Caulobacter [75]
+ UP000000464	Caulobacter [75]
+ UP000003766	Caulobacter [75]
+	
+>UP000013967	Acinetobacter baumannii [470]
+ UP000008735	Acinetobacter [469]
+	
+>UP000014222	Mycobacterium [1763]
+	
+>UP000014225	Alteromonas [226]
+ UP000014224	Alteromonas [226]
+ UP000014226	Alteromonas [226]
+	
+>UP000014228	Mycobacterium smegmatis [1772]
+	
+>UP000014317	Vibrio [662]
+ UP000000978	Vibrio cholerae O139 [45888]
+	
+>UP000014318	Synechococcus [1129]
+	
+>UP000014320	Vibrio cholerae [666]
+ UP000014321	Vibrio [662]
+	
+>UP000014420	Serratia [613]
+	
+>UP000014422	Flavobacterium [237]
+	
+>UP000014423	Stenotrophomonas [40323]
+	
+>UP000014424	Paenibacillus [44249]
+	
+>UP000014661	Lactococcus lactis [1358]
+ UP000014662	Lactococcus lactis [1358]
+ UP000014668	Lactococcus lactis [1358]
+ UP000014670	Lactococcus [1357]
+	
+>UP000014663	Lactococcus [1357]
+	
+>UP000014667	Lactococcus [1357]
+ UP000000619	Lactococcus lactis [1358]
+	
+>UP000014669	Lactococcus [1357]
+	
+>UP000014671	Lactococcus lactis [1358]
+	
+>UP000014674	Staphylococcus [1279]
+	
+>UP000014676	Stenotrophomonas [40323]
+	
+>UP000014700	Lactococcus [1357]
+	
+>UP000014701	Bacillus [55087]
+	
+>UP000014703	Streptococcus [1301]
+ UP000015088	Enterococcus [1350]
+	
+>UP000014704	Lactococcus lactis [1358]
+	
+>UP000014709	Cellulophaga [104264]
+ UP000014717	Cellulophaga [104264]
+ UP000014719	Cellulophaga [104264]
+ UP000014735	Cellulophaga [104264]
+ UP000014738	Cellulophaga [104264]
+	
+>UP000014711	Cellulophaga [104264]
+	
+>UP000014714	Cellulophaga [104264]
+ UP000014710	Cellulophaga [104264]
+ UP000014712	Cellulophaga [104264]
+ UP000014716	Cellulophaga [104264]
+ UP000014720	Cellulophaga [104264]
+	
+>UP000014715	Cellulophaga baltica NN016038 [1348585]
+ UP000014713	Cellulophaga [104264]
+	
+>UP000014718	Cellulophaga [104264]
+	
+>UP000014723	Cellulophaga [104264]
+	
+>UP000014724	Cellulophaga [104264]
+ UP000014721	Cellulophaga [104264]
+ UP000014733	Cellulophaga [104264]
+ UP000014734	Cellulophaga [104264]
+	
+>UP000014725	Cellulophaga [104264]
+	
+>UP000014727	Cellulophaga [104264]
+	
+>UP000014728	Cellulophaga [104264]
+	
+>UP000014729	Cellulophaga [104264]
+ UP000014722	Cellulophaga [104264]
+ UP000014726	Cellulophaga [104264]
+	
+>UP000014730	Cellulophaga [104264]
+	
+>UP000014731	Cellulophaga [104264]
+	
+>UP000014732	Cellulophaga [104264]
+	
+>UP000014736	Cellulophaga [104264]
+	
+>UP000014737	Cellulophaga [104264]
+ UP000014708	Cellulophaga [104264]
+	
+>UP000014739	Staphylococcus [1279]
+ UP000015384	Staphylococcus [1279]
+ UP000015385	Staphylococcus [1279]
+	
+>UP000014740	Candidatus Puniceispirillum marinum IMCC1322 [488538]
+	
+>UP000014902	Salmonella [590]
+	
+>UP000014934	Choristoneura fumiferana (Spruce budworm moth) (Archips fumiferana)[7141]
+	
+>UP000014985	Shigella flexneri[623]
+	
+>UP000014986	Thermus [270]
+	
+>UP000014991	Salmonella enterica [28901]
+	
+>UP000014996	Salmonella enterica [28901]
+ UP000014990	Salmonella enterica [28901]
+	
+>UP000014997	Salmonella enterica [28901]
+	
+>UP000014998	Escherichia [561]
+ UP000009052	Escherichia coli [562]
+ UP000026907	Escherichia coli O157:H7 [83334]
+ UP000033802	
+	
+>UP000014999	Vibrio [662]
+	
+>UP000015081	Escherichia [561]
+	
+>UP000015082	Mycobacterium [1763]
+	
+>UP000015089	Sinorhizobium [28105]
+	
+>UP000015090	Pseudoalteromonas [53246]
+	
+>UP000015091	Bacillus [55087]
+	
+>UP000015095	Brevibacillus [55080]
+ UP000015096	Brevibacillus [55080]
+	
+>UP000015097	Brevibacillus [55080]
+	
+>UP000015098	Brevibacillus [55080]
+ UP000015094	Brevibacillus [55080]
+	
+>UP000015545	Pseudomonas aeruginosa PAO1 [208964]
+	
+>UP000015546	Bacillus [55087]
+ UP000017644	Bacillus [55087]
+ UP000028561	Bacillus [55087]
+	
+>UP000015547	Bacillus anthracis [1392]
+	
+>UP000015550	Mycobacterium [1763]
+	
+>UP000015551	Mycobacterium [1763]
+	
+>UP000015552	Mycobacterium [1763]
+	
+>UP000015553	Mycobacterium [1763]
+ UP000012168	Mycobacterium [1763]
+	
+>UP000015554	Mycobacterium [1763]
+ UP000019497	Mycobacterium [1763]
+	
+>UP000015563	Leptospira [171]
+	
+>UP000015564	Leptospira [171]
+	
+>UP000015565	Mycobacterium [1763]
+	
+>UP000015566	Mycobacterium [1763]
+	
+>UP000015568	Leptospira [171]
+	
+>UP000015569	Leptospira [171]
+ UP000015567	Leptospira [171]
+	
+>UP000015570	Mycobacterium [1763]
+ UP000001852	Mycobacterium [1763]
+ UP000008415	Mycobacterium [1763]
+ UP000031073	Mycobacterium [1763]
+ UP000031079	Mycobacterium [1763]
+ UP000031729	Mycobacterium [1763]
+	
+>UP000015571	Mycobacterium [1763]
+	
+>UP000015573	Mycobacterium [1763]
+ UP000002541	Mycobacterium [1763]
+	
+>UP000015575	Mycobacterium [1763]
+ UP000008404	Mycobacterium [1763]
+ UP000008428	Mycobacterium [1763]
+	
+>UP000015579	Mycobacterium [1763]
+	
+>UP000015580	Mycobacterium [1763]
+	
+>UP000015581	Mycobacterium [1763]
+	
+>UP000015922	Mycobacterium [1763]
+ UP000008059	Mycobacterium [1763]
+ UP000031072	Mycobacterium [1763]
+	
+>UP000015925	Klebsiella [570]
+	
+>UP000016880	Lactobacillus [1578]
+	
+>UP000016881	Lactobacillus [1578]
+	
+>UP000016882	Staphylococcus saprophyticus [29385]
+	
+>UP000016888	Ralstonia solanacearum [305]
+	
+>UP000016892	Burkholderia [32008]
+	
+>UP000016894	Brucella [234]
+ UP000007325	Brucella [234]
+ UP000007326	Brucella abortus 544 [1169205]
+ UP000019781	Brucella [234]
+ UP000019782	Brucella [234]
+ UP000019783	Brucella [234]
+ UP000019784	Brucella [234]
+ UP000019785	Brucella [234]
+	
+>UP000016942	Streptococcus [1301]
+	
+>UP000017183	Salmonella [590]
+	
+>UP000017641	Streptococcus [1301]
+	
+>UP000017645	Bacillus [55087]
+ UP000011287	Bacillus pumilus BL8 [1189615]
+ UP000011290	Bacillus [55087]
+	
+>UP000017647	Bacillus [55087]
+ UP000011288	Bacillus [55087]
+ UP000011289	Bacillus pumilus BL8 [1189615]
+ UP000011292	Bacillus pumilus BL8 [1189615]
+	
+>UP000017648	Bacillus subtilis [1423]
+	
+>UP000017651	Clavibacter [1573]
+	
+>UP000017652	Bacillus [55087]
+ UP000011291	Bacillus pumilus BL8 [1189615]
+	
+>UP000017654	Acinetobacter [469]
+	
+>UP000017656	Acinetobacter [469]
+	
+>UP000017658	Bacillus [55087]
+ UP000017660	Bacillus [55087]
+ UP000033015	Bacillus [55087]
+	
+>UP000017659	Bacillus [55087]
+ UP000017653	Bacillus [55087]
+ UP000017655	Bacillus [55087]
+ UP000030209	Bacillus [55087]
+ UP000032124	Bacillus [55087]
+	
+>UP000017661	Bacillus anthracis [1392]
+	
+>UP000017663	Shigella [620]
+	
+>UP000017780	Lactobacillus [1578]
+ UP000017781	Lactobacillus [1578]
+	
+>UP000017785	Staphylococcus [1279]
+	
+>UP000017863	Phormidium [1198]
+	
+>UP000017864	Phormidium [1198]
+	
+>UP000017866	Ralstonia solanacearum [305]
+	
+>UP000018620	
+ UP000000458	Cronobacter sakazakii [28141]
+	
+>UP000018621	Xylella [2370]
+	
+>UP000018622	Xylella fastidiosa [2371]
+	
+>UP000018623	Xylella fastidiosa [2371]
+	
+>UP000018624	Xylella [2370]
+	
+>UP000018625	
+	
+>UP000018627	Mycobacterium [1763]
+	
+>UP000018631	Mycobacterium [1763]
+ UP000005658	Mycobacterium [1763]
+ UP000007316	Mycobacterium [1763]
+ UP000008410	Mycobacterium [1763]
+ UP000008412	Mycobacterium [1763]
+ UP000008423	Mycobacterium [1763]
+ UP000018632	Mycobacterium [1763]
+ UP000018633	Mycobacterium [1763]
+ UP000029887	Mycobacterium [1763]
+	
+>UP000018634	Mycobacterium [1763]
+	
+>UP000018635	Mycobacterium [1763]
+ UP000007891	Mycobacterium [1763]
+ UP000008901	Mycobacterium [1763]
+ UP000015577	Mycobacterium [1763]
+ UP000018628	Mycobacterium [1763]
+	
+>UP000018644	Arthrobacter sp. [1667]
+	
+>UP000018801	Oenococcus [46254]
+ UP000018800	Oenococcus [46254]
+ UP000018880	Oenococcus [46254]
+	
+>UP000018802	Shigella [620]
+ UP000029366	Shigella [620]
+	
+>UP000018804	Mycobacterium [1763]
+ UP000030726	Mycobacterium [1763]
+	
+>UP000018805	Mycobacterium [1763]
+ UP000001393	Mycobacterium [1763]
+ UP000001394	Mycobacterium [1763]
+ UP000001769	Mycobacterium [1763]
+ UP000001897	Mycobacterium [1763]
+ UP000001898	Mycobacterium [1763]
+ UP000002180	Mycobacterium [1763]
+ UP000002540	Mycobacterium [1763]
+ UP000005649	Mycobacterium [1763]
+ UP000005650	Mycobacterium [1763]
+ UP000005651	Mycobacterium [1763]
+ UP000005657	Mycobacterium [1763]
+ UP000005866	Mycobacterium [1763]
+ UP000006928	Mycobacterium [1763]
+ UP000006946	Mycobacterium [1763]
+ UP000007315	Mycobacterium [1763]
+ UP000008397	Mycobacterium [1763]
+ UP000008405	Mycobacterium [1763]
+ UP000008411	Mycobacterium [1763]
+ UP000008427	Mycobacterium [1763]
+ UP000008923	Mycobacterium [1763]
+ UP000009064	Mycobacterium [1763]
+ UP000009274	Mycobacterium [1763]
+ UP000009275	Mycobacterium [1763]
+ UP000011140	Mycobacterium [1763]
+ UP000011141	Mycobacterium [1763]
+ UP000011142	Mycobacterium [1763]
+ UP000011143	Mycobacterium [1763]
+ UP000011144	Mycobacterium [1763]
+ UP000012172	Mycobacterium [1763]
+ UP000013552	Mycobacterium [1763]
+ UP000019499	Mycobacterium [1763]
+ UP000019736	Mycobacterium [1763]
+ UP000019739	Mycobacterium [1763]
+ UP000019786	Mycobacterium [1763]
+ UP000024436	Mycobacterium [1763]
+ UP000027490	Mycobacterium [1763]
+ UP000029341	Mycobacterium [1763]
+ UP000029344	Mycobacterium [1763]
+ UP000029351	Mycobacterium [1763]
+ UP000029356	Mycobacterium [1763]
+ UP000031076	Mycobacterium [1763]
+ UP000031080	Mycobacterium [1763]
+ UP000031730	Mycobacterium [1763]
+	
+>UP000018806	Mycobacterium [1763]
+	
+>UP000018808	Synechococcus [1129]
+	
+>UP000018810	Enterococcus faecalis [1351]
+	
+>UP000018811	Enterococcus sp. [35783]
+ UP000002923	Enterococcus faecalis [1351]
+	
+>UP000018812	Shigella [620]
+	
+>UP000018881	Rhizobium [379]
+	
+>UP000018883	Lactococcus [1357]
+ UP000032686	Lactococcus [1357]
+	
+>UP000018884	Vibrio harveyi [669]
+	
+>UP000018885	Achromobacter [222]
+ UP000018886	Achromobacter [222]
+	
+>UP000018887	Stenotrophomonas maltophilia [40324]
+	
+>UP000019119	Mycobacterium [1763]
+	
+>UP000019120	Mycobacterium [1763]
+	
+>UP000019121	Mycobacterium [1763]
+ UP000002183	Mycobacterium [1763]
+	
+>UP000019124	Edwardsiella [132406]
+ UP000019123	Edwardsiella ictaluri [67780]
+	
+>UP000019125	Mycobacterium [1763]
+	
+>UP000019127	Mycobacterium [1763]
+ UP000001392	Mycobacterium [1763]
+ UP000002248	Mycobacterium [1763]
+ UP000002492	Mycobacterium [1763]
+ UP000005662	Mycobacterium [1763]
+ UP000006058	Mycobacterium [1763]
+ UP000006068	Mycobacterium [1763]
+ UP000006140	Mycobacterium [1763]
+ UP000008056	Mycobacterium [1763]
+ UP000008058	Mycobacterium [1763]
+ UP000008517	Mycobacterium [1763]
+ UP000013550	Mycobacterium [1763]
+ UP000015549	Mycobacterium [1763]
+ UP000019122	Mycobacterium [1763]
+ UP000019128	Mycobacterium [1763]
+ UP000019129	Mycobacterium [1763]
+ UP000024444	Mycobacterium [1763]
+ UP000030728	Mycobacterium [1763]
+ UP000031078	Mycobacterium [1763]
+	
+>UP000019130	Mycobacterium [1763]
+ UP000001271	Mycobacterium [1763]
+ UP000031808	Mycobacterium [1763]
+	
+>UP000019156	Citrobacter rodentium [67825]
+	
+>UP000019157	Citrobacter rodentium [67825]
+	
+>UP000019160	
+ UP000019161	
+	
+>UP000019162	Bacillus [55087]
+ UP000006287	Bacillus cereus [1396]
+	
+>UP000019163	Cronobacter [413496]
+	
+>UP000019301	Escherichia [561]
+	
+>UP000019304	Acinetobacter baumannii [470]
+	
+>UP000019305	Erwinia [551]
+	
+>UP000019306	Erwinia [551]
+	
+>UP000019307	Vibrio parahaemolyticus [670]
+	
+>UP000019308	Mycobacterium [1763]
+	
+>UP000019366	Staphylococcus [1279]
+	
+>UP000019367	Rhizobium [379]
+	
+>UP000019368	Shewanella putrefaciens [24]
+	
+>UP000019496	Vibrio [662]
+	
+>UP000019498	Mycobacterium [1763]
+	
+>UP000019700	Microbacterium oxydans [82380]
+	
+>UP000019701	Pectobacterium carotovorum subsp. carotovorum [555]
+	
+>UP000019730	Lactobacillus [1578]
+	
+>UP000019731	Streptococcus [1301]
+	
+>UP000019732	Escherichia coli [562]
+	
+>UP000019734	Mycobacterium [1763]
+ UP000002085	Mycobacterium [1763]
+ UP000008420	Mycobacterium [1763]
+ UP000008421	Mycobacterium [1763]
+	
+>UP000019737	Mycobacterium [1763]
+	
+>UP000019740	Clostridium [1485]
+	
+>UP000019741	Vibrio [662]
+	
+>UP000019742	Mycobacterium [1763]
+	
+>UP000019745	Escherichia coli [562]
+	
+>UP000019749	Campylobacter [194]
+ UP000019747	Campylobacter [194]
+ UP000019748	Campylobacter [194]
+ UP000019750	Campylobacter [194]
+ UP000019751	Campylobacter [194]
+	
+>UP000019788	Pseudomonas aeruginosa [287]
+ UP000002616	Pseudomonas aeruginosa [287]
+ UP000002888	Pseudomonas [286]
+ UP000030328	Pseudomonas [286]
+ UP000030920	Pseudomonas [286]
+ UP000030921	Pseudomonas [286]
+ UP000030923	Pseudomonas [286]
+ UP000033307	Pseudomonas [286]
+	
+>UP000019791	Lactococcus lactis [1358]
+ UP000019789	Lactococcus lactis [1358]
+ UP000019790	Lactococcus lactis [1358]
+ UP000019792	Lactococcus lactis [1358]
+	
+>UP000023563	Enterococcus [1350]
+	
+>UP000024335	Dinoroseobacter [309512]
+ UP000031205	Dinoroseobacter [309512]
+	
+>UP000024336	Nitrincola [267849]
+	
+>UP000024435	Mycobacterium [1763]
+	
+>UP000024438	Escherichia [561]
+ UP000011255	
+ UP000011833	
+	
+>UP000024440	Vibrio [662]
+	
+>UP000024441	Mycobacterium [1763]
+ UP000029882	Mycobacterium [1763]
+	
+>UP000024443	Mycobacterium [1763]
+ UP000009066	Mycobacterium [1763]
+	
+>UP000024445	Serratia marcescens [615]
+	
+>UP000026900	Bacillus [55087]
+ UP000026906	Bacillus [55087]
+	
+>UP000026904	Lactococcus garvieae [1363]
+	
+>UP000026980	Enterococcus faecium [1352]
+	
+>UP000026983	Cronobacter [413496]
+	
+>UP000026985	Salmonella [590]
+	
+>UP000026986	Pseudomonas aeruginosa [287]
+ UP000008019	Pseudomonas [286]
+	
+>UP000026989	Staphylococcus aureus [1280]
+	
+>UP000026990	Listeria monocytogenes [1639]
+ UP000006275	Listeria [1637]
+ UP000014705	Listeria [1637]
+ UP000014707	Listeria [1637]
+ UP000026991	Listeria monocytogenes [1639]
+	
+>UP000026992	Listeria monocytogenes [1639]
+	
+>UP000026993	Listeria monocytogenes [1639]
+	
+>UP000026999	Homo sapiens [9606]
+	
+>UP000027000	Anabaena variabilis [1172]
+	
+>UP000027380	Staphylococcus [1279]
+	
+>UP000027381	Rhizobium [379]
+	
+>UP000027382	Bacillus [55087]
+ UP000015092	Bacillus [55087]
+ UP000015093	Bacillus [55087]
+	
+>UP000027383	Escherichia [561]
+ UP000027389	Escherichia [561]
+	
+>UP000027384	Bacillus [55087]
+	
+>UP000027393	Acinetobacter [469]
+ UP000009200	Acinetobacter [469]
+	
+>UP000027480	Klebsiella [570]
+	
+>UP000027481	Caulobacter [75]
+	
+>UP000027491	Mycobacterium [1763]
+	
+>UP000027492	Enterococcus faecium [1352]
+	
+>UP000027493	Ralstonia [48736]
+	
+>UP000027494	Vibrio [662]
+	
+>UP000027495	Vibrio [662]
+ UP000027482	Vibrio [662]
+	
+>UP000028461	Escherichia [561]
+ UP000028460	Escherichia [561]
+ UP000028462	Escherichia [561]
+ UP000028463	Escherichia [561]
+	
+>UP000028464	Xanthomonas [338]
+	
+>UP000028562	Staphylococcus aureus HIP07256 [1334189]
+	
+>UP000028564	Lactobacillus delbrueckii [1584]
+ UP000000290	Lactobacillus [1578]
+ UP000028563	Lactobacillus delbrueckii [1584]
+ UP000028565	Lactobacillus delbrueckii [1584]
+	
+>UP000028659	Mycobacterium [1763]
+	
+>UP000028662	Vibrio cholerae [666]
+	
+>UP000028663	Mycobacterium [1763]
+ UP000005664	Mycobacterium [1763]
+	
+>UP000028664	Bacillus [55087]
+	
+>UP000028665	Vibrio [662]
+	
+>UP000028666	Aeromonas [642]
+	
+>UP000028667	Aureococcus anophagefferens [44056]
+	
+>UP000028670	Ralstonia solanacearum [305]
+	
+>UP000028671	Sinorhizobium [28105]
+	
+>UP000028860	Acinetobacter baumannii [470]
+	
+>UP000028861	Acinetobacter baumannii [470]
+	
+>UP000028961	Escherichia [561]
+	
+>UP000029340	Mycobacterium [1763]
+	
+>UP000029342	Idiomarinaceae bacterium M2-2 [1510937]
+	
+>UP000029343	Sulfitobacter [60136]
+	
+>UP000029345	Mycobacterium [1763]
+	
+>UP000029348	Mycobacterium [1763]
+	
+>UP000029349	Salmonella [590]
+	
+>UP000029352	Mycobacterium [1763]
+	
+>UP000029353	Lelliottia sp. GL2 [1542666]
+	
+>UP000029354	Escherichia [561]
+	
+>UP000029355	Vibrio [662]
+	
+>UP000029357	Clostridium [1485]
+ UP000029365	Clostridium [1485]
+ UP000030734	Clostridium [1485]
+	
+>UP000029358	Mycobacterium [1763]
+	
+>UP000029361	Idiomarinaceae bacterium N2-2 [1510939]
+	
+>UP000029362	Escherichia coli [562]
+ UP000002374	Escherichia [561]
+	
+>UP000029364	Clostridium [1485]
+	
+>UP000029367	
+	
+>UP000029368	Shewanella sp. [50422]
+	
+>UP000029369	Shewanella sp. [50422]
+	
+>UP000029370	Shewanella sp. [50422]
+	
+>UP000029371	Shewanella sp. [50422]
+	
+>UP000029372	Shewanella sp. [50422]
+	
+>UP000029373	Flavobacterium sp. [239]
+	
+>UP000029460	
+	
+>UP000029461	Burkholderia [32008]
+	
+>UP000029680	Lactococcus [1357]
+	
+>UP000029682	Lactococcus [1357]
+ UP000029681	Lactococcus [1357]
+	
+>UP000029683	Ralstonia [48736]
+	
+>UP000029741	Ochlerotatus harrisoni[1043727]
+	
+>UP000029742	Homo sapiens (Human)[9606]; Pan troglodytes (Chimpanzee)[9598]
+	
+>UP000029743	Homo sapiens (Human)[9606]; Mus musculus (Mouse)[10090]
+	
+>UP000029744	Turdus pallidus (Pale thrush)[36282]
+	
+>UP000029745	Sus scrofa (Pig)[9823]
+	
+>UP000029746	Copsychus saularis (Oriental Magpie Robin)[343929]
+	
+>UP000029747	
+	
+>UP000029748	Miniopterus schreibersii (Schreibers's long-fingered bat)[9433]
+	
+>UP000029749	Meleagris gallopavo (Common turkey)[9103]
+	
+>UP000029750	Ovis aries (Sheep)[9940]
+	
+>UP000029751	Meleagris gallopavo (Common turkey)[9103]
+	
+>UP000029752	Canis familiaris (Dog) (Canis lupus familiaris)[9615]
+	
+>UP000029753	Homo sapiens (Human)[9606]
+	
+>UP000029754	Meleagris gallopavo (Common turkey)[9103]
+	
+>UP000029755	Pusa hispida (Ringed seal) (Phoca hispida)[9718]
+	
+>UP000029756	Vitis vinifera (Grape)[29760]
+	
+>UP000029757	Aotus trivirgatus (Three-striped night monkey) (Douroucouli)[9505]; Callithrix jacchus (White-tufted-ear marmoset)[9483]; Saguinus labiatus (Red-chested mustached tamarin)[78454]; Saguinus mystax (Moustached tamarin)[9488]; Saguinus nigricollis (Black-and-red tamarin)[9489]; Saguinus oedipus (Cotton-top tamarin)[9490]
+	
+>UP000029758	Furcraea[39538]
+	
+>UP000029760	Citrus volkameriana[171254]
+	
+>UP000029761	Fenneropenaeus chinensis (Fleshy prawn) (Penaeus chinensis)[139456]
+	
+>UP000029762	Penaeidae (penaeid shrimps)[6685]
+	
+>UP000029763	Gallus gallus (Chicken)[9031]
+	
+>UP000029764	Eidolon helvum (Straw-colored fruit bat)[77214]
+	
+>UP000029765	Ixodida (ticks)[6935]
+	
+>UP000029766	Galinsoga parviflora (Gallant soldier) (Tridax parviflora)[176602]
+	
+>UP000029767	Perca fluviatilis (European perch)[8168]
+	
+>UP000029768	Drosophila melanogaster [7227]
+	
+>UP000029769	Cyprinus carpio (Common carp)[7962]
+ UP000007541	Cyprinus carpio (Common carp)[7962]
+	
+>UP000029770	Culicoides brevitarsis[469753]
+	
+>UP000029771	Tupaia[9394]
+	
+>UP000029773	Beta vulgaris subsp. vulgaris[3555]
+	
+>UP000029774	Eragrostis curvula (weeping love grass)[38414]
+	
+>UP000029775	Brassica campestris (Field mustard)[3711]
+	
+>UP000029776	Miniopterus schreibersii (Schreibers's long-fingered bat)[9433]
+	
+>UP000029777	Haliotidae (abalones)[6451]
+	
+>UP000029779	Helicoverpa zea (Corn earworm moth) (Heliothis zea)[7113]
+	
+>UP000029780	Acanthamoeba[5754]
+	
+>UP000029781	Cafeteria roenbergensis (Marine flagellate)[33653]
+	
+>UP000029782	Solanum lycopersicum (Tomato) (Lycopersicon esculentum)[4081]
+	
+>UP000029880	Mycobacterium [1763]
+	
+>UP000029883	Mycobacterium [1763]
+	
+>UP000029885	Mycobacterium [1763]
+	
+>UP000029888	Enterococcus [1350]
+	
+>UP000029889	Escherichia [561]
+ UP000011158	Escherichia [561]
+	
+>UP000029890	Ruegeria pomeroyi DSS-3 [246200]
+	
+>UP000029891	Mycobacterium [1763]
+	
+>UP000029939	Escherichia [561]
+	
+>UP000029940	Rosellinia necatrix (White root-rot fungus)[77044]
+	
+>UP000030040	Delftia [80865]
+	
+>UP000030041	Synechococcus sp. CB0208 [255252]
+	
+>UP000030042	Synechococcus [1129]
+	
+>UP000030043	Synechococcus sp. CB0101 [232348]
+	
+>UP000030044	Synechococcus sp. CB0101 [232348]
+	
+>UP000030045	Synechococcus sp. CB0101 [232348]
+	
+>UP000030046	Streptococcus pyogenes[1314]
+	
+>UP000030047	Salmonella [590]
+ UP000009204	Salmonella sp. [599]
+ UP000013005	
+ UP000014675	Salmonella [590]
+ UP000014992	Salmonella enterica [28901]
+ UP000014993	Salmonella [590]
+ UP000014994	Salmonella [590]
+ UP000014995	Salmonella enterica [28901]
+	
+>UP000030048	Ralstonia [48736]
+	
+>UP000030156	
+	
+>UP000030157	Enterococcus [1350]
+	
+>UP000030158	Cronobacter [413496]
+	
+>UP000030200	Streptomyces [1883]
+	
+>UP000030201	Mycobacterium [1763]
+	
+>UP000030202	Acinetobacter [469]
+	
+>UP000030203	Citrobacter [544]
+	
+>UP000030204	Salmonella [590]
+	
+>UP000030205	Escherichia [561]
+	
+>UP000030206	Bacillus [55087]
+	
+>UP000030207	Bacillus [55087]
+	
+>UP000030208	Bacillus [55087]
+	
+>UP000030210	Mycobacterium [1763]
+	
+>UP000030218	Pseudomonas [286]
+ UP000030221	Pseudomonas [286]
+	
+>UP000030226	Pseudomonas [286]
+	
+>UP000030229	Pseudomonas [286]
+	
+>UP000030231	Pseudomonas [286]
+ UP000001234	Pseudomonas [286]
+ UP000001703	Pseudomonas aeruginosa PAK [1009714]
+ UP000008424	Pseudomonas aeruginosa PA1 [1279007]
+ UP000008741	Pseudomonas aeruginosa [287]
+ UP000018641	Pseudomonas aeruginosa PAK [1009714]
+ UP000018642	Pseudomonas aeruginosa PAK [1009714]
+ UP000030224	Pseudomonas [286]
+	
+>UP000030233	Bacillus [55087]
+ UP000030232	Bacillus [55087]
+	
+>UP000030322	Erwinia [551]
+	
+>UP000030323	Citrobacter [544]
+	
+>UP000030324	Escherichia [561]
+	
+>UP000030326	Pseudomonas [286]
+ UP000012169	Pseudomonas fluorescens [294]
+	
+>UP000030327	Streptococcus [1301]
+	
+>UP000030329	Flavobacterium [237]
+	
+>UP000030600	
+	
+>UP000030719	Vibrio [662]
+ UP000008906	Vibrio [662]
+ UP000030720	Vibrio [662]
+ UP000030721	Vibrio [662]
+ UP000030722	Vibrio [662]
+ UP000030723	Vibrio [662]
+ UP000030724	Vibrio [662]
+ UP000030725	Vibrio [662]
+	
+>UP000030731	Clostridium [1485]
+	
+>UP000030732	Clostridium [1485]
+	
+>UP000030733	Clostridium [1485]
+	
+>UP000030735	Clostridium [1485]
+	
+>UP000030736	Clostridium [1485]
+	
+>UP000030738	Lactobacillus [1578]
+	
+>UP000030739	
+	
+>UP000030740	Enterobacter [547]
+	
+>UP000030922	Lactobacillus [1578]
+	
+>UP000030924	Burkholderia [32008]
+ UP000030712	Burkholderia [32008]
+ UP000030925	Burkholderia [32008]
+	
+>UP000030927	
+	
+>UP000030928	Lactobacillus [1578]
+	
+>UP000031070	Salmonella [590]
+	
+>UP000031071	Arthrobacter [1663]
+	
+>UP000031075	Mycobacterium [1763]
+	
+>UP000031082	Clostridium [1485]
+ UP000031088	Clostridium [1485]
+	
+>UP000031083	Clostridium [1485]
+	
+>UP000031084	Clostridium [1485]
+	
+>UP000031085	Clostridium [1485]
+	
+>UP000031086	Clostridium [1485]
+ UP000031081	Clostridium [1485]
+	
+>UP000031087	Clostridium [1485]
+	
+>UP000031091	Proteus [210425]
+	
+>UP000031093	Bacillus [55087]
+	
+>UP000031717	Mycobacterium [1763]
+ UP000008419	Mycobacterium [1763]
+ UP000009002	Mycobacterium [1763]
+	
+>UP000031719	Pseudomonas [286]
+	
+>UP000031721	Listeria [1637]
+	
+>UP000031722	Listeria [1637]
+	
+>UP000031723	Mycobacterium [1763]
+	
+>UP000031724	Achromobacter [222]
+	
+>UP000031725	Paenibacillus [44249]
+ UP000032130	
+ UP000032132	
+ UP000032133	
+	
+>UP000031726	Achromobacter [222]
+	
+>UP000031727	Achromobacter [222]
+	
+>UP000031728	Streptococcus [1301]
+	
+>UP000031732	Paracoccus [249411]
+	
+>UP000031733	Streptococcus [1301]
+ UP000027387	Streptococcus pneumoniae[1313]
+	
+>UP000031803	Vibrio [662]
+	
+>UP000031804	Vibrio [662]
+	
+>UP000031807	Proteus [210425]
+	
+>UP000032129	
+	
+>UP000032134	
+ UP000032131	
+	
+>UP000032135	
+	
+>UP000032400	Klebsiella [570]
+	
+>UP000032402	Enterococcus [1350]
+	
+>UP000032403	Synechococcus [1129]
+	
+>UP000032687	Escherichia [561]
+ UP000032688	Escherichia [561]
+	
+>UP000032689	Staphylococcus [1279]
+	
+>UP000033001	Synechococcus [1129]
+	
+>UP000033002	Synechococcus [1129]
+	
+>UP000033003	Synechococcus [1129]
+	
+>UP000033004	Synechococcus [1129]
+ UP000018807	Synechococcus [1129]
+	
+>UP000033005	Synechococcus [1129]
+ UP000033009	Synechococcus [1129]
+	
+>UP000033006	Streptomyces [1883]
+ UP000033007	Streptomyces [1883]
+	
+>UP000033008	Synechococcus [1129]
+	
+>UP000033010	Synechococcus [1129]
+	
+>UP000033014	Bacillus [55087]
+ UP000033000	Bacillus [55087]
+	
+>UP000033016	Bacillus [55087]
+	
+>UP000033018	Gordonia [79255]
+	
+>UP000033019	Gordonia [79255]
+ UP000033017	Gordonia [79255]
+ UP000033020	Gordonia [79255]
+	
+>UP000033021	Rhodoferax [28065]
+	
+>UP000033022	Verrucomicrobia [74201]
+	
+>UP000033023	
+ UP000033024	
+ UP000033025	
+	
+>UP000033300	Staphylococcus [1279]
+	
+>UP000033301	Staphylococcus [1279]
+	
+>UP000033339	Fusobacterium [848]
+	
+>UP000033340	Enterococcus [1350]
+	
+>UP000033804	Sinorhizobium [28105]
+	
+>UP000033808	Escherichia [561]
+	
+>UP000033809	Staphylococcus [1279]
+	

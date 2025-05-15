@@ -1,0 +1,12 @@
+3702	ARATH	MO + QfO; Viridiplantae;	Y	Arabidopsis thaliana
+6239	CAEEL	MO + QfO; Nematoda;	Y	Caenorhabditis elegans
+9031	CHICK	QfO; Chordata;	Y	Gallus gallus
+7955	DANRE	MO + QfO; Chordata;	Y	Danio rerio
+44689	DICDI	MO + QfO; Amoebozoa;	Y	Dictyostelium discoideum
+7227	DROME	MO + QfO; Insecta;	Y	Drosophila melanogaster
+9606	HUMAN	MO + QfO; Chordata;	Y	Homo sapiens
+10090	MOUSE	MO + QfO; Chordata;	Y	Mus musculus
+10116	RAT	MO + QfO; Chordata;	Y	Rattus norvegicus
+284812	SCHPO	MO + QfO	Y	Schizosaccharomyces pombe (strain ATCC 38366 / 972)
+559292	YEAST	MO + QfO	Y	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+83333	ECOLI	MO + QfO	Y	Escherichia coli (strain K12) -> strain K12 / MG1655 / ATCC 47076

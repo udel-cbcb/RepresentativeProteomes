@@ -1,0 +1,178 @@
+	if(@ARGV != 3) {
+	print "Usage: perl computeCorrTableParallel.pl uniref50.dat totalJobs jobID\n";
+	exit 1;	
+}
+
+
+
+my $debug = 0;
+
+#A0A023J2U4	UP000026903	1414741	UniRef50_D3WAC2
+open(UNIREF, $ARGV[0]) or die "Can't open $ARGV[0]\n";
+while($line=<UNIREF>) {
+	chomp($line);
+	my ($ac, $up, $tax, $uniref) = (split(/\t/, $line))[0, 1, 2, 3];
+	if(!$proteome_uniref{$up."-".$tax}{$uniref}) {	
+		$proteome_uniref{$up."-".$tax}{$uniref} = $ac;	
+	}
+	else {
+		$proteome_uniref{$up."-".$tax}{$uniref} = ",".$ac;	
+	}
+	$proteomes{$up."-".$tax} = 1;
+}
+close(UNIREF);
+my $totalJobs = $ARGV[1];
+my $jobID = $ARGV[2];
+my $count = 0;
+my $jobCount = -1;
+my %corr = ();
+my %corrMin = ();
+
+my %sameProteomes = ();
+open(PC, "../data/proteome_changes.txt") or die "Can't open ../data/proteome_changes.txt\n";
+while($line=<PC>) {
+        chomp($line);
+        ($id, $status) = (split(/\t/, $line))[0, 1];
+        if($status =~ /same/) {
+                $sameProteomes{$id} = 1;
+        }
+}
+close(PC);
+
+#if( ! -d "../data/corr_data_inc/") {
+#	mkdir "../data/corr_data_inc/" ;
+#}
+open(LOG, ">../logs/inc_corr_parallel_".$jobID.".log") or die "Can't open ../logs/inc_corr_parallel_".$jobID.".log\n";
+open(DATA,  ">../data/corr_data_inc/corr_parallel_".$jobID.".txt") or die "Can't open ../data/corr_data_inc/corr_parallel_".$jobID.".txt\n";
+open(MIN,  ">../data/corr_data_inc/min_corr_parallel_".$jobID.".txt") or die "Can't open ../data/corr_data_inc/min_corr_parallel_".$jobID.".txt\n";
+
+local $start = time;
+my $date = `date`;
+print LOG "Start at ".$date;
+my $data = "";
+my $dataMin = "";
+
+for $p1 (sort keys %proteomes) {
+	$jobCount++;
+	if(($jobCount % $totalJobs)+1 == $jobID) {
+		$count++;
+		if($count % 10 == 0) {
+			my $sysdate = `date`;
+			chomp($sysdate);
+			print DATA $data;
+			$data = "";
+			print MIN $dataMin;
+			$dataMin = "";
+			print LOG $sysdate." ".$count." processed\n";
+		}
+		for $p2 (sort keys %proteomes) {
+		  if(!($sameProteomes{$p1} && $sameProteomes{$p2})) {
+			if($p1 eq $p2) {
+				#$corr{$p1."\t".$p2} = 100;
+				#$corr{$p2."\t".$p1} = 100;
+				#$corrMin{$p1."\t".$p2} = 100;
+				#$corrMin{$p2."\t".$p1} = 100;
+				if($debug) {
+					print LOG $p1."\t".$p2."\t\t\t\t100\n";
+					print LOG $p2."\t".$p1."\t\t\t\t100\n";
+					print LOG "Min\t".$p1."\t".$p2."\t\t\t\t100\n";
+					print LOG "Min\t".$p2."\t".$p1."\t\t\t\t100\n";
+				}
+				$data .= $p1."\t".$p2."\t100\n";
+				#print DATA $p2."\t".$p1."\t100\n";
+				$dataMin .= $p1."\t".$p2."\t100\n";
+				#print MIN $p2."\t".$p1."\t100\n";
+			}
+			else {
+				my %rpg = ();
+				my %used_uniref = ();
+				$rpg{$p1} = 1;
+				$rpg{$p2} = 1;
+                        	my $used_uniref_ref = get_used_uniref(%rpg);
+				my %used_uniref = %$used_uniref_ref;			
+				#print keys(%used_uniref)."\n";
+				my $ASum = 0;
+                        	my $BSum = 0;
+                        	my $ABSum = 0;
+				my $minx = 0;
+				my $miny = 0;
+				for my $uniref (keys %used_uniref) {
+					if($proteome_uniref{$p1}{$uniref}) {
+						$ASum++;
+					}
+					if($proteome_uniref{$p2}{$uniref}) {
+						$BSum++;
+					}
+					if($proteome_uniref{$p1}{$uniref} && $proteome_uniref{$p2}{$uniref}) {
+						$ABSum++;
+					}
+				}
+				$min12 = 0;
+				$min21 = 0;
+				if($ASum < $BSum) {
+                               		#$minx = sprintf("%.3f", 100.0*$ABSum / $ASum);
+                                	#$miny = sprintf("%.3f", 100.0*$ABSum / $BSum);
+                               		$minx = 100.0*$ABSum / $ASum;
+                                	$miny = 100.0*$ABSum / $BSum;
+					#$corrMin{$p1."\t".$p2} = $minx;
+					#$corrMin{$p2."\t".$p1} = $miny;
+					$min12 = $minx;
+					$min21 = $miny;
+				}
+				else {
+                              		#$minx = sprintf("%.3f", 100.0*$ABSum / $BSum);
+                                	#$miny = sprintf("%.3f", 100.0*$ABSum / $ASum);
+                              		$minx = 100.0*$ABSum / $BSum;
+                                	$miny = 100.0*$ABSum / $ASum;
+					#$corrMin{$p1."\t".$p2} = $miny;
+					#$corrMin{$p2."\t".$p1} = $minx;
+					$min12 = $miny;
+					$min21 = $minx;
+				}
+				#my $x = sprintf("%.3f", (200.0*$ABSum)/($ASum+$BSum));
+				my $x = (200.0*$ABSum)/($ASum+$BSum);
+				#$corr{$p1."\t".$p2} = $x;
+				#$corr{$p2."\t".$p1} = $x;
+				if($debug) {
+					print LOG $p1."\t".$p2."\t".$ASum."\t".$BSum."\t".$ABSum."\t".$x."\n";
+					print LOG $p2."\t".$p1."\t".$ASum."\t".$BSum."\t".$ABSum."\t".$x."\n";
+					print LOG "Min\t".$p1."\t".$p2."\t".$ASum."\t".$BSum."\t".$ABSum."\t".$corrMin{$p1."\t".$p2}."\n";
+					print LOG "Min\t".$p2."\t".$p1."\t".$ASum."\t".$BSum."\t".$ABSum."\t".$corrMin{$p2."\t".$p1}."\n";
+				}
+				$data .= $p1."\t".$p2."\t".$x."\n";
+				#$data .= $p2."\t".$p1."\t".$x."\n";
+				$dataMin .= $p1."\t".$p2."\t".$min12."\n";
+				#$dataMin .= $p2."\t".$p1."\t".$min21."\n";
+			   }
+		}
+	    }			
+	}
+}
+print DATA $data;
+$data = "";
+print MIN $dataMin;
+$dataMin = "";
+close(DATA);
+close(MIN);
+
+print LOG "Total Job: ".$jobCount."\n";
+$date = `date`;
+print LOG "End at ".$date;
+$end = time - $start;
+# Print runtime #
+print LOG "\nRuning time(seconds): ".$end."\n";
+printf LOG ("\n\nTotal running time: %02d:%02d:%02d\n\n", int($end / 3600), int(($end % 3600) / 60), int($end % 60));
+
+close(LOG);
+sub get_used_uniref {
+	my %my_rpg = @_;
+	my %my_used_uniref = ();
+	for my $up (keys %my_rpg) {
+		$proteome_uniref_hashRef = $proteome_uniref{$up};
+		%proteome_uniref_hash = %$proteome_uniref_hashRef;
+		for my $uniref (keys %proteome_uniref_hash) {
+			$my_used_uniref{$uniref} = 1;
+		}
+	}
+	return \%my_used_uniref;
+}

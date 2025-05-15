@@ -1,0 +1,4 @@
+getCorrTablesFromDataByPerl.sh: line 1: 99192 Terminated              nohup perl getCorrTableFromData.pl ../data/corr_data ../data/corrTable.txt ../logs/getCorrTableFromData.log
+getCorrTablesFromDataByPerl.sh: line 1: 16472 Terminated              nohup perl getCorrTableFromData.pl ../data/corr_data ../data/corrTable.txt ../logs/getCorrTableFromData.log
+getCorrTablesFromDataByPerl.sh: line 2: 19764 Terminated              nohup perl getCorrTableMinFromData.pl ../data/corr_data ../data/corrTableMin.txt ../logs/getCorrTableMinFromData.log
+sh: runs.sh: No such file or directory

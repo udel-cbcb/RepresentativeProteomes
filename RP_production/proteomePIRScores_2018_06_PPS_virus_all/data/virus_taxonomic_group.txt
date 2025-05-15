@@ -1,0 +1,9 @@
+Deltavirus	39759
+dsDNA viruses, no RNA stage	35237
+dsRNA viruses	35325
+environmental samples	186616
+Retro-transcribing viruses	35268
+Satellites	12877
+ssDNA viruses	29258
+ssRNA viruses	439488
+Other viruses	10239	

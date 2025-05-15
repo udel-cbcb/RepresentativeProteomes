@@ -1,0 +1,33 @@
+$virusGroup = "../data/virus_group.txt";
+my %vgName = ();
+open(VG, $virusGroup) or die "Can't open $virusGroup\n";
+while($line=<VG>) {
+	chomp($line);
+	($virusGroupName, $virusLineage, $taxId) = (split(/\t/, $line))[0, 1, 2];
+	#$vg{$taxId} = $virusGroupName;
+	$vgName{$virusLineage} = $virusGroupName."\t".$taxId; 
+}
+close(VG);
+$virusCP = "../data/up-taxonomy-complete_yes.tab";
+open(VCP, $virusCP) or die "Can't open $virusCP\n";
+while($line=<VCP>) {
+	chomp($line);
+	if($line !~ /^UPID/) {
+		($upId, $taxId, $lineage) = (split(/\t/, $line))[0, 1, 9];
+		($group) = (split(/\; /, $lineage))[1];
+		($group2) = (split(/\; /, $lineage))[2];
+		$group=$group2 if($group=~/^\s*ssRNA\s+viruses\s*$/);
+		print $upId."\t".$taxId."\t".$vgName{$group}."\t".$lineage."\n";		
+	}	
+}
+close(VCP);
+sub findVirusGroup {
+	my ($orgVirusGroup) = @_;	
+	for $group (keys %vgName) {
+		#print $group."\t".$orgVirusGroup."\n";
+		if($group =~ $orgVirusGroup) {
+			return $vgName{$group}."\t".$group;
+		}
+	}
+	return "all other viruses\t10239";
+}

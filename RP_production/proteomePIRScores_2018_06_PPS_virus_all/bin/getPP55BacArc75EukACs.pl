@@ -1,0 +1,55 @@
+if(@ARGV != 2) {
+	print "Usage: perl getPP55BacArc75EukACs.pl pp55file pp75file\n";
+	exit 1;
+}
+
+#>Pan-Proteome_UP000000212	1234679	CARML	Carnobacterium maltaromaticum LMA28	Bac/Firmicute	37111.04667(PPS:1,1,1,0,0,3252)	55(CUTOFF)	RefP
+# #UP000000212	1234679	3252
+#  K8E169	UP000000212	1234679	UniRef50_K8E169
+
+open(PP55, $ARGV[0]) or die "Can't open $ARGV[0]\n";
+while($line=<PP55>) {
+	chomp($line);
+	if($line =~ /^>/) {
+		($ppId, $taxGroup, $cutoff) = (split(/\t/, $line))[0, 4, 6];
+		if($taxGroup =~ /^Bac/ || $taxGroup =~ /^Arch/ || $taxGroup =~ /^Other Archaea/ || $taxGroup =~ /^Other Bacteria/)
+		{
+			$ppId =~ s/^>Pan-Proteome_//;
+		}
+		else {
+			$ppId = "";
+		}
+	}
+	elsif($line =~ /^$/) {
+		$ppId = "";
+	}
+	elsif($line !~ /^ #/ && $ppId) {
+		$line =~ s/^\s+//;		
+		$line =~ s/\s+$//;	
+		print $ppId."\t".$cutoff."\t".$taxGroup."\t".$line."\n";	
+	}	
+}
+close(PP55);
+
+open(PP75, $ARGV[1]) or die "Can't open $ARGV[1]\n";
+while($line=<PP75>) {
+	chomp($line);
+	if($line =~ /^>/) {
+		($ppId, $taxGroup, $cutoff) = (split(/\t/, $line))[0, 4, 6];
+		if($taxGroup =~ /^Euk/ || $taxGroup =~ /^Other Eukaryota/) {
+			$ppId =~ s/^>Pan-Proteome_//;
+		}
+		else {
+			$ppId = "";
+		}
+	}
+	elsif($line =~ /^$/) {
+		$ppId = "";
+	}
+	elsif($line !~ /^ #/ && $ppId) {
+		$line =~ s/^\s+//;		
+		$line =~ s/\s+$//;	
+		print $ppId."\t".$cutoff."\t".$taxGroup."\t".$line."\n";	
+	}
+}
+close(PP75)	

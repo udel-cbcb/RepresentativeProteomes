@@ -1,0 +1,166 @@
+#!/usr/bin/perl
+#perl dedupe_upid_bytaxon.pl ../data/score/proteomeScores.txt ../data/runningRP95.txt ../data/runningProteomesScoreHash95.txt
+
+#preserve backup_files
+$retval=`date +%s`; chomp($retval);
+`cp $ARGV[1] $ARGV[1].backup_$retval`;
+`cp $ARGV[2] $ARGV[2].backup_$retval`;
+#readin source file
+my $file_to_open;
+$file_to_open=$ARGV[0];
+open(PSCORE, "<", $file_to_open) or die "Can't open $file_to_open\n";
+$file_to_open=$ARGV[1];
+open(SRC1, "<", $file_to_open) or die "Can't open $file_to_open\n";
+$file_to_open=$ARGV[2];
+open(SRC2, "<", $file_to_open) or die "Can't open $file_to_open\n";
+#write to output file
+$file_to_open="$ARGV[1].fixed";
+open(DST1, ">", $file_to_open) or die "Can't write $file_to_open\n";
+$file_to_open="$ARGV[2].fixed";
+open(DST2, ">", $file_to_open) or die "Can't write $file_to_open\n";
+$file_to_open="../data/dedupe_info.txt";
+open(INFO, ">", $file_to_open) or die "Can't write $file_to_open\n";
+
+my $upid="";
+my $taxid="";
+my $tmpstr="";
+my @tmparr=();
+my %tax2list=();
+my %taxonlist=();
+
+#-------------------------------------------
+print "Filtering proteome score ...\n";
+#UP000000204     1221877 0       0       0       19111.0089126749        956     19.9905950969402
+my $tnum=0;
+my $prp=0;
+my $bestnum=0;
+my %taxon2bestup=();
+my %hashdupe=(); 
+$cnt=0;
+#$line=<PSCORE>; #print $line; #remove header
+while($line=<PSCORE>){	chomp($line);
+	if($line=~/^(UP00[0-9]+)\s+/){ $cnt++;
+		$upid=$1; #next if (!defined  $upid2tax{$upid});
+		@tmparr=split("\t",$line);	$taxon=$tmparr[1];
+		#next if (!defined  $tax2upid{$taxon});
+		$tnum=$tmparr[6];$prp=0;$prp=1 if($tmparr[9]=~/PrevRP/);
+		my $tmpscore=$prp*10000000+$tnum;
+		$upid2score{$upid}=$tmpscore;
+		$upid2taxon{$upid}=$taxon;
+		#print "$upid|$taxon|\$tmpscore=$prp*10000000+$tnum;$tmpscore\n";
+	}
+}
+
+print "$cnt upids had scores\n";
+
+#-------------------------------------------
+print "pre-read 95 score txt (for compare) ...\n";
+#UP000008520-420890      UP000008520-420890;
+$cnt=0;
+while($line=<SRC1>){	chomp($line);
+	#if($line=~/^(UP00[0-9]+)\-([0-9]+)\s+/){
+		#$upid=$1; $taxid=$2;
+	if($line=~/^(UP00[0-9]+)\-([0-9]+)\s+(.*)$/){
+		$upid=$1; $taxid=$2; $members=$3; $upid2mems{$upid}=$members;
+		if(defined $upid2taxon{$upid} && $upid2taxon{$upid} eq $taxid){ #good entry
+			#print "checking \$upid=$1; \$taxid=$2;\n";
+			if(!defined $tax2best{$taxid}){
+				$tax2best{$taxid}="$upid";
+				$tax2removal{$taxid}="";
+			}else{ #replace best, add dupe list
+				$oldupid=$tax2best{$taxid};
+				$oldscore=$upid2score{$oldupid};
+				$newscore=$upid2score{$upid};
+				#print "dupe $taxid with \$upid=$upid|$newscore; \$oldupid=$oldupid|$oldscore\n";
+				#print "removal=$tax2removal{$taxid}\n";
+				if($oldscore>=$newscore){ #preserve, new upid go to trash
+					$tax2removal{$taxid}.=";$upid";
+				}else{ #replace, old upid go trash
+					$tax2best{$taxid}="$upid";
+					$tax2removal{$taxid}.=";$oldupid";
+				}
+				#print "removal=$tax2removal{$taxid}\n";
+			}
+		}else{ #sth wrong:
+			print "ERROR:Entry $upid mismatch with taxon; $upid2taxon{$upid}|$taxid\n";
+			$cnt++;
+		}
+	}
+}
+print "$cnt Errors of taxon mismatch\n";
+
+my $cnt=0; my $cnt1=0;
+my %upid2tax=(); 
+while(my ($tax,$removal) = each %tax2removal){
+	next if $removal eq "";
+	$removal=~s/^;//;
+	@tmparr=split(";",$removal);
+	$num=$#tmparr+2;
+	print INFO "$num\t$tax\t$tax2best{$tax}\t$removal\n";
+	$tmpkey=$tax2best{$tax}; 
+	$tax2upid{$tax}=$tmpkey; #record for this tax should check
+	print "\n$num\t$tax\t$tmpkey\t$upid2score{$tmpkey}\n";
+	$toaddback_removal="";
+	foreach my $tmpkey (@tmparr){ #record upid to delete
+		$hashdupe{$tmpkey}=$tax; $cnt1++;
+		print "\t$tmpkey\t$upid2score{$tmpkey}\n";
+		$toaddback_removal.=";$upid2mems{$tmpkey}";
+	}
+	$cnt++;
+	#added to add back
+	$tmpkey=$tax2best{$tax}; 
+	if(!defined $best2resume{$tmpkey}){ #correct case
+		$best2resume{$tmpkey}=$toaddback_removal;
+	}else{
+		print "ERROR: multiple removal for TAX=$tax, BEST=$tmpkey, $best2resume{$tmpkey}=>$removal\n";
+	}
+}
+# finished hashing
+print "$cnt taxons checked with duplications\n\n";
+print "$cnt1 entries removed\n";
+
+$file_to_open=$ARGV[1];
+close $file_to_open; # reopen for process
+open(SRC1, "<", $file_to_open) or die "Can't open $file_to_open\n";
+
+#-------------------------------------------
+print "processing 95 score txt ...\n";
+#UP000008520-420890      UP000008520-420890;
+$cnt=0; $cntabk=0;
+
+while($line=<SRC1>){	chomp($line);
+	if($line=~/^(UP00[0-9]+)\-([0-9]+)\s+/){
+		$upid=$1; $taxon=$2;
+		if(defined $hashdupe{$upid} && $hashdupe{$upid} eq $taxon){
+			print "Removed:|$line\n"; $cnt++;
+		}else{
+			if(defined $best2resume{$upid}){ $cntabk++;
+				$removal=$best2resume{$upid};
+				$removal=~s/^;//; $removal=~s/;;/;/g; 
+				print "ADDING BACK: $upid-$taxon|$removal\n";
+				print DST1 "$line$removal\n"; 
+			}else{
+				print DST1 "$line\n";
+			}
+		}
+	}
+}	
+print "$cnt entries removed\n";
+print "added back to $cntabk taxons\n";
+
+#-------------------------------------------
+print "processing 95 hashing score txt ...\n";
+#11105780955780.UP000007477-871585       UP000007477-871585
+$cnt=0;
+
+while($line=<SRC2>){	chomp($line);
+	if($line=~/^[0-9]+\.(UP00[0-9]+)\-([0-9]+)\s+/){
+		$upid=$1; $taxon=$2;
+		if(defined $hashdupe{$upid} && $hashdupe{$upid} eq $taxon){
+			print "Removed:|$line\n"; $cnt++;
+		}else{
+			print DST2 "$line\n";
+		}
+	}
+}	
+print "$cnt entries removed\n";

@@ -1,0 +1,54 @@
+#!/usr/bin/perl
+
+my %proteomeUniRefHash =(); 
+my %proteomeHash =(); 
+my %unirefHash = ();
+open(UNIREF, "<", "../data/uniref50.dat") or die "Can't open ../data/uniref50.dat";
+#open(UNIREF, "<", "t") or die "Can't open ../data/uniref50.dat";
+print "Reading uniRef50 ...\n";
+while($line =<UNIREF>) {
+	chomp($line);
+	@rec = split(/\t/, $line);
+	$ac = $rec[0];
+	$proteomeId = $rec[1]."-".$rec[2];
+	$uniRefAc = $rec[3];
+	$proteomeUniRefHash{$proteomeId}{$uniRefAc} = 1;		
+	$proteomeHash{$proteomeId} = 1;
+	$unirefHash{$uniRefAc} = 1;
+	$count++;
+	if($count % 1000000 eq 0) {
+		$date = `date`;
+		print $date;
+		print "UniRef50 read ".$count." .. done\n";
+	}	
+}
+close(UNIREF);
+print "Reading uniRef50 ... done\n";
+
+for $pid1 (sort keys %proteomeHash) {
+	for $pid2 (sort keys %proteomeHash) {
+		my %common = ();
+		for $uniref (keys %unirefHash) {
+			if($proteomeUniRefHash{$pid1}{$uniref} && $proteomeUniRefHash{$pid2}{$uniref}) {
+				#print "$pid1 $pid2 $uniref\n";
+				$common{$pid1."\t".$pid2} +=1;
+			}
+		}
+		if($common{$pid1."\t".$pid2}) {
+			print $pid1."\t".$pid2."\t".$common{$pid1."\t".$pid2}."\n";
+			print $pid2."\t".$pid1."\t".$common{$pid1."\t".$pid2}."\n";
+		}
+		else {
+			print $pid1."\t".$pid2."\t0\n";
+			print $pid2."\t".$pid1."\t0\n";
+		}
+	}
+}
+
+#open(PAIR, ">", "../data/corrTable.txt") or die "Can't open ../data/corrTable.txt\n";
+#for $pidPair (sort keys %common) {
+#	print $pidPair."\t". $common{$pidPair}."\n";
+#}
+#close(PAIR);
+
+
