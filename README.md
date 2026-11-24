@@ -9,3 +9,6 @@ This project is the source code for generateing representative proteome groups.
 Chen C, Natale DA, Finn RD, Huang H, Zhang J, Wu CH, Mazumder R.
 [Representative proteomes: a stable, scalable and unbiased proteome set for sequence analysis and functional annotation](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0018910).
 PLoS One. 2011 Apr 27;6(4):e18910. PubMed PMID: 21556138; PubMed Central PMCID: PMC3083393.
+
+## License
+License: to be assigned (MIT intended)
